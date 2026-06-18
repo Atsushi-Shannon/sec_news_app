@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crypto-research-radar"
+version = "0.1.0"
+description = "Collect and rank cryptography/security research updates for Notion and Slack."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Crypto Research Radar Maintainers" }]
+dependencies = [
+  "feedparser>=6.0.11",
+  "httpx>=0.27.0",
+  "pydantic>=2.7.0",
+  "PyYAML>=6.0.1",
+  "python-dotenv>=1.0.1",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.2.0",
+  "ruff>=0.5.0",
+]
+
+[project.scripts]
+crypto-radar = "crypto_radar.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+ignore = ["E501"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"

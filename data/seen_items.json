@@ -1,0 +1,225 @@
+{
+  "items": {
+    "0021b4abfff17fd0d5ae721fdf3131660c7ea5338be7729c7e096a8b469edcc6": {
+      "processed_at": "2026-06-18T06:50:34.963821Z",
+      "published_at": "2026-06-14T04:12:06Z",
+      "score": -3,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps",
+      "url": "https://eprint.iacr.org/2026/1253"
+    },
+    "0aa944920c8bcf486569db7e027dcba185c51f2fe96e3b9a531aad35c279a737": {
+      "processed_at": "2026-06-18T06:49:37.697846Z",
+      "published_at": "2025-02-28T11:39:34Z",
+      "score": 19,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "$\\mathsf{♯Pencil}$: A Domain-Extended Committing BBB PRF for Strengthening GCM",
+      "url": "https://eprint.iacr.org/2025/383"
+    },
+    "11c2a9391cd84f0f8aed8e587006516ebe6f1d9052f2996904c0d7895398ed1d": {
+      "processed_at": "2026-06-18T06:50:34.963728Z",
+      "published_at": "2026-06-02T21:41:52Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Pushing the boundaries of group-based aggregation with zero-evading generators of low additive complexity",
+      "url": "https://eprint.iacr.org/2026/1148"
+    },
+    "17e52654f65c38b3b3ce436379cd696bec6a93cf50a7ac4f19cfab5a5abd514e": {
+      "processed_at": "2026-06-18T06:50:34.963709Z",
+      "published_at": "2026-05-06T20:19:13Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Cryptanalysis of Definite and Indefinite Lattice Isomorphism Problems With Applications to DEFI",
+      "url": "https://eprint.iacr.org/2026/890"
+    },
+    "345205ab17644739adef0f5423900a7fdb6daedfd4faab5ae47a4c117c2ec018": {
+      "processed_at": "2026-06-18T06:50:34.963462Z",
+      "published_at": "2025-10-09T12:43:04Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Blind Signatures from Arguments of Inequality",
+      "url": "https://eprint.iacr.org/2025/1886"
+    },
+    "3b8ccd9842140a6d995a2c494fb960208b2c2bf423af6e6b3820b7600243a1b3": {
+      "processed_at": "2026-06-18T06:49:37.697821Z",
+      "published_at": "2026-05-11T06:53:33Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Private Function Evaluation with Linear Complexity",
+      "url": "https://eprint.iacr.org/2026/926"
+    },
+    "488470004dcf9f935b7a2385f69aacceb14d8109dafcafae4ddae39bee86fc5c": {
+      "processed_at": "2026-06-18T06:50:34.963558Z",
+      "published_at": "2025-11-10T02:24:07Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Shorter Hash-Based Signatures Using Forced Pruning",
+      "url": "https://eprint.iacr.org/2025/2069"
+    },
+    "5208b863430b07d3661ac84762c36190277be449792cc07a9b1cd00d954ef4ba": {
+      "processed_at": "2026-06-18T06:50:34.963747Z",
+      "published_at": "2026-03-19T11:02:44Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "HARE: Compact HQC via Distance-Informed Erasure Decoding",
+      "url": "https://eprint.iacr.org/2026/544"
+    },
+    "5d72e78edfd13cba6f38dfe497284481e837d42e7d12648290bfc7beb66ec4da": {
+      "processed_at": "2026-06-18T06:50:34.963802Z",
+      "published_at": "2025-12-22T06:37:40Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Gravity of the Situation: Security Analysis on Rocket.Chat E2EE",
+      "url": "https://eprint.iacr.org/2025/2300"
+    },
+    "71b4745af11fe4625817609171291b0e9c3dbd73d3789e9d73facd3ee2fc79bc": {
+      "processed_at": "2026-06-18T06:49:37.697763Z",
+      "published_at": "2025-04-27T16:29:08Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Linear-Time Accumulation Schemes",
+      "url": "https://eprint.iacr.org/2025/753"
+    },
+    "79a84172c94855ea452805a599b6db1ad24ce18f9093cc73cd60b638957695c1": {
+      "processed_at": "2026-06-18T06:50:34.963783Z",
+      "published_at": "2026-04-23T04:57:40Z",
+      "score": 28,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "EQuADiSE: Efficient Quantum-safe Adaptive Distributed Symmetric-key Encryption",
+      "url": "https://eprint.iacr.org/2026/799"
+    },
+    "91b403cace7c2fd576f3373e32f7100769966dc4ca824efa88cc746c073fff7e": {
+      "processed_at": "2026-06-18T06:50:34.963611Z",
+      "published_at": "2026-04-16T12:22:18Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "MCU: An Efficient and Scalable Nonlinear Function Evaluation in MPC without Preprocessing",
+      "url": "https://eprint.iacr.org/2026/750"
+    },
+    "95b451101e8a9a7b92b812457fafcdaf2bb75d1bb5e7309e49abfc743bfdbb9b": {
+      "processed_at": "2026-06-18T06:50:34.963691Z",
+      "published_at": "2023-11-18T06:41:39Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Non-Interactive Distributed Key Management with Pre-Determined Shares",
+      "url": "https://eprint.iacr.org/2023/1785"
+    },
+    "9c8453b6d0055399002aec0c6a5031b7c0ee9c7b26d748e408d8340a97d805de": {
+      "processed_at": "2026-06-18T06:49:37.697866Z",
+      "published_at": "2025-02-15T02:52:48Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Diamond iO: Indistinguishability Obfuscation at Near Functional-Encryption Cost via Matrix Products",
+      "url": "https://eprint.iacr.org/2025/236"
+    },
+    "9cbd65d8c5e651353931efd1a44d5dc31347f3a5c04cd366c2c7c8515aef4f4e": {
+      "processed_at": "2026-06-18T06:49:37.697884Z",
+      "published_at": "2025-02-20T21:01:14Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Unified Treatment of Anamorphic Encryption",
+      "url": "https://eprint.iacr.org/2025/309"
+    },
+    "a337e37282c7d23efc9179cf584bd412ac327b4c92e0c24ee28c52dc420a2876": {
+      "processed_at": "2026-06-18T06:50:34.963672Z",
+      "published_at": "2026-02-17T09:09:07Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "How (not) to Switch FHE Schemes: Framework and Attacks in the IND-CPA-D Model",
+      "url": "https://eprint.iacr.org/2026/285"
+    },
+    "a858a350789515895b684823ebde140d6073799b4e08fefd7e08a55141a7b66f": {
+      "processed_at": "2026-06-18T06:50:34.963652Z",
+      "published_at": "2026-03-19T21:02:29Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Solving the Linear Code Equivalence Problem from Single Codeword Matching",
+      "url": "https://eprint.iacr.org/2026/550"
+    },
+    "bc8b3bc72ee87f80f9e27f47595a0d0a91f9e8020df4027dd015697dfa2a085c": {
+      "processed_at": "2026-06-18T06:39:47.413274Z",
+      "published_at": "2026-06-05T11:07:55Z",
+      "score": 7,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability",
+      "url": "https://arxiv.org/abs/2606.07150v3"
+    },
+    "c5e61e1f2df2de7ccab9122cea50ae76d9956e4441dadb8d62ee82195936f9b9": {
+      "processed_at": "2026-06-18T06:50:34.963765Z",
+      "published_at": "2026-06-14T07:46:01Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Top Gun: Degree Annihilation Attacks on Poseidon",
+      "url": "https://eprint.iacr.org/2026/1254"
+    },
+    "dace0c2de4ac763c1e1cbfa7115f14736fc3a1c00b2ebf1f58439032d71a22d8": {
+      "processed_at": "2026-06-18T06:50:34.963589Z",
+      "published_at": "2025-08-08T03:25:23Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Shuffling is Universal: Statistical Additive Randomized Encodings for All Functions",
+      "url": "https://eprint.iacr.org/2025/1442"
+    },
+    "f0a36437ed0e8c499b09d9c589e3d3ed02d43e31cd83e5a2497c676aa5ef3bb1": {
+      "processed_at": "2026-06-18T06:39:47.413302Z",
+      "published_at": "2026-06-17T16:12:50Z",
+      "score": 7,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "CodeSentinel: A Three-Layer Defense Against Indirect Prompt Injection in Code Contexts",
+      "url": "https://arxiv.org/abs/2606.19235v1"
+    },
+    "fb56c3b1075b069bc2370abce2c48d990b890f6f6974a3e7f0ddcf80ed3095f1": {
+      "processed_at": "2026-06-18T06:50:34.963633Z",
+      "published_at": "2025-11-07T05:38:53Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Distributed Key Generation for Efficient Threshold-CKKS",
+      "url": "https://eprint.iacr.org/2025/2057"
+    }
+  },
+  "version": 1
+}

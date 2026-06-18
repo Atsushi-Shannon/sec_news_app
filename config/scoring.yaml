@@ -1,0 +1,35 @@
+thresholds:
+  notion: 5
+  slack: 10
+
+bonuses:
+  keyword_in_title_multiplier: 2
+  multiple_category_bonus:
+    min_categories: 2
+    score: 2
+  recent_publication_bonus:
+    within_hours: 48
+    score: 1
+
+limits:
+  max_items_per_run: 100
+  max_notion_items_per_run: 30
+  max_slack_notifications_per_run: 5
+
+notion:
+  api_version_default: "2022-06-28"
+  properties:
+    name: Name
+    url: URL
+    published: Published
+    source: Source
+    content_type: Content Type
+    research_area: Research Area
+    score: Score
+    status: Status
+    status_property_type: status
+    summary: Summary
+    relevance: Relevance
+    added_at: Added At
+    slack_notified: Slack Notified
+    fingerprint: Fingerprint

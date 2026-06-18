@@ -1,0 +1,103 @@
+sources:
+  - id: iacr-eprint
+    name: IACR ePrint
+    type: rss
+    content_type: Paper
+    url: "https://eprint.iacr.org/rss/rss.xml"
+    enabled: true
+    base_score: 5
+    max_results: 50
+    default_categories: []
+
+  - id: arxiv-crypto
+    name: arXiv Cryptography
+    type: arxiv
+    content_type: Paper
+    url: "https://export.arxiv.org/api/query"
+    enabled: true
+    base_score: 4
+    query: >
+      all:"cryptography"
+      OR all:"block cipher"
+      OR all:"authenticated encryption"
+      OR all:"post-quantum cryptography"
+      OR all:"side-channel"
+    max_results: 50
+    default_categories: []
+
+  - id: nist-csrc-news
+    name: NIST Cybersecurity Updates
+    type: rss
+    content_type: Standard
+    url: "https://www.nist.gov/news-events/cybersecurity/rss.xml"
+    enabled: true
+    base_score: 3
+    max_results: 30
+    default_categories:
+      - Standardization
+
+  - id: jpcert-cc
+    name: JPCERT/CC
+    type: rss
+    content_type: Advisory
+    url: "https://www.jpcert.or.jp/rss/jpcert.rdf"
+    enabled: true
+    base_score: 2
+    max_results: 30
+    default_categories:
+      - Vulnerability
+
+  - id: google-security-blog
+    name: Google Security Blog
+    type: rss
+    content_type: Blog
+    url: "https://security.googleblog.com/feeds/posts/default?alt=rss"
+    enabled: true
+    base_score: 2
+    max_results: 30
+    default_categories:
+      - General Security
+
+  - id: cloudflare-blog
+    name: Cloudflare Blog
+    type: rss
+    content_type: Blog
+    url: "https://blog.cloudflare.com/rss/"
+    enabled: true
+    base_score: 2
+    max_results: 30
+    default_categories:
+      - General Security
+
+  - id: microsoft-security-blog
+    name: Microsoft Security Blog
+    type: rss
+    content_type: Blog
+    url: "https://www.microsoft.com/en-us/security/blog/feed/"
+    enabled: true
+    base_score: 2
+    max_results: 30
+    default_categories:
+      - General Security
+
+  - id: trail-of-bits-blog
+    name: Trail of Bits Blog
+    type: rss
+    content_type: Blog
+    url: "https://blog.trailofbits.com/feed/"
+    enabled: true
+    base_score: 3
+    max_results: 30
+    default_categories:
+      - Implementation
+
+  - id: cisa-advisories
+    name: CISA Cybersecurity Advisories
+    type: rss
+    content_type: Advisory
+    url: "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+    enabled: false
+    base_score: 2
+    max_results: 30
+    default_categories:
+      - Vulnerability

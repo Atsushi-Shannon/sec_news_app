@@ -1,0 +1,171 @@
+categories:
+  Symmetric-Key:
+    weight: 5
+    keywords:
+      - symmetric-key
+      - symmetric key
+      - symmetric cryptography
+      - 共通鍵暗号
+      - 共通鍵
+
+  Block Cipher:
+    weight: 5
+    keywords:
+      - block cipher
+      - ブロック暗号
+      - AES
+      - SPN
+      - Feistel
+
+  Lightweight Crypto:
+    weight: 5
+    keywords:
+      - lightweight cryptography
+      - lightweight cipher
+      - lightweight encryption
+      - 軽量暗号
+      - 超軽量暗号
+
+  AEAD:
+    weight: 4
+    keywords:
+      - AEAD
+      - authenticated encryption
+      - authenticated encryption with associated data
+      - 認証暗号
+      - AES-GCM
+      - GCM-SIV
+      - ASCON
+
+  Post-Quantum:
+    weight: 4
+    keywords:
+      - post-quantum
+      - post quantum
+      - PQC
+      - quantum-resistant
+      - quantum safe
+      - 耐量子
+      - 耐量子暗号
+
+  Protocol Security:
+    weight: 3
+    keywords:
+      - protocol security
+      - secure messaging
+      - end-to-end encryption
+      - E2EE
+      - Signal Protocol
+      - プロトコル解析
+
+  TLS:
+    weight: 3
+    keywords:
+      - TLS
+      - Transport Layer Security
+
+  MLS:
+    weight: 3
+    keywords:
+      - Messaging Layer Security
+      - MLS
+
+  Implementation:
+    weight: 3
+    keywords:
+      - implementation
+      - optimized implementation
+      - constant-time
+      - bitslice
+      - fixslice
+      - 実装
+      - 定数時間
+
+  Cortex-M:
+    weight: 4
+    keywords:
+      - Cortex-M
+      - Cortex-M3
+      - Cortex-M4
+      - ARM microcontroller
+
+  ASIC:
+    weight: 4
+    keywords:
+      - ASIC
+      - hardware implementation
+      - gate equivalent
+      - GE
+      - ハードウェア実装
+
+  FPGA:
+    weight: 4
+    keywords:
+      - FPGA
+
+  Side-Channel:
+    weight: 3
+    keywords:
+      - side-channel
+      - side channel
+      - power analysis
+      - fault attack
+      - サイドチャネル
+      - 電力解析
+      - 故障攻撃
+
+  Masking:
+    weight: 3
+    keywords:
+      - masking
+      - masked implementation
+      - first-order masking
+      - higher-order masking
+      - マスキング
+
+  Standardization:
+    weight: 3
+    keywords:
+      - standardization
+      - draft standard
+      - FIPS
+      - NIST
+      - IETF
+      - CFRG
+      - 標準化
+
+  Vulnerability:
+    weight: 2
+    keywords:
+      - vulnerability
+      - attack
+      - exploit
+      - security advisory
+      - CVE
+      - 脆弱性
+      - 攻撃
+
+  General Security:
+    weight: 1
+    keywords:
+      - security research
+      - security engineering
+      - セキュリティ研究
+
+negative_keywords:
+  - keyword: 暗号資産
+    weight: -10
+  - keyword: 仮想通貨
+    weight: -10
+  - keyword: cryptocurrency
+    weight: -10
+  - keyword: bitcoin
+    weight: -10
+  - keyword: ethereum
+    weight: -10
+  - keyword: NFT
+    weight: -10
+  - keyword: token price
+    weight: -8
+  - keyword: crypto exchange
+    weight: -8
