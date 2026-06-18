@@ -10,6 +10,16 @@
       "title": "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps",
       "url": "https://eprint.iacr.org/2026/1253"
     },
+    "02dc2006403911d162624259dd7df3eb3f083aecf8bb7cd6d3735fd4fab72adb": {
+      "processed_at": "2026-06-18T23:48:45.742933Z",
+      "published_at": "2026-06-13T18:01:44Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Related Differentials of $4\\times4$ MDS Matrices: A Complete Characterization",
+      "url": "https://eprint.iacr.org/2026/1251"
+    },
     "0887687aea2ec4f388dc69c4a61044a27c347ba8290acf1ea3d434380f720d4d": {
       "processed_at": "2026-06-18T07:18:35.071822Z",
       "published_at": "2026-06-10T04:45:00Z",
@@ -139,6 +149,16 @@
       "source_id": "arxiv-crypto",
       "title": "Practical Anonymous Two-Party Gradient Boosting Decision Tree",
       "url": "https://arxiv.org/abs/2605.26903v2"
+    },
+    "2109ad6fe8723433ed87cde04fed70387e3e5bf02d91b047048ba0b2a5ebadd7": {
+      "processed_at": "2026-06-18T23:48:45.742906Z",
+      "published_at": "2026-06-18T17:59:40Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Build your own vulnerability harness",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness"
     },
     "234cafa8e0283f4cc026d9e914710eea2263ee34cb06106bbd03c4868ca6ad49": {
       "processed_at": "2026-06-18T07:18:35.071792Z",
@@ -710,6 +730,16 @@
       "title": "A Unified Treatment of Anamorphic Encryption",
       "url": "https://eprint.iacr.org/2025/309"
     },
+    "a1d918e4cbc5905718cb2eb73e6d02f72a47cdf6b5a5f4c63ea60bc245b49c5a": {
+      "processed_at": "2026-06-18T23:48:45.742865Z",
+      "published_at": "2026-06-18T19:36:08Z",
+      "score": 3,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "microsoft-security-blog",
+      "title": "New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi"
+    },
     "a1dc2287a56db693fcdeb4ffff6bf3e85c3b4692a0a1b21ff7f7d375493636a8": {
       "processed_at": "2026-06-18T07:18:35.071520Z",
       "published_at": "2026-06-17T00:15:00Z",
@@ -850,6 +880,16 @@
       "title": "From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability",
       "url": "https://arxiv.org/abs/2606.07150v3"
     },
+    "be0f66a5bcf45af43297461e4a26d92f3d4337feec9abe0a44616e039567ed60": {
+      "processed_at": "2026-06-18T23:48:45.742921Z",
+      "published_at": "2026-06-18T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Celebrating 12 years of Project Galileo",
+      "url": "https://blog.cloudflare.com/celebrating-12-years-of-project-galileo"
+    },
     "be7112d677c519df87e62fffb3d05f45ec79113b09d2d6a790b3f8999e09b705": {
       "processed_at": "2026-06-18T07:18:35.071394Z",
       "published_at": "2026-06-17T14:18:36Z",
@@ -959,6 +999,16 @@
       "source_id": "arxiv-crypto",
       "title": "Architectural Bias in Face Presentation Attack Detection: A Comparative Study of Vision Transformers and Convolutional Neural Networks",
       "url": "https://arxiv.org/abs/2606.18510v1"
+    },
+    "cfb532b8c6eb7585bea87bb885a142a3d5a033f18b32b7068db772fc7e2132fc": {
+      "processed_at": "2026-06-18T23:48:45.742945Z",
+      "published_at": "2026-05-14T13:00:00Z",
+      "score": 2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse",
+      "url": "https://blog.cloudflare.com/clickhouse-query-plan-contention"
     },
     "d73c0a3af62e2d3af3ae31d95d9a1e5ee79c0b5284a22e3bf8d984c510a0e4fc": {
       "processed_at": "2026-06-18T07:18:35.071887Z",
