@@ -30,6 +30,16 @@
       "title": "G-Lox: Group-Adaptive, Privacy-Preserving Bridge Distribution with Two-Party Computation",
       "url": "https://arxiv.org/abs/2606.19620v1"
     },
+    "04448198f65db9f413f70790c5394692a99e4509888d404680f582122da58eaa": {
+      "processed_at": "2026-06-19T23:02:40.718087Z",
+      "published_at": "2026-06-17T21:00:17Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "On the Round Complexity of Dishonest-Majority MPC",
+      "url": "https://eprint.iacr.org/2026/1277"
+    },
     "0887687aea2ec4f388dc69c4a61044a27c347ba8290acf1ea3d434380f720d4d": {
       "processed_at": "2026-06-18T07:18:35.071822Z",
       "published_at": "2026-06-10T04:45:00Z",
@@ -89,6 +99,16 @@
       "source_id": "iacr-eprint",
       "title": "Pushing the boundaries of group-based aggregation with zero-evading generators of low additive complexity",
       "url": "https://eprint.iacr.org/2026/1148"
+    },
+    "12817b7b2538dc5af4442a3945b7917346d82810965a21b17d113916ad073fd0": {
+      "processed_at": "2026-06-19T23:02:40.718141Z",
+      "published_at": "2026-06-17T11:10:58Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Achieving Tight Space-Time Tradeoff and Practical Performance in Preprocessing PIR with Multi-level Recursion",
+      "url": "https://eprint.iacr.org/2026/1273"
     },
     "15e1731cf477963fc995303b204992b8f3e9ce9d7ee567d6e857f905ff693b17": {
       "processed_at": "2026-06-18T07:18:35.071611Z",
@@ -190,6 +210,16 @@
       "title": "Build your own vulnerability harness",
       "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness"
     },
+    "228d0c074ea2a5cb2dfc8c53f98ec8e2ae69db6189c367eabd2543321487be3a": {
+      "processed_at": "2026-06-19T23:02:40.718036Z",
+      "published_at": "2026-06-19T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts"
+    },
     "234cafa8e0283f4cc026d9e914710eea2263ee34cb06106bbd03c4868ca6ad49": {
       "processed_at": "2026-06-18T07:18:35.071792Z",
       "published_at": "2026-06-11T19:32:05Z",
@@ -249,6 +279,16 @@
       "source_id": "microsoft-security-blog",
       "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
       "url": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592"
+    },
+    "28de6e1b43cc1c77b87b6cf8d5256e1b520ccec7512a8d69cc0cedc5be93eea8": {
+      "processed_at": "2026-06-19T23:02:40.718103Z",
+      "published_at": "2026-06-17T16:07:28Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Forget-me-not Trees: Mass-scale Auditable Key Transparency from Hash Functions",
+      "url": "https://eprint.iacr.org/2026/1276"
     },
     "2a0208d6abd71e5275ae5e68262066e637e31b2a738c93908dc51f562a5e155a": {
       "processed_at": "2026-06-18T07:18:35.071836Z",
@@ -370,6 +410,16 @@
       "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
       "url": "https://arxiv.org/abs/2606.20470v1"
     },
+    "3ea615cda142f826ca7a7de1b95234f6d5a1ac1f3a9764de08fc07bcb064223f": {
+      "processed_at": "2026-06-19T23:02:40.718066Z",
+      "published_at": "2026-06-18T03:43:04Z",
+      "score": 3,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "microsoft-security-blog",
+      "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise"
+    },
     "3f6fc55d61ff8b1bc21f7732b201d585abfb5e0ab75447c390d4284e558fa9ec": {
       "processed_at": "2026-06-18T07:18:35.071930Z",
       "published_at": "2026-05-28T13:00:00Z",
@@ -450,6 +500,16 @@
       "title": "Weekly Report: Oracle PeopleSoft PeopleToolsにリモートコード実行につながる脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
     },
+    "506856130c2046eace85c7b1b9bc47358efeeb2864df120b08fefd4cfeb0f7aa": {
+      "processed_at": "2026-06-19T23:02:40.718156Z",
+      "published_at": "2026-06-17T11:07:29Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Parameter-Aware and Instruction-Driven Dilithium Optimization on AVX2 and NEON",
+      "url": "https://eprint.iacr.org/2026/1272"
+    },
     "516eb287c25d5f253f5520b3961cfa5c6cbe012039fadfab2e8c28f8847d2bf8": {
       "processed_at": "2026-06-18T07:18:35.071646Z",
       "published_at": "2026-06-16T23:32:44Z",
@@ -469,6 +529,16 @@
       "source_id": "iacr-eprint",
       "title": "HARE: Compact HQC via Distance-Informed Erasure Decoding",
       "url": "https://eprint.iacr.org/2026/544"
+    },
+    "5382fe727178c83ddd0f685444478cf7a93ca70db59cefc43a6b9d34b889f8db": {
+      "processed_at": "2026-06-19T23:02:40.718193Z",
+      "published_at": "2026-06-16T19:43:06Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Gatling: Rapid-Fire Consensus from Parallel Composition",
+      "url": "https://eprint.iacr.org/2026/1269"
     },
     "55820d1aaa8a47371750c38cb2879f1f8260b1d0d5f1a523ea2c8704598ff712": {
       "processed_at": "2026-06-18T07:18:35.071569Z",
@@ -860,6 +930,16 @@
       "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise"
     },
+    "8cf257176878d20a9e99437baf590aa02579461a414911630788266c2cd53089": {
+      "processed_at": "2026-06-19T23:02:40.718129Z",
+      "published_at": "2026-06-17T14:21:34Z",
+      "score": 21,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Design and Performance Evaluation of Post-Quantum Authentication for Embedded Systems: A Case Study on PIV",
+      "url": "https://eprint.iacr.org/2026/1274"
+    },
     "8ed50995da0de70953bff63d09f79596af9b433b2ca7eaa46b2f51a58050831a": {
       "processed_at": "2026-06-19T11:59:38.030177Z",
       "published_at": "2026-06-18T01:40:36Z",
@@ -879,6 +959,16 @@
       "source_id": "iacr-eprint",
       "title": "MCU: An Efficient and Scalable Nonlinear Function Evaluation in MPC without Preprocessing",
       "url": "https://eprint.iacr.org/2026/750"
+    },
+    "92b62e23aca3bb754582951362f5e809e06769e28a0d657a88ce6a4ce14dc702": {
+      "processed_at": "2026-06-19T23:02:40.718230Z",
+      "published_at": "2026-06-16T12:41:22Z",
+      "score": 20,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Practical End-to-end Fault Attacks on PERK",
+      "url": "https://eprint.iacr.org/2026/1266"
     },
     "9318d9467581620f3992461474dd1a0acf8a96ccdf8833fce274f56e3d7a5276": {
       "processed_at": "2026-06-18T07:18:35.071842Z",
@@ -950,6 +1040,26 @@
       "title": "A Unified Treatment of Anamorphic Encryption",
       "url": "https://eprint.iacr.org/2025/309"
     },
+    "9f5f0e921091e7c33d52ebbc6d7e3536753a336ceedf1ca4fdb9caa19db94081": {
+      "processed_at": "2026-06-19T23:02:40.718077Z",
+      "published_at": "2026-06-17T22:56:23Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Barriers for Transparent Algebraic Generation of Hard Supersingular Curves",
+      "url": "https://eprint.iacr.org/2026/1278"
+    },
+    "a1d048b821a6f38d3c7129186d57ecc4fa403fcce9529becb4284c2211839cdc": {
+      "processed_at": "2026-06-19T23:02:40.718118Z",
+      "published_at": "2026-06-17T14:44:31Z",
+      "score": 19,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "The Indifferentiability of the Duplex and its Practical Applications",
+      "url": "https://eprint.iacr.org/2026/1275"
+    },
     "a1d918e4cbc5905718cb2eb73e6d02f72a47cdf6b5a5f4c63ea60bc245b49c5a": {
       "processed_at": "2026-06-18T23:48:45.742865Z",
       "published_at": "2026-06-18T19:36:08Z",
@@ -979,6 +1089,16 @@
       "source_id": "iacr-eprint",
       "title": "How (not) to Switch FHE Schemes: Framework and Attacks in the IND-CPA-D Model",
       "url": "https://eprint.iacr.org/2026/285"
+    },
+    "a499f548261af4fd8eb65af52491a4a62a379fd25e9571a13188b5c35c36bd6d": {
+      "processed_at": "2026-06-19T23:02:40.718168Z",
+      "published_at": "2026-06-17T10:02:53Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Boosting Efficiency and Security in Arithmetization-Oriented Hashing for Zero-Knowledge Proof Systems",
+      "url": "https://eprint.iacr.org/2026/1271"
     },
     "a4b24e71d6cdf528442a423c334efe7c972f28a5005e95723cf4abbb7782283e": {
       "processed_at": "2026-06-19T11:59:38.030249Z",
@@ -1040,6 +1160,16 @@
       "title": "Turning Cloudflare’s threat indicators into real-time WAF rules",
       "url": "https://blog.cloudflare.com/realtime-threat-intel-waf-rules"
     },
+    "ad0cefeccafdc2ffede526602976212701554854f86514af3adcbc256034432b": {
+      "processed_at": "2026-06-19T23:02:40.718180Z",
+      "published_at": "2026-06-17T07:13:41Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Actively Secure MPC with $O(|C|)$ Computation and Communication via CRT",
+      "url": "https://eprint.iacr.org/2026/1270"
+    },
     "aeaabaf37244212d98bad7e1626c240e1dc553148d88652cd5ea6508180ed0ba": {
       "processed_at": "2026-06-19T11:59:38.030185Z",
       "published_at": "2026-06-17T23:59:57Z",
@@ -1099,6 +1229,16 @@
       "source_id": "arxiv-crypto",
       "title": "Analyzing the Narration Gap in LLM-Solver Loops",
       "url": "https://arxiv.org/abs/2606.19588v1"
+    },
+    "baa3644caa6d187232b0d82f9cd4c4bdb0d3433e9d22fc4f573d48917110edc0": {
+      "processed_at": "2026-06-19T23:02:40.718223Z",
+      "published_at": "2026-06-16T14:24:06Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Private Set Intersection and Searchable Encryption using Homomorphic Bloom Filters",
+      "url": "https://eprint.iacr.org/2026/1267"
     },
     "bb126791cb5746dad3d750a787ddbd09ef0a406b0cd4dc3aaa2d04989b0bc904": {
       "processed_at": "2026-06-18T07:18:35.071415Z",
@@ -1539,6 +1679,16 @@
       "source_id": "arxiv-crypto",
       "title": "TrustMix: How to Mix Messages in a Mobile Ad-hoc Network",
       "url": "https://arxiv.org/abs/2606.20251v1"
+    },
+    "f8f0f6cdeb6ef9d1bdbab0cc1d1aba49c71251d6244f0369e16d4bcd480dec66": {
+      "processed_at": "2026-06-19T23:02:40.718210Z",
+      "published_at": "2026-06-16T17:36:40Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Decentralized Multi-Authority (Attribute-Based) Traitor Tracing",
+      "url": "https://eprint.iacr.org/2026/1268"
     },
     "fa825f2f7fb519b454662d50aee89d5a2b7aea94a82b7f71cb9c6af94cca993d": {
       "processed_at": "2026-06-19T11:59:38.030036Z",
