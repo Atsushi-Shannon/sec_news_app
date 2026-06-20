@@ -50,6 +50,16 @@
       "title": "注意喚起: Adobe AcrobatおよびReaderの脆弱性（APSB26-63）に関する注意喚起 (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260018.html"
     },
+    "0999096479136c9ffb9585117ab661c26e4c7084df797e07fd627894b88b4ca8": {
+      "processed_at": "2026-06-20T23:13:05.652680Z",
+      "published_at": "2026-06-15T15:37:21Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Collaborative Rate Limiting Nullifier Signaling",
+      "url": "https://eprint.iacr.org/2026/1259"
+    },
     "0aa944920c8bcf486569db7e027dcba185c51f2fe96e3b9a531aad35c279a737": {
       "processed_at": "2026-06-18T06:49:37.697846Z",
       "published_at": "2025-02-28T11:39:34Z",
@@ -409,6 +419,16 @@
       "source_id": "arxiv-crypto",
       "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
       "url": "https://arxiv.org/abs/2606.20470v1"
+    },
+    "3e395cee4f6d089d5738a09b1375ede2f7813dcb516299020ca093f9db7b1981": {
+      "processed_at": "2026-06-20T23:13:05.652641Z",
+      "published_at": "2026-06-18T15:03:21Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Privacy-Preserving Outsourced Witness Updates for Append-Only RSA Accumulators",
+      "url": "https://eprint.iacr.org/2026/1283"
     },
     "3ea615cda142f826ca7a7de1b95234f6d5a1ac1f3a9764de08fc07bcb064223f": {
       "processed_at": "2026-06-19T23:02:40.718066Z",
@@ -1000,6 +1020,16 @@
       "title": "Evaluating the Effectiveness of LLMs in Aiding Compliance Testing of PKCS#1-v1.5",
       "url": "https://arxiv.org/abs/2606.18405v1"
     },
+    "93778b8a35791644ae65686e099beddd0c67084ddbca08ae9ceed18e1ba54dc9": {
+      "processed_at": "2026-06-20T23:13:05.652650Z",
+      "published_at": "2026-06-18T13:51:37Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Physics-Aware Temporal Feature Engineering for Eavesdropping Detection in BBM92 Quantum Key Distribution",
+      "url": "https://eprint.iacr.org/2026/1282"
+    },
     "95b451101e8a9a7b92b812457fafcdaf2bb75d1bb5e7309e49abfc743bfdbb9b": {
       "processed_at": "2026-06-18T06:50:34.963691Z",
       "published_at": "2023-11-18T06:41:39Z",
@@ -1170,6 +1200,16 @@
       "title": "Actively Secure MPC with $O(|C|)$ Computation and Communication via CRT",
       "url": "https://eprint.iacr.org/2026/1270"
     },
+    "ae1c693f96858df9e79ac520b07a6a3c3da7b073c03c2f3ac1f7bd56c69b2e78": {
+      "processed_at": "2026-06-20T23:13:05.652589Z",
+      "published_at": "2026-06-18T22:26:08Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Oblivious Priority Queue and Single-Source Shortest Path in the External Memory Setting",
+      "url": "https://eprint.iacr.org/2026/1285"
+    },
     "aeaabaf37244212d98bad7e1626c240e1dc553148d88652cd5ea6508180ed0ba": {
       "processed_at": "2026-06-19T11:59:38.030185Z",
       "published_at": "2026-06-17T23:59:57Z",
@@ -1330,6 +1370,16 @@
       "title": "From Bits to Mixed-Radix Keys: Horner Decomposition, Uniform Sampling, and the Information-Theoretic QKD Interface of the MR-OTP",
       "url": "https://arxiv.org/abs/2606.18526v1"
     },
+    "c29430e347ce3d5eefcbfd92477d25b84eb640931d22f6f13db76126c8c04032": {
+      "processed_at": "2026-06-20T23:13:05.652629Z",
+      "published_at": "2026-06-18T19:42:10Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Zero-Knowledge Proofs of Generalized Regular Expression Matching for Anonymized Email Verification",
+      "url": "https://eprint.iacr.org/2026/1284"
+    },
     "c5e61e1f2df2de7ccab9122cea50ae76d9956e4441dadb8d62ee82195936f9b9": {
       "processed_at": "2026-06-18T06:50:34.963765Z",
       "published_at": "2026-06-14T07:46:01Z",
@@ -1339,6 +1389,16 @@
       "source_id": "iacr-eprint",
       "title": "Top Gun: Degree Annihilation Attacks on Poseidon",
       "url": "https://eprint.iacr.org/2026/1254"
+    },
+    "c6baf04102a8300ac651fbb77e2920b546d3cea417ecc2176bf89b9c6ccdc767": {
+      "processed_at": "2026-06-20T23:13:05.652658Z",
+      "published_at": "2026-06-18T12:03:57Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Resultants Meet Resultant: Improving CICO-1 and CICO-2 Attacks on ZK-Friendly Permutations",
+      "url": "https://eprint.iacr.org/2026/1281"
     },
     "c73719dbe2cd6cc73ad251d8266376bf642aec131d6ed24d6e85e20ff7b1ab83": {
       "processed_at": "2026-06-18T07:18:35.071625Z",
@@ -1429,6 +1489,16 @@
       "source_id": "arxiv-crypto",
       "title": "Artificial Intelligence as Game Changer in Cybersecurity: What We Learned in 2025-2026, and how this is relevant for Africa",
       "url": "https://arxiv.org/abs/2606.20102v1"
+    },
+    "d3d786e5d1f3abc37c080ac9324b670f771ce0762b8594894d2bc2ac3138b8b5": {
+      "processed_at": "2026-06-20T23:13:05.652674Z",
+      "published_at": "2026-06-18T07:51:18Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "BootNet: Homomorphic CNN Inference with Convolution and ReLU Fused in Bootstrapping",
+      "url": "https://eprint.iacr.org/2026/1279"
     },
     "d707d5493241190660405cd43e7bb449cf3526505de24fc0aecc1a95d8e36456": {
       "processed_at": "2026-06-19T11:59:38.030000Z",
@@ -1659,6 +1729,16 @@
       "source_id": "arxiv-crypto",
       "title": "CodeSentinel: A Three-Layer Defense Against Indirect Prompt Injection in Code Contexts",
       "url": "https://arxiv.org/abs/2606.19235v1"
+    },
+    "f101b01e88381e0af80a6e202f4978cf9d40630cf9f30a8b561a09b57501c875": {
+      "processed_at": "2026-06-20T23:13:05.652666Z",
+      "published_at": "2026-06-18T08:37:22Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Public Parameters as a First-Class Cost: A Three-Dimensional View of Updatable Vector Commitments, and a Group/Lattice Separation",
+      "url": "https://eprint.iacr.org/2026/1280"
     },
     "f42a0378e6ec2524e4554a6ed9fb3288b5999af3bd29051d36b13dd91fdf3af8": {
       "processed_at": "2026-06-19T11:59:38.030060Z",
