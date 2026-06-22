@@ -40,6 +40,16 @@
       "title": "On the Round Complexity of Dishonest-Majority MPC",
       "url": "https://eprint.iacr.org/2026/1277"
     },
+    "05f463bd646068bfc119de409f1f7c2bf4c036af39fd039b176985a8b2f2719d": {
+      "processed_at": "2026-06-22T23:24:20.949629Z",
+      "published_at": "2026-06-22T19:07:28Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Guarding AI memory",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory"
+    },
     "0887687aea2ec4f388dc69c4a61044a27c347ba8290acf1ea3d434380f720d4d": {
       "processed_at": "2026-06-18T07:18:35.071822Z",
       "published_at": "2026-06-10T04:45:00Z",
@@ -119,6 +129,16 @@
       "source_id": "iacr-eprint",
       "title": "Achieving Tight Space-Time Tradeoff and Practical Performance in Preprocessing PIR with Multi-level Recursion",
       "url": "https://eprint.iacr.org/2026/1273"
+    },
+    "12bff4c568daf1f6c1b13dc1c2ea88d0be2de5dfd86d829d299d4165f921121a": {
+      "processed_at": "2026-06-22T23:24:20.949672Z",
+      "published_at": "2026-06-22T18:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How we found a bug in the hyper HTTP library",
+      "url": "https://blog.cloudflare.com/hyper-bug"
     },
     "15e1731cf477963fc995303b204992b8f3e9ce9d7ee567d6e857f905ff693b17": {
       "processed_at": "2026-06-18T07:18:35.071611Z",
@@ -279,6 +299,16 @@
       "source_id": "arxiv-crypto",
       "title": "A Predictive Neural Network Architecture for Early Detection of Low-Rate Cyberattacks",
       "url": "https://arxiv.org/abs/2606.18771v1"
+    },
+    "27b4c515e1ec76ae404e7a00a18f082b34bf54aa7eabf6d5ac8a9e8e41c3c408": {
+      "processed_at": "2026-06-22T23:24:20.949699Z",
+      "published_at": "2026-06-22T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity"
     },
     "286c5a1ffd36fb56d284160e9a4bf22ee2cb1ed1c44cfc223d9fd7f554a6a2da": {
       "processed_at": "2026-06-18T07:18:35.071321Z",
@@ -549,6 +579,16 @@
       "source_id": "iacr-eprint",
       "title": "HARE: Compact HQC via Distance-Informed Erasure Decoding",
       "url": "https://eprint.iacr.org/2026/544"
+    },
+    "52632873f8c10d35db3388ec450f01691b0ed2f7b2db0426265554cb20a7800d": {
+      "processed_at": "2026-06-22T23:24:20.949687Z",
+      "published_at": "2026-06-22T16:50:00Z",
+      "score": 17,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "trail-of-bits-blog",
+      "title": "Introducing Patch the Planet",
+      "url": "https://blog.trailofbits.com/2026/06/22/introducing-patch-the-planet"
     },
     "5382fe727178c83ddd0f685444478cf7a93ca70db59cefc43a6b9d34b889f8db": {
       "processed_at": "2026-06-19T23:02:40.718193Z",
