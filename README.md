@@ -109,6 +109,11 @@ GitHub Secretsには次を設定してください。
 - `NOTION_DATABASE_ID`
 - `SLACK_WEBHOOK_URL`
 
+GitHub Actions上でしきい値を変えたい場合は、Repository Variablesに次を任意で設定してください。
+
+- `NOTION_SCORE_THRESHOLD`
+- `SLACK_SCORE_THRESHOLD`
+
 外部Pull RequestではSecretsが利用できないため、収集workflowは通常のscheduleまたは手動実行で使う想定です。
 
 ## 情報源の追加

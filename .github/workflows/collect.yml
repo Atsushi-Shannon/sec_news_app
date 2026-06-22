@@ -35,6 +35,8 @@ jobs:
           NOTION_API_TOKEN: ${{ secrets.NOTION_API_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          NOTION_SCORE_THRESHOLD: ${{ vars.NOTION_SCORE_THRESHOLD }}
+          SLACK_SCORE_THRESHOLD: ${{ vars.SLACK_SCORE_THRESHOLD }}
           LOG_LEVEL: INFO
           STATE_FILE: data/seen_items.json
         run: python -m crypto_radar.main
