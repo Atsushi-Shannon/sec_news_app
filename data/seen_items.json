@@ -50,6 +50,16 @@
       "title": "Guarding AI memory",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory"
     },
+    "0604ad8219087aa01b7144e57d4e29be20cb6349f6b300283101be2fb5de5147": {
+      "processed_at": "2026-06-23T23:11:27.126791Z",
+      "published_at": "2026-06-23T18:25:18Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "The post-quantum EO is an important milestone. Now it’s time to get to work",
+      "url": "https://blog.cloudflare.com/post-quantum-eo-2026"
+    },
     "078e152932c46908575b8bc64ec8bbc0414b391030c7a33efeeb7831f1beb956": {
       "processed_at": "2026-06-23T10:55:48.540359Z",
       "published_at": "2026-06-22T04:20:30Z",
@@ -1360,6 +1370,16 @@
       "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
     },
+    "a30b375a20a6d620c0f7b98307c33610159e08b7d77c6658f8e001c8820cec97": {
+      "processed_at": "2026-06-23T23:11:27.126862Z",
+      "published_at": "2026-05-29T08:31:18Z",
+      "score": 4,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "Free-Riding the Agentic Web: A Systematic Security Analysis of x402 Payments",
+      "url": "https://arxiv.org/abs/2605.30998v2"
+    },
     "a337e37282c7d23efc9179cf584bd412ac327b4c92e0c24ee28c52dc420a2876": {
       "processed_at": "2026-06-18T06:50:34.963672Z",
       "published_at": "2026-02-17T09:09:07Z",
@@ -1369,6 +1389,16 @@
       "source_id": "iacr-eprint",
       "title": "How (not) to Switch FHE Schemes: Framework and Attacks in the IND-CPA-D Model",
       "url": "https://eprint.iacr.org/2026/285"
+    },
+    "a3aa3d8413f54a65f5a6e123425a3686ae4843c384f0b95fe5695e57878d2614": {
+      "processed_at": "2026-06-23T23:11:27.126850Z",
+      "published_at": "2026-05-29T15:08:41Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "Passive Reconnaissance of Routing-Layer Defenses in OLSR-Based MANETs using ML",
+      "url": "https://arxiv.org/abs/2606.00184v2"
     },
     "a499f548261af4fd8eb65af52491a4a62a379fd25e9571a13188b5c35c36bd6d": {
       "processed_at": "2026-06-19T23:02:40.718168Z",
@@ -2229,6 +2259,16 @@
       "source_id": "arxiv-crypto",
       "title": "PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow",
       "url": "https://arxiv.org/abs/2606.19063v1"
+    },
+    "ff73695935d7d5b8d413036923d53146315cd0b488f72f3182f8d1909b73b7c9": {
+      "processed_at": "2026-06-23T23:11:27.126836Z",
+      "published_at": "2026-06-18T19:36:08Z",
+      "score": 2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "microsoft-security-blog",
+      "title": "New Forrester Total Economic Impact™ study projects a 124% ROI from unifying with Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi"
     },
     "ff85c03a059820ba3291ad4d0419d8a318c6435a0127368a2efc13bfc0dfa081": {
       "processed_at": "2026-06-19T11:59:38.030047Z",
