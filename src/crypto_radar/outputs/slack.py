@@ -57,6 +57,7 @@ def build_message(article: Article, *, notion_result: str) -> str:
     summary = truncate(article.summary, 500)
     original_url = article.url if is_safe_http_url(article.url) else article.normalized_url
     text = f"""Crypto Research Radar
+---
 
 {article.title}
 
@@ -71,5 +72,6 @@ Notion: {notion_result}
 
 Original:
 {original_url}
+---
 """
     return truncate(text, SLACK_TEXT_LIMIT)
