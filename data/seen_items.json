@@ -10,6 +10,16 @@
       "title": "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps",
       "url": "https://eprint.iacr.org/2026/1253"
     },
+    "018918457598d183baf0b7d465b08f2295212bf163f9acbcdb0f8acd14bbe2bb": {
+      "processed_at": "2026-06-24T23:09:00.727036Z",
+      "published_at": "2026-06-22T20:05:16Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "STRUCTURED LATTICES AND THEIR APPLICATIONS TO SECURITY",
+      "url": "https://eprint.iacr.org/2026/1301"
+    },
     "02dc2006403911d162624259dd7df3eb3f083aecf8bb7cd6d3735fd4fab72adb": {
       "processed_at": "2026-06-18T23:48:45.742933Z",
       "published_at": "2026-06-13T18:01:44Z",
@@ -79,6 +89,16 @@
       "source_id": "jpcert-cc",
       "title": "注意喚起: Adobe AcrobatおよびReaderの脆弱性（APSB26-63）に関する注意喚起 (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260018.html"
+    },
+    "0965f578713cb2860d0ddf9f97e2de107b99df84881889b37c1b25987b5df61e": {
+      "processed_at": "2026-06-24T23:09:00.727027Z",
+      "published_at": "2026-06-22T20:58:14Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "TRIP: Thresholding in Regression with Input Privacy",
+      "url": "https://eprint.iacr.org/2026/1302"
     },
     "0999096479136c9ffb9585117ab661c26e4c7084df797e07fd627894b88b4ca8": {
       "processed_at": "2026-06-20T23:13:05.652680Z",
@@ -220,6 +240,16 @@
       "title": "A Machine-Checked EUF-CMA Proof for the Hybrid Fiat-Shamir Signature Scheme",
       "url": "https://eprint.iacr.org/2026/1086"
     },
+    "17daac6d8a9e9273ed942f70b8dc8ffeee9e9e58046a0f7de048ff525996c5e9": {
+      "processed_at": "2026-06-24T23:09:00.727007Z",
+      "published_at": "2026-06-22T23:44:33Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Security Analysis of One Lightweight Certificateless Mutual Authentication Scheme Based on Signatures for IIoT",
+      "url": "https://eprint.iacr.org/2026/1304"
+    },
     "17e52654f65c38b3b3ce436379cd696bec6a93cf50a7ac4f19cfab5a5abd514e": {
       "processed_at": "2026-06-18T06:50:34.963709Z",
       "published_at": "2026-05-06T20:19:13Z",
@@ -329,6 +359,16 @@
       "source_id": "arxiv-crypto",
       "title": "Optimal Small Set Expanders and Their Codes",
       "url": "https://arxiv.org/abs/2606.23579v1"
+    },
+    "1ea5288ef6835da9ecc14377e1b76d5116232bbaf4d3e7a892309bb6d436aa07": {
+      "processed_at": "2026-06-24T23:09:00.726812Z",
+      "published_at": "2026-06-24T18:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms"
     },
     "1f4ca6e71308ebc10a75562fcf1e647fbed2baf347d0f8da0e68125664930417": {
       "processed_at": "2026-06-18T07:18:35.071632Z",
@@ -950,6 +990,16 @@
       "title": "AI brands as bait: How threat actors are using the AI hype in social engineering",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering"
     },
+    "58f50af7501fcc4fd9a1f57572cdf89fb264ea7b6730f891aa7f290c57448e8a": {
+      "processed_at": "2026-06-24T23:09:00.727046Z",
+      "published_at": "2026-05-29T13:08:16Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A gentle introduction to lattice-based cryptography",
+      "url": "https://eprint.iacr.org/2026/1098"
+    },
     "591055a87d822e27ca69bc6287fe1ec6a57789afef303036b32a21acaec681d6": {
       "processed_at": "2026-06-18T07:18:35.071998Z",
       "published_at": "2026-05-18T06:00:00Z",
@@ -1180,6 +1230,16 @@
       "title": "Streamlined Symmetric Private Information Retrieval via Rényi Divergence",
       "url": "https://eprint.iacr.org/2026/1051"
     },
+    "6d5e6b248f620979ec564769b0d1463d1640afe233a21b7e5c46024b626f43ee": {
+      "processed_at": "2026-06-24T23:09:00.726863Z",
+      "published_at": "2026-06-24T12:30:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them"
+    },
     "6db011e5a93a2ffebe915c0fc13404892e00ccb19d60bc25871576760f96b184": {
       "processed_at": "2026-06-19T11:59:38.030161Z",
       "published_at": "2026-06-18T05:22:38Z",
@@ -1189,6 +1249,16 @@
       "source_id": "arxiv-crypto",
       "title": "DISARM: Target Electronic Device Informed Mitigation of Software Runtime Side-Channel Vulnerabilities",
       "url": "https://arxiv.org/abs/2606.19807v1"
+    },
+    "6e7765fa5fecbf6ec4547b587c0d8b6ecebba5e144e8f4f06beded96ea51a7f9": {
+      "processed_at": "2026-06-24T23:09:00.726929Z",
+      "published_at": "2026-06-23T10:51:50Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Trust the Voice, Hide the Source: Anonymous Provenance for Verifiably Edited Audio",
+      "url": "https://eprint.iacr.org/2026/1308"
     },
     "6eaabbf0c73ac72319623140471ef87464f0908bf65eee757b7fee5896f5e637": {
       "processed_at": "2026-06-24T10:41:50.825415Z",
@@ -1289,6 +1359,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: 複数のOracle製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html"
+    },
+    "7d5cc614ad56c780a9833a14d15b53ac88da1556a48b455a1232acbb28e2efad": {
+      "processed_at": "2026-06-24T23:09:00.726887Z",
+      "published_at": "2026-06-24T06:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+      "url": "https://blog.cloudflare.com/oauth-for-all"
     },
     "7d9c7205a05dc9461864aead3d6b1df9821481ededd2057f08a8266cd4107dc6": {
       "processed_at": "2026-06-19T11:59:38.030266Z",
@@ -1840,6 +1920,16 @@
       "title": "Weekly Report: Google Chromeに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
     },
+    "a4db695ae4c8765d7fa34431db755b2d7b1ba0732c2cdd706294eb08cdb12b9d": {
+      "processed_at": "2026-06-24T23:09:00.726988Z",
+      "published_at": "2026-06-23T08:39:40Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "TETRIS: Automated Design Space Exploration of Randomness–Latency Trade-offs in Masked Hardware",
+      "url": "https://eprint.iacr.org/2026/1306"
+    },
     "a6b530fc74b194ee263a449e5c33db09425eb1838b70d4d04227c599fd8b8ec7": {
       "processed_at": "2026-06-23T10:55:48.540317Z",
       "published_at": "2026-06-22T09:20:04Z",
@@ -1899,6 +1989,16 @@
       "source_id": "iacr-eprint",
       "title": "Post-Quantum Migration Strategy for RSA Encryption",
       "url": "https://eprint.iacr.org/2026/1172"
+    },
+    "a8bed065b31eb2e3b5d7822de5f08915e20c7ceea960a2c50a1b98b64222a818": {
+      "processed_at": "2026-06-24T23:09:00.727017Z",
+      "published_at": "2026-06-22T21:07:48Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Subspace Differential Uniformity",
+      "url": "https://eprint.iacr.org/2026/1303"
     },
     "a90dfea16bac507144f0424a61b65d7743a695bee8c08229c25e9ec5095e53f7": {
       "processed_at": "2026-06-18T07:18:35.071300Z",
@@ -1969,6 +2069,16 @@
       "source_id": "iacr-eprint",
       "title": "Actively Secure MPC with $O(|C|)$ Computation and Communication via CRT",
       "url": "https://eprint.iacr.org/2026/1270"
+    },
+    "ad4f7fafe3127a6b648639c6f21a5cc70efd561d3e0629c8d951d4071762271f": {
+      "processed_at": "2026-06-24T23:09:00.726918Z",
+      "published_at": "2026-06-23T11:53:56Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Forensic Cryptanalysis of the Backdoored UA-8295 Message Terminal",
+      "url": "https://eprint.iacr.org/2026/1309"
     },
     "ad57a617e8cee70d0e0ad03cb90c749fcb53c780d341c766b4f916e5747ddc39": {
       "processed_at": "2026-06-23T10:55:48.540437Z",
@@ -2430,6 +2540,16 @@
       "title": "Public Diffusion Models, Private Images: Key-Controlled Inversion for Conditional Reconstruction",
       "url": "https://arxiv.org/abs/2606.22988v1"
     },
+    "d8235074c2f86cbe3d97e26c7d8acbb383eb8326caf84b27aede108855b80afb": {
+      "processed_at": "2026-06-24T23:09:00.726903Z",
+      "published_at": "2026-06-23T16:42:08Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Designing Wallet-Based User Intervention for Approval Phishing Mitigation",
+      "url": "https://eprint.iacr.org/2026/1310"
+    },
     "d8b99a2d0f0cf6b227fba4a4619c8bd06e2892b831ad35466599252e4cf4745f": {
       "processed_at": "2026-06-18T07:18:35.071555Z",
       "published_at": "2026-06-17T00:15:00Z",
@@ -2800,6 +2920,16 @@
       "title": "FlexServe: A Fast and Secure LLM Serving System for Mobile Devices with Flexible Resource Isolation",
       "url": "https://arxiv.org/abs/2606.23370v1"
     },
+    "fa51778915e5aa2063e09f7e759928ae18bad6852c1e4f411d320b3ed173cfc6": {
+      "processed_at": "2026-06-24T23:09:00.726998Z",
+      "published_at": "2026-06-23T04:21:12Z",
+      "score": 20,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "SUF-CMA SQISign via Canonical Response Encoding",
+      "url": "https://eprint.iacr.org/2026/1305"
+    },
     "fa825f2f7fb519b454662d50aee89d5a2b7aea94a82b7f71cb9c6af94cca993d": {
       "processed_at": "2026-06-19T11:59:38.030036Z",
       "published_at": "2026-06-18T16:23:19Z",
@@ -2869,6 +2999,16 @@
       "source_id": "arxiv-crypto",
       "title": "Multi-View Decompilation for LLM-Based Malware Classification",
       "url": "https://arxiv.org/abs/2606.20436v1"
+    },
+    "ffe55e0f98b52e79c6643f699bff3ee3e7d045d8d239a1be4777ffe4b8b5971c": {
+      "processed_at": "2026-06-24T23:09:00.726939Z",
+      "published_at": "2026-06-23T08:55:34Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Communication-Efficient Local-Verification Framework for Maliciously Secure MPC with a Two-Thirds Honest Majority",
+      "url": "https://eprint.iacr.org/2026/1307"
     }
   },
   "version": 1
