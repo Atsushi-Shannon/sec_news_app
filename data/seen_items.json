@@ -680,6 +680,16 @@
       "title": "Kops: Safely Extending the eBPF Compilation Pipeline with Native Operations",
       "url": "https://arxiv.org/abs/2606.24213v1"
     },
+    "3327ccac10151db93f24bd2552d724e281ab43988dbf98afc8740eec2e157690": {
+      "processed_at": "2026-06-25T23:22:30.854966Z",
+      "published_at": "2026-06-25T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How we built saga rollbacks for Cloudflare Workflows",
+      "url": "https://blog.cloudflare.com/rollbacks-for-workflows"
+    },
     "3419d01e0197d46bf485917344a8bec04660c39d98b60471eae9e2abe5fb5b41": {
       "processed_at": "2026-06-18T07:18:35.071506Z",
       "published_at": "2026-06-17T01:57:08Z",
@@ -1159,6 +1169,16 @@
       "source_id": "arxiv-crypto",
       "title": "OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing",
       "url": "https://arxiv.org/abs/2606.19149v1"
+    },
+    "5ad73210231deb731a8c340a0af309ea1e4feb69e517d612750f3c247ea65c78": {
+      "processed_at": "2026-06-25T23:22:30.854977Z",
+      "published_at": "2026-06-23T18:25:18Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "The White House's post-quantum executive order is an important milestone. It’s time to get to work",
+      "url": "https://blog.cloudflare.com/post-quantum-eo-2026"
     },
     "5c12cf6964d2d9a68f384d0baf259526271d697d12fb9320b7f6badf3fa32966": {
       "processed_at": "2026-06-19T11:59:38.030242Z",
@@ -1919,6 +1939,16 @@
       "source_id": "iacr-eprint",
       "title": "Non-Interactive Distributed Key Management with Pre-Determined Shares",
       "url": "https://eprint.iacr.org/2023/1785"
+    },
+    "95c5f53a5631f3644a840f5c7016c96be8b2ab20ba52760171f68c3bbb891f05": {
+      "processed_at": "2026-06-25T23:22:30.854924Z",
+      "published_at": "2026-06-25T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms"
     },
     "96bed37957f78478cf0947c94903912d0b23e9fc9821677c420583d064925b39": {
       "processed_at": "2026-06-25T10:35:22.791354Z",
