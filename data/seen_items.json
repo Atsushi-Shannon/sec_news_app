@@ -990,6 +990,16 @@
       "title": "Code-Augur: Agentic Vulnerability Detection via Specification Inference",
       "url": "https://arxiv.org/abs/2606.18619v1"
     },
+    "40c9523b0f016a60bf6f8602fc6e859115b83681f579a8f7da68a72483110926": {
+      "processed_at": "2026-06-26T23:12:10.483331Z",
+      "published_at": "2026-06-25T14:59:16Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "ProtogaLattice: Constant-Round Lattice-based Folding for General Polynomial Relations",
+      "url": "https://eprint.iacr.org/2026/1317"
+    },
     "4144d3f17cbf6e004e5362bd77873d6d7aa5dbb04ffe36ea0d4645618cdf2fa3": {
       "processed_at": "2026-06-26T10:44:46.362529Z",
       "published_at": "2026-06-25T05:44:18Z",
@@ -1709,6 +1719,16 @@
       "source_id": "iacr-eprint",
       "title": "Achieving Guaranteed Output Delivery MPC with Constant Rounds and Linear Communication in Minicrypt",
       "url": "https://eprint.iacr.org/2026/1296"
+    },
+    "6f7e65eefbd62acff5a2034198106e7bc3d8264737ca432d7eeaffacc1d8e2da": {
+      "processed_at": "2026-06-26T23:12:10.483344Z",
+      "published_at": "2026-06-25T12:47:33Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Computing multi-scalar multiplication on memory-constrained devices",
+      "url": "https://eprint.iacr.org/2026/1316"
     },
     "71b4745af11fe4625817609171291b0e9c3dbd73d3789e9d73facd3ee2fc79bc": {
       "processed_at": "2026-06-18T06:49:37.697763Z",
@@ -2449,6 +2469,16 @@
       "source_id": "arxiv-crypto",
       "title": "General Techniques for Reducing Key-Switching Overhead in Privacy-Preserving Two-Party Transformer Inference",
       "url": "https://arxiv.org/abs/2606.25349v1"
+    },
+    "a47265fd2c74d3e58671d7055246859d2fbe93667d4daf8166ad3d3fe17ea249": {
+      "processed_at": "2026-06-26T23:12:10.483276Z",
+      "published_at": "2026-06-25T19:03:22Z",
+      "score": 15,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Cryptanalysis of HAWK: a Guessing Game",
+      "url": "https://eprint.iacr.org/2026/1318"
     },
     "a499f548261af4fd8eb65af52491a4a62a379fd25e9571a13188b5c35c36bd6d": {
       "processed_at": "2026-06-19T23:02:40.718168Z",
@@ -3400,6 +3430,16 @@
       "title": "Stealthy World Model Manipulation via Data Poisoning",
       "url": "https://arxiv.org/abs/2606.18697v1"
     },
+    "db4642c06428a51f3519b91972a01b290c95fd57af70b541174269bc6fa76ccb": {
+      "processed_at": "2026-06-26T23:12:10.483362Z",
+      "published_at": "2026-06-24T10:15:11Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "HHE Kombat: Benchmarking Hybrid Homomorphic Encryption Schemes",
+      "url": "https://eprint.iacr.org/2026/1314"
+    },
     "dbbaf30dc1569bf0b64a75c1ae2efd6262662170e0d62bbb50c27eab18430446": {
       "processed_at": "2026-06-23T10:55:48.540377Z",
       "published_at": "2026-06-22T02:48:27Z",
@@ -3439,6 +3479,16 @@
       "source_id": "arxiv-crypto",
       "title": "DoHFuse: A Dual-Branch Architecture with DMAGLSTM for Website Fingerprinting over DNS over HTTPS/3",
       "url": "https://arxiv.org/abs/2606.24105v1"
+    },
+    "de2836e80a26d7a1b2e808200d09a75bf8576a5959d7caedf91d3c20994c88c3": {
+      "processed_at": "2026-06-26T23:12:10.483353Z",
+      "published_at": "2026-06-25T07:14:06Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "VERDICT: A Cryptographically Verifiable Framework for Secure Data Lineage in Decentralized DAGs",
+      "url": "https://eprint.iacr.org/2026/1315"
     },
     "dfcc06f013d9ba555016a166838c649c12516795a108a0379dc7af3d0fbed5e9": {
       "processed_at": "2026-06-25T10:35:22.791404Z",
