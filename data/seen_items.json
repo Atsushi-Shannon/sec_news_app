@@ -400,6 +400,16 @@
       "title": "CrypFormBench: Benchmarking Formal Analysis Capability of Large Language Models for Cryptographic Schemes",
       "url": "https://arxiv.org/abs/2606.25561v1"
     },
+    "1b79d23d819e373b1dc488fe331f643c2f7819969c021cad5ff6baf8ab908b3c": {
+      "processed_at": "2026-06-28T10:21:02.561470Z",
+      "published_at": "2026-06-08T08:20:25Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "VOBE: Verifiable Outsourced Batched Encryption for Secure Delegation of Batched Decryption",
+      "url": "https://eprint.iacr.org/2026/1197"
+    },
     "1d2ff8979fa8f74f0840697132b01a48b2b03a5bf0e71559d0896bc87432ed47": {
       "processed_at": "2026-06-26T10:44:46.362299Z",
       "published_at": "2026-06-25T14:29:35Z",
@@ -1979,6 +1989,16 @@
       "source_id": "arxiv-crypto",
       "title": "TGCM: Topic-Guided Generative Disentanglement of Interleaved APT Technique Sequences",
       "url": "https://arxiv.org/abs/2606.18651v1"
+    },
+    "844c71c6198ed0902741db91e73aac32763e05b0630840ec469cd5e0118807a0": {
+      "processed_at": "2026-06-28T10:21:02.561511Z",
+      "published_at": "2026-06-07T07:54:01Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Cryptanalytic Properties of Mealy Machines",
+      "url": "https://eprint.iacr.org/2026/1193"
     },
     "84d3a83bf9db9d48c72098c33fc371dcc386f7000f65f3dbadce21fa347f7e77": {
       "processed_at": "2026-06-18T07:18:35.071964Z",
