@@ -50,6 +50,16 @@
       "title": "Related Differentials of $4\\times4$ MDS Matrices: A Complete Characterization",
       "url": "https://eprint.iacr.org/2026/1251"
     },
+    "034a28b885659a492c9a3bb5ff75d7209a1599cde44d47bb4aaf2368a2094e8f": {
+      "processed_at": "2026-06-29T23:02:52.974682Z",
+      "published_at": "2026-06-26T11:53:14Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Parallelization of Large-Scale Modular Multiplication via Low-Latency LogJumps",
+      "url": "https://eprint.iacr.org/2026/1324"
+    },
     "037d157ac5c8eeeb936295f78d9171c1d9013e637bdc9f41b2f56caf8e24116f": {
       "processed_at": "2026-06-19T11:59:38.030200Z",
       "published_at": "2026-06-17T21:55:45Z",
@@ -199,6 +209,16 @@
       "source_id": "arxiv-crypto",
       "title": "SpikeTimer: Exploring Active Copyright Protection in Spiking Neural Networks via Temporal Backdoor Regularization",
       "url": "https://arxiv.org/abs/2606.26841v1"
+    },
+    "0f5e4990e19e7448d2dc604ff07926ae48da68521277b0035b3bf7ed2a36d0df": {
+      "processed_at": "2026-06-29T23:02:52.974737Z",
+      "published_at": "2026-06-25T20:22:47Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Differentially Private Intermediate Result Resizing for Scalable Secure Multi-Party Analytics",
+      "url": "https://eprint.iacr.org/2026/1320"
     },
     "0f87e97a8c1b5c899a3009ae8e2ae7a916cab9d42a58bd79d48dcc340d2515d8": {
       "processed_at": "2026-06-26T10:44:46.362638Z",
@@ -520,6 +540,16 @@
       "title": "The EVerest Dataset for Secure Software Engineering",
       "url": "https://arxiv.org/abs/2606.23197v1"
     },
+    "208a9e88bd8775a37e59f087b5af96b468caaa2434b82baddb039eb86daac5eb": {
+      "processed_at": "2026-06-29T23:02:52.974600Z",
+      "published_at": "2026-06-28T07:04:24Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Real-world Qualification Proof: A Protocol for Supporting Real-world Assets in DeFi",
+      "url": "https://eprint.iacr.org/2026/1330"
+    },
     "20fd98b35c58dee574337d5da6cc29c810e1a4ece5d07885ac5c67120a7307f6": {
       "processed_at": "2026-06-18T07:18:35.071944Z",
       "published_at": "2026-05-26T12:02:14Z",
@@ -659,6 +689,16 @@
       "source_id": "arxiv-crypto",
       "title": "OptChain: Achieving Optimal Throughput of Permissionless Blockchains",
       "url": "https://arxiv.org/abs/2606.23405v1"
+    },
+    "277954fe83e0096a5b0592ba8d5f3df50eaff58000fdc93d836de23180d406d9": {
+      "processed_at": "2026-06-29T23:02:52.974628Z",
+      "published_at": "2026-06-27T02:32:05Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Shorter Hash-based Signatures via Bucket Thinning",
+      "url": "https://eprint.iacr.org/2026/1328"
     },
     "27a651df1615dce66acd129da91152aa61c7877364bfb216944f50805079d41b": {
       "processed_at": "2026-06-18T07:18:35.071456Z",
@@ -1160,6 +1200,16 @@
       "title": "The sorry state of skill distribution",
       "url": "https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution"
     },
+    "44e4dc2d22bb4f1c0724928235bc81b00a2401be07635d969063cc76434306c6": {
+      "processed_at": "2026-06-29T23:02:52.974723Z",
+      "published_at": "2026-06-26T05:22:38Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Signing It Twice: Mitigating the Effects of State Reuse for Stateful Signatures",
+      "url": "https://eprint.iacr.org/2026/1321"
+    },
     "452ff52074940227fbb442da513ac5e3d17086eaf8b0945c32969c8d2dbc4862": {
       "processed_at": "2026-06-19T11:59:38.030088Z",
       "published_at": "2026-06-18T14:05:19Z",
@@ -1449,6 +1499,16 @@
       "source_id": "microsoft-security-blog",
       "title": "AI brands as bait: How threat actors are using the AI hype in social engineering",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering"
+    },
+    "588e342471ea1559a291a1028f2e584b9abd70fbd6846b77e4d77ae03b74835a": {
+      "processed_at": "2026-06-29T23:02:52.974614Z",
+      "published_at": "2026-06-28T00:15:59Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Flock: Fast Proving for Batch Boolean Computations",
+      "url": "https://eprint.iacr.org/2026/1329"
     },
     "58f50af7501fcc4fd9a1f57572cdf89fb264ea7b6730f891aa7f290c57448e8a": {
       "processed_at": "2026-06-24T23:09:00.727046Z",
@@ -1940,6 +2000,16 @@
       "title": "On the State-Compromise Security of End-to-End Real-Time Group Communication",
       "url": "https://eprint.iacr.org/2026/1165"
     },
+    "7a32ebdc8c23fe8687de09d18eb6fd10790f94798b546158af331af433efe008": {
+      "processed_at": "2026-06-29T23:02:52.974558Z",
+      "published_at": "2026-06-28T20:31:00Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Differentiated Approach for Post-Quantum DNSSEC",
+      "url": "https://eprint.iacr.org/2026/1332"
+    },
     "7aaddac958a9e4086a4ef303fc8f025eca02ff03f0f7da557054f40025321d23": {
       "processed_at": "2026-06-29T12:24:06.392930Z",
       "published_at": "2026-06-26T03:54:20Z",
@@ -2109,6 +2179,16 @@
       "source_id": "cloudflare-blog",
       "title": "Announcing Claude Compliance API support with Cloudflare CASB",
       "url": "https://blog.cloudflare.com/casb-anthropic-integration"
+    },
+    "81f9869f206937e30a869a43cd2214f3ba25ab21e29047ee3bf30a2e325da761": {
+      "processed_at": "2026-06-29T23:02:52.974750Z",
+      "published_at": "2026-06-25T19:53:19Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Real-World Law-Enforcement Hack: The Case of Encrochat",
+      "url": "https://eprint.iacr.org/2026/1319"
     },
     "825d84f61b2f3a1dca4186ef689b6abd1db1da88f674ce3c7498d42084986a51": {
       "processed_at": "2026-06-29T12:24:06.392843Z",
@@ -2650,6 +2730,16 @@
       "title": "How (not) to Switch FHE Schemes: Framework and Attacks in the IND-CPA-D Model",
       "url": "https://eprint.iacr.org/2026/285"
     },
+    "a341b5791e0ebed88300a69237c398ff3c61e943029e217aaf9ff11b6cbafb54": {
+      "processed_at": "2026-06-29T23:02:52.974656Z",
+      "published_at": "2026-06-26T13:40:03Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "LaMS: A p-adic Layered Modulus Switching for Provable Dual Attacks on LWE",
+      "url": "https://eprint.iacr.org/2026/1326"
+    },
     "a3aa3d8413f54a65f5a6e123425a3686ae4843c384f0b95fe5695e57878d2614": {
       "processed_at": "2026-06-23T23:11:27.126850Z",
       "published_at": "2026-05-29T15:08:41Z",
@@ -3110,6 +3200,16 @@
       "title": "A Watermark for Vision-Language-Action and World Action Models",
       "url": "https://arxiv.org/abs/2606.23574v1"
     },
+    "b7f86e0e77a4f1111526d535443da48f295e437fba2bdfbd6d47c6bc3dc6d0be": {
+      "processed_at": "2026-06-29T23:02:52.974585Z",
+      "published_at": "2026-06-28T17:41:30Z",
+      "score": 17,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "The Most Efficient Protocol for PAKE: What Exact Stuff Do You Need to Hash at the End?",
+      "url": "https://eprint.iacr.org/2026/1331"
+    },
     "b9b78217b352a9a1406849dd91dbacb001d24a4d15e750afebf14bbcaf2748bb": {
       "processed_at": "2026-06-18T07:18:35.071770Z",
       "published_at": "2026-06-13T11:52:21Z",
@@ -3460,6 +3560,26 @@
       "title": "Architectural Bias in Face Presentation Attack Detection: A Comparative Study of Vision Transformers and Convolutional Neural Networks",
       "url": "https://arxiv.org/abs/2606.18510v1"
     },
+    "ce5e54d9fa7332a612d006c423f15127e8dde742ecd7120a74e4d87d2d5136e4": {
+      "processed_at": "2026-06-29T23:02:52.974696Z",
+      "published_at": "2026-06-26T11:10:12Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "miniMEDS - Short GMW Signatures from Isometry Hints",
+      "url": "https://eprint.iacr.org/2026/1323"
+    },
+    "cf520755f9f831e13c8d2552e77b66b044caf9bb0de823f2e0b0153b7862ea27": {
+      "processed_at": "2026-06-29T23:02:52.974642Z",
+      "published_at": "2026-06-26T15:52:37Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Fault assisted Man-In-The-Middle Attack on MAYO",
+      "url": "https://eprint.iacr.org/2026/1327"
+    },
     "cfb532b8c6eb7585bea87bb885a142a3d5a033f18b32b7068db772fc7e2132fc": {
       "processed_at": "2026-06-18T23:48:45.742945Z",
       "published_at": "2026-05-14T13:00:00Z",
@@ -3750,6 +3870,16 @@
       "title": "Weekly Report: Apache HTTP Server 2.4に複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
     },
+    "dc87ded99e0d564618e7c16f806bc6f90d6be3abe034606ed7a84daaa0f0cdaa": {
+      "processed_at": "2026-06-29T23:02:52.974670Z",
+      "published_at": "2026-06-26T12:01:47Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "The Generalised Tate Pairing over any field",
+      "url": "https://eprint.iacr.org/2026/1325"
+    },
     "dcce0386f335c0c238cdc86c54772d9be9802e1dbc80d3ff1ab116a24bdb6ffc": {
       "processed_at": "2026-06-18T07:18:35.071729Z",
       "published_at": "2026-06-15T13:00:00Z",
@@ -4000,6 +4130,16 @@
       "title": "Enforcing the First AS in BGP AS_PATHs",
       "url": "https://blog.cloudflare.com/enforce-first-as-bgp"
     },
+    "ef745ec1f3a097c666fe4fcc62caa24e5c4847da99628ec686d78b1c871acf19": {
+      "processed_at": "2026-06-29T23:02:52.974710Z",
+      "published_at": "2026-06-26T08:24:29Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Reliable Homomorphic Matching for Fuzzy Labeled PSI at Scale",
+      "url": "https://eprint.iacr.org/2026/1322"
+    },
     "ef9638bf47e6812048198141b9bc0f2b7a879f124a0b728e02f62f678d70ee71": {
       "processed_at": "2026-06-24T10:41:50.825134Z",
       "published_at": "2026-06-23T11:16:33Z",
@@ -4219,6 +4359,16 @@
       "source_id": "arxiv-crypto",
       "title": "AdvScan: Black-Box Adversarial Example Detection at Runtime through Power Analysis",
       "url": "https://arxiv.org/abs/2606.27704v1"
+    },
+    "fe4d60ead4f72d896598be1ec7dea8a4a8a189244a5d92b987f9bd03099e5064": {
+      "processed_at": "2026-06-29T23:02:52.974508Z",
+      "published_at": "2026-06-29T16:27:46Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Chromium extension uses AI‑related branding to redirect browser search",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search"
     },
     "ff73695935d7d5b8d413036923d53146315cd0b488f72f3182f8d1909b73b7c9": {
       "processed_at": "2026-06-23T23:11:27.126836Z",
