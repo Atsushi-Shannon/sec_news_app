@@ -1850,6 +1850,16 @@
       "title": "Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix",
       "url": "https://arxiv.org/abs/2606.19474v1"
     },
+    "62dc4c54ce08bebb0d3a06b788b9573064586b1eded82bbe0a8ef5da3adbe010": {
+      "processed_at": "2026-06-30T23:17:18.874524Z",
+      "published_at": "2026-06-30T19:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Accelerating the quantum-safe timeline",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts"
+    },
     "63f211913fec2851d7d5b62707a159a10eaa8684ce4544250e5c7a3a7bc81593": {
       "processed_at": "2026-06-23T10:55:48.540383Z",
       "published_at": "2026-06-22T02:44:46Z",
@@ -2890,6 +2900,16 @@
       "title": "Beyond Classification Accuracy: An Exploration-Range Evaluation of Adaptive Crawling for Fake Shopping Sites",
       "url": "https://arxiv.org/abs/2606.21353v2"
     },
+    "9f5eb9833fa424bc3c3451283381712a9477f85fe8ebe56444716cfda2c02f1b": {
+      "processed_at": "2026-06-30T23:17:18.874588Z",
+      "published_at": "2026-06-30T15:57:11Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Securing AI agents: When AI tools move from reading to acting",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting"
+    },
     "9f5f0e921091e7c33d52ebbc6d7e3536753a336ceedf1ca4fdb9caa19db94081": {
       "processed_at": "2026-06-19T23:02:40.718077Z",
       "published_at": "2026-06-17T22:56:23Z",
@@ -2919,6 +2939,16 @@
       "source_id": "arxiv-crypto",
       "title": "Sponsored Group Signature and its Application to Privacy-preserving Guest Access in Smart Environments",
       "url": "https://arxiv.org/abs/2606.25248v1"
+    },
+    "a136d05794b9c3e325a50a2933372ef830d0283fc19dc4ef6b95ce1d70bee0dc": {
+      "processed_at": "2026-06-30T23:17:18.874601Z",
+      "published_at": "2026-06-30T11:00:00Z",
+      "score": 17,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "trail-of-bits-blog",
+      "title": "Shipping post-quantum cryptography to Python",
+      "url": "https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python"
     },
     "a1d048b821a6f38d3c7129186d57ecc4fa403fcce9529becb4284c2211839cdc": {
       "processed_at": "2026-06-19T23:02:40.718118Z",
@@ -3349,6 +3379,16 @@
       "source_id": "arxiv-crypto",
       "title": "AIChilles: Automatically Uncovering Hidden Weaknesses in AI-Evolved Systems",
       "url": "https://arxiv.org/abs/2606.15834v2"
+    },
+    "b032c4fadd87b8b1036b9c1ac2169bd761d1b01c56d477c44631c9f906b009e2": {
+      "processed_at": "2026-06-30T23:17:18.874572Z",
+      "published_at": "2026-06-30T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "​​What’s new in Microsoft Security: June 2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026"
     },
     "b1496b59114ddc86e562a5e29c2f1252320f18a59b4397c23da28f35a4602a82": {
       "processed_at": "2026-06-30T10:49:24.831574Z",
