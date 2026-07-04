@@ -150,6 +150,16 @@
       "title": "The post-quantum EO is an important milestone. Now it’s time to get to work",
       "url": "https://blog.cloudflare.com/post-quantum-eo-2026"
     },
+    "069960d5f5ff7e7e34f8a89eeb7e891806fe5d4d4ec2240386ec654ea2391c0f": {
+      "processed_at": "2026-07-04T10:00:18.699226Z",
+      "published_at": "2026-07-01T09:15:49Z",
+      "score": 23,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Hardware Private Cubic Circuits",
+      "url": "https://eprint.iacr.org/2026/1351"
+    },
     "078e152932c46908575b8bc64ec8bbc0414b391030c7a33efeeb7831f1beb956": {
       "processed_at": "2026-06-23T10:55:48.540359Z",
       "published_at": "2026-06-22T04:20:30Z",
@@ -719,6 +729,16 @@
       "source_id": "arxiv-crypto",
       "title": "Optimal Small Set Expanders and Their Codes",
       "url": "https://arxiv.org/abs/2606.23579v1"
+    },
+    "1dc3c1071b8117ef6a1dc7ab43ca2b98b0097a6bcf23eaa1da9a3cb5ba927034": {
+      "processed_at": "2026-07-04T10:00:18.699188Z",
+      "published_at": "2026-07-01T15:10:19Z",
+      "score": 15,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Compressing Correlations via Secret Replication: PCFs from Symmetric Cryptography",
+      "url": "https://eprint.iacr.org/2026/1355"
     },
     "1ea10acd44c050697f5c9a2f0c56a927a4b1a783c9de7daade2cee5fd6e31ba7": {
       "processed_at": "2026-07-02T10:29:31.874746Z",
@@ -1369,6 +1389,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: crypton-x509-validationに不適切な証明書検証の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html"
+    },
+    "36fb40a9447eb6d40c584c2c1e0e1309ed69a630a125375bb01e2dd9a1a25bac": {
+      "processed_at": "2026-07-04T10:00:18.699217Z",
+      "published_at": "2026-07-01T11:30:05Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Dead Man’s Switch Cryptography",
+      "url": "https://eprint.iacr.org/2026/1352"
     },
     "37a33babb25f59c7a99ef846f26212a7d25902e5729d6c17ef79cdadbff47082": {
       "processed_at": "2026-06-30T10:49:24.831380Z",
@@ -2750,6 +2780,16 @@
       "title": "How Humans, Bots, and Agents Communicate About Vulnerabilities in Pull Requests",
       "url": "https://arxiv.org/abs/2606.28125v1"
     },
+    "70b94c87af823eca6b3284aacf7550f0ccbbeb3a2f584d02e916b9b684710a46": {
+      "processed_at": "2026-07-04T10:00:18.699200Z",
+      "published_at": "2026-07-01T13:10:47Z",
+      "score": 17,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Adaptive Quantum-Resistant Hybrid Encryption Framework for Secure IoMT Edge Data Sharing",
+      "url": "https://eprint.iacr.org/2026/1354"
+    },
     "70ef354491c502ad53de30dec178c713500fed49b461898ca7e8878f7b024912": {
       "processed_at": "2026-07-03T10:27:28.895261Z",
       "published_at": "2026-07-01T21:42:47Z",
@@ -2870,6 +2910,16 @@
       "title": "Exploring Side-Channel Protections in Hardware Implementations of PQC ML-KEM Verification",
       "url": "https://arxiv.org/abs/2606.31681v1"
     },
+    "75c1b1633083a4aa03a5e0031cc54f5c93b46eed03f91070dc6592aa1899e16e": {
+      "processed_at": "2026-07-04T10:00:18.699146Z",
+      "published_at": "2026-07-01T19:47:21Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Spain: Succinct proofs for numerical computations",
+      "url": "https://eprint.iacr.org/2026/1356"
+    },
     "764a91b2f6d2d566a11e761de8fb3b5405231162aeb5c8a59ca732dcd635571f": {
       "processed_at": "2026-06-30T10:49:24.831542Z",
       "published_at": "2026-06-29T05:37:22Z",
@@ -2889,6 +2939,16 @@
       "source_id": "arxiv-crypto",
       "title": "A Hybrid Framework For Crypto-Ransomware Detection In Enterprise Shared Storage",
       "url": "https://arxiv.org/abs/2606.30586v1"
+    },
+    "77eb4c3398ddd01565e8ad8ee09e35153b4516f10ad9a7a422d2ae17d4acc569": {
+      "processed_at": "2026-07-04T10:00:18.699209Z",
+      "published_at": "2026-07-01T11:59:33Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "3PaaS: Privacy-Preserving Post-Compromise Security as a Service",
+      "url": "https://eprint.iacr.org/2026/1353"
     },
     "797ebbde9121c40e67bf97178682bc9e754e1bfd7677805f0513eeb376a5ef2b": {
       "processed_at": "2026-07-01T23:20:20.299437Z",
