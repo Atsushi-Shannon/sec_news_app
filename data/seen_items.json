@@ -4790,6 +4790,16 @@
       "title": "CHERI-D: Secure and efficient inline object ID for CHERI temporal memory safety",
       "url": "https://arxiv.org/abs/2606.19055v1"
     },
+    "bb39aa4ba302b2666b5e1ced2f8d8f4dee916403ece078ff389d504ff0bdbd8e": {
+      "processed_at": "2026-07-05T23:05:23.060222Z",
+      "published_at": "2026-05-29T20:30:15Z",
+      "score": 4,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "PE-means: Improved Differentially Private $k$-means Clustering through Private Evolution",
+      "url": "https://arxiv.org/abs/2606.00342v2"
+    },
     "bb53157bc05b57347c2b280c23085f30fa2da6e99870e3118b8e7533006991a6": {
       "processed_at": "2026-06-18T07:18:35.071313Z",
       "published_at": "2026-06-17T18:30:00Z",
