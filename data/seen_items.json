@@ -830,6 +830,16 @@
       "title": "Build your own vulnerability harness",
       "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness"
     },
+    "2282046ee59d0dce99de09ec9197395e93cb6e4983ff9cac32ed86b66ced1166": {
+      "processed_at": "2026-07-06T23:12:31.232290Z",
+      "published_at": "2026-07-04T01:19:19Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Analysing the Post-Quantum Security of S/MIME",
+      "url": "https://eprint.iacr.org/2026/1374"
+    },
     "228d0c074ea2a5cb2dfc8c53f98ec8e2ae69db6189c367eabd2543321487be3a": {
       "processed_at": "2026-06-19T23:02:40.718036Z",
       "published_at": "2026-06-19T13:00:00Z",
@@ -889,6 +899,16 @@
       "source_id": "arxiv-crypto",
       "title": "TL++: Accuracy and Privacy Preserving Traversal Learning for Distributed Intelligent Systems",
       "url": "https://arxiv.org/abs/2606.25627v1"
+    },
+    "22d6b2937e19851cc0bd55f7bd0c797447c5f8fc7e3c34763807242e66c50473": {
+      "processed_at": "2026-07-06T23:12:31.232331Z",
+      "published_at": "2026-07-03T13:56:27Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "The Small-Field Turn in Succinct Proofs: A Systematization of Finite-Field Choice in Modern SNARKs and STARKs",
+      "url": "https://eprint.iacr.org/2026/1371"
     },
     "234cafa8e0283f4cc026d9e914710eea2263ee34cb06106bbd03c4868ca6ad49": {
       "processed_at": "2026-06-18T07:18:35.071792Z",
@@ -1680,6 +1700,16 @@
       "title": "What Was That Again? Certified Robustness for Automatic Speech Recognition",
       "url": "https://arxiv.org/abs/2606.27698v2"
     },
+    "42c92a58c46b455949be2e0bc7a8a4a5538632a094f6f0687d1adadb0fad9d59": {
+      "processed_at": "2026-07-06T23:12:31.232250Z",
+      "published_at": "2026-07-05T10:47:42Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "HAWK ``Guessing Game'' is not Polynomial-Time",
+      "url": "https://eprint.iacr.org/2026/1377"
+    },
     "432b3d03e20e4f924f89757a6dba20f91a03dd09ab3a4dcf90dfd9eb8b2d518c": {
       "processed_at": "2026-06-26T10:44:46.362397Z",
       "published_at": "2026-06-25T12:11:28Z",
@@ -1830,6 +1860,16 @@
       "title": "The MDS or NMDS for Modified GRS codes with flexible hull dimensions and lengths",
       "url": "https://arxiv.org/abs/2606.25662v1"
     },
+    "486ae41edc51124a862f866f15f0c7c3e3d74ffbf40835733e4668be169bc350": {
+      "processed_at": "2026-07-06T23:12:31.232165Z",
+      "published_at": "2026-07-06T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management"
+    },
     "488470004dcf9f935b7a2385f69aacceb14d8109dafcafae4ddae39bee86fc5c": {
       "processed_at": "2026-06-18T06:50:34.963558Z",
       "published_at": "2025-11-10T02:24:07Z",
@@ -1849,6 +1889,16 @@
       "source_id": "arxiv-crypto",
       "title": "High-Performance NTT Accelerators for PQC leveraging Unified Redundant Arithmetic and Fine-Tuned Microarchitecture",
       "url": "https://arxiv.org/abs/2607.00621v1"
+    },
+    "4ab6f22a92cfa6f37468e1f9dd2ee2efd13f4c91e04c58c3b4056948c2552ef1": {
+      "processed_at": "2026-07-06T23:12:31.232378Z",
+      "published_at": "2026-07-03T01:53:52Z",
+      "score": 30,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "SDDT: An Operation Skip Attack Framework for Bitslice Ciphers—Validated on PIPO",
+      "url": "https://eprint.iacr.org/2026/1368"
     },
     "4b98b7918765fd68ae96574ba702ccc7585e68d1c128d423d73ebd659a26e0b6": {
       "processed_at": "2026-06-29T12:24:06.392834Z",
@@ -2630,6 +2680,16 @@
       "title": "DKVE: Decentralized Key Validation for End-to-End Encrypted Messaging",
       "url": "https://arxiv.org/abs/2606.26486v1"
     },
+    "6bc4e5b759aa6c13174a76f62fe25d77e02ed9b94627ab8b777fc62fd8f5cef7": {
+      "processed_at": "2026-07-06T23:12:31.232236Z",
+      "published_at": "2026-07-05T21:20:59Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "(R)Icy-DVRF: A Robust Distributed Verifiable Random Function based on ROAST signatures",
+      "url": "https://eprint.iacr.org/2026/1378"
+    },
     "6c5780e4ff8cf63130b9633641ae5b3ff38ea22b9568558bf8738c2c1c4c67a1": {
       "processed_at": "2026-07-02T23:12:42.116420Z",
       "published_at": "2026-06-30T09:55:22Z",
@@ -2989,6 +3049,16 @@
       "source_id": "iacr-eprint",
       "title": "On the State-Compromise Security of End-to-End Real-Time Group Communication",
       "url": "https://eprint.iacr.org/2026/1165"
+    },
+    "7a2308ff060fc32262ba1c67ccc7417b94157ebe9e2a856ca90df3b538ff9e5d": {
+      "processed_at": "2026-07-06T23:12:31.232277Z",
+      "published_at": "2026-07-04T13:52:17Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "MPC with Weighted and Fluid Participation",
+      "url": "https://eprint.iacr.org/2026/1375"
     },
     "7a32ebdc8c23fe8687de09d18eb6fd10790f94798b546158af331af433efe008": {
       "processed_at": "2026-06-29T23:02:52.974558Z",
@@ -3560,6 +3630,16 @@
       "title": "Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees",
       "url": "https://arxiv.org/abs/2606.24322v1"
     },
+    "8ea834450017ff7eabec51921ce0c78adc69bb8fe7d0b0f9317a99c81cbc8cff": {
+      "processed_at": "2026-07-06T23:12:31.232432Z",
+      "published_at": "2026-07-02T13:08:20Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Halfspace Learning for Lattice Signature Key Recovery from Signs",
+      "url": "https://eprint.iacr.org/2026/1366"
+    },
     "8ed50995da0de70953bff63d09f79596af9b433b2ca7eaa46b2f51a58050831a": {
       "processed_at": "2026-06-19T11:59:38.030177Z",
       "published_at": "2026-06-18T01:40:36Z",
@@ -3810,6 +3890,16 @@
       "title": "CITADEL: CSI-Based Jamming Detection and Open-Set Classification for IIoT Networks",
       "url": "https://arxiv.org/abs/2606.22939v1"
     },
+    "9af0066e1eb8785330b2b9addb75655022bd487243745885f77bba092a1ea11a": {
+      "processed_at": "2026-07-06T23:12:31.232473Z",
+      "published_at": "2026-07-02T10:07:13Z",
+      "score": 24,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Slicing Bits and Cutting Costs in CDT Sampling: High-Order Masking of FrodoKEM's Gaussian Sampler, Revisited",
+      "url": "https://eprint.iacr.org/2026/1363"
+    },
     "9ba4caf8ed529f026908db4fbd5f1afde463036cd5a03aebb30052476dff2494": {
       "processed_at": "2026-06-30T10:49:24.831449Z",
       "published_at": "2026-06-29T11:57:32Z",
@@ -3839,6 +3929,16 @@
       "source_id": "iacr-eprint",
       "title": "Diamond iO: Indistinguishability Obfuscation at Near Functional-Encryption Cost via Matrix Products",
       "url": "https://eprint.iacr.org/2025/236"
+    },
+    "9c8c2d691537d7f262f36d2586910cebc97a570f49c2b768d383265ad14a28ec": {
+      "processed_at": "2026-07-06T23:12:31.232344Z",
+      "published_at": "2026-07-03T13:18:08Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "smklhs: Succinct Multi key Linearly Homomorphic Signatures for Certified Statistics",
+      "url": "https://eprint.iacr.org/2026/1370"
     },
     "9cbd65d8c5e651353931efd1a44d5dc31347f3a5c04cd366c2c7c8515aef4f4e": {
       "processed_at": "2026-06-18T06:49:37.697884Z",
@@ -4419,6 +4519,16 @@
       "source_id": "arxiv-crypto",
       "title": "AutoPRAC: Automating Attack Discovery for PRAC-Based Rowhammer Defenses using Model Checkers",
       "url": "https://arxiv.org/abs/2606.23905v1"
+    },
+    "ace568bb77497b517b44dc401766c75d0011bed65fdc9902620b8d05eef21a4d": {
+      "processed_at": "2026-07-06T23:12:31.232363Z",
+      "published_at": "2026-07-03T09:46:23Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Algebraic Modelings of the Supersingular Isogeny Problem",
+      "url": "https://eprint.iacr.org/2026/1369"
     },
     "ace877a05e9ae31da109e2f5bf1aee670804e4ee755c25f1ef2e0acf1e8815f2": {
       "processed_at": "2026-07-02T10:29:31.874716Z",
@@ -5030,6 +5140,16 @@
       "title": "The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens",
       "url": "https://arxiv.org/abs/2606.26704v1"
     },
+    "c2eeb416dde0075ca0334b8c37528fecfad2f90ad3baa7835a28b01f3c885cc7": {
+      "processed_at": "2026-07-06T23:12:31.232448Z",
+      "published_at": "2026-07-02T12:37:21Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Reducing Multiplicative Complexity via Conjugate Cipher",
+      "url": "https://eprint.iacr.org/2026/1365"
+    },
     "c325935821bffc4438294f202f3f041171760dc074d698c114251283e1476cea": {
       "processed_at": "2026-06-25T10:35:22.791664Z",
       "published_at": "2026-06-23T22:28:30Z",
@@ -5039,6 +5159,16 @@
       "source_id": "arxiv-crypto",
       "title": "Homomorphic Encryptions for Privacy Preserving Vision",
       "url": "https://arxiv.org/abs/2606.25216v1"
+    },
+    "c35e3515c68980a1c3df36150c5e6929ba8953a17937e3a088cf14c8d4166faa": {
+      "processed_at": "2026-07-06T23:12:31.232461Z",
+      "published_at": "2026-07-02T11:59:05Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Time vs Success Probability Tradeoff for SVP and BDD with Implications to LWE and SIS",
+      "url": "https://eprint.iacr.org/2026/1364"
     },
     "c40c8f3e0ad09cc5a88c6b3e4b6fa2b2b7d6eb7526f1f3acbdd6ec924ed63f03": {
       "processed_at": "2026-07-01T11:17:56.313113Z",
@@ -5059,6 +5189,16 @@
       "source_id": "arxiv-crypto",
       "title": "Understanding the (In)Security of Vibe-Coded Applications",
       "url": "https://arxiv.org/abs/2606.23130v1"
+    },
+    "c551edfeda9c0b3e604664c567b95f6d36ad1bf2e91447ac18a1436ed94341ba": {
+      "processed_at": "2026-07-06T23:12:31.232264Z",
+      "published_at": "2026-07-05T06:31:15Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Secure and Efficient Federated Learning with Adaptive Differential Privacy and Verifiable Homomorphic Aggregation",
+      "url": "https://eprint.iacr.org/2026/1376"
     },
     "c5dac7c65898a60432e42869ec0a2d29e20b72f4390af00cf7570e2c503c4cd5": {
       "processed_at": "2026-06-25T10:35:22.791708Z",
@@ -5329,6 +5469,16 @@
       "source_id": "iacr-eprint",
       "title": "miniMEDS - Short GMW Signatures from Isometry Hints",
       "url": "https://eprint.iacr.org/2026/1323"
+    },
+    "cef2d0e6d5426f15995e510a300e560a0ec2e077edea4e5e88a9f01fee675fae": {
+      "processed_at": "2026-07-06T23:12:31.232317Z",
+      "published_at": "2026-07-03T15:11:40Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Retrieve-Compute PIR and Its Applications",
+      "url": "https://eprint.iacr.org/2026/1372"
     },
     "cf0e8bc0249a799c544719af96de0429d5465f9609af2fd0b8f74b6e01321e3a": {
       "processed_at": "2026-07-01T11:17:56.313106Z",
@@ -5930,6 +6080,16 @@
       "title": "How we reduced core unit boot time from hours to minutes",
       "url": "https://blog.cloudflare.com/optimizing-core-unit-boot-time"
     },
+    "e5795a572f9d2778c1178e7bb05d35af872844984c5cf8a42271b35927ac4681": {
+      "processed_at": "2026-07-06T23:12:31.232217Z",
+      "published_at": "2026-07-06T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Your Worker can now have its own cache in front of it",
+      "url": "https://blog.cloudflare.com/workers-cache"
+    },
     "e6a822571dcd6349b9d9915966d913a52c3a1c8705f8a0f9974d65ef2e55b7aa": {
       "processed_at": "2026-06-30T10:49:24.831153Z",
       "published_at": "2026-06-29T17:58:16Z",
@@ -6139,6 +6299,16 @@
       "source_id": "arxiv-crypto",
       "title": "Shoot the Honey, Cloak the Player: Towards Zero-Runtime-Overhead Proactive Defense and Detection for Visual Game Cheating",
       "url": "https://arxiv.org/abs/2606.25734v1"
+    },
+    "ed8a9a189cb2fe0941d19e5fa536e0e40a5b4a1e7f8adbe1e7e43feb5c492f54": {
+      "processed_at": "2026-07-06T23:12:31.232304Z",
+      "published_at": "2026-07-03T23:33:03Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Formalizing Privacy of Anonymous Credentials: A Provably Secure Framework with Predicate Proofs",
+      "url": "https://eprint.iacr.org/2026/1373"
     },
     "edac864ac0ae134580214c6ee4332aeeb47af98d3b79d5859136254cd8274b47": {
       "processed_at": "2026-06-18T07:18:35.071908Z",
@@ -6469,6 +6639,16 @@
       "source_id": "microsoft-security-blog",
       "title": "Chromium extension uses AI‑related branding to redirect browser search",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search"
+    },
+    "fe76b9e39d859816afb85ecba807ff8b5efc5a8d018097a26cca4cec126a7b06": {
+      "processed_at": "2026-07-06T23:12:31.232391Z",
+      "published_at": "2026-07-02T18:54:08Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "SoK: Hash-Based Polynomial Commitments and Low-Degree Tests: From FRI to Basefold, STIR, and WHIR",
+      "url": "https://eprint.iacr.org/2026/1367"
     },
     "ff34773250671bc9556551e48567bd9001ce1226cfc9d7d1f2475d7ee194092d": {
       "processed_at": "2026-07-01T11:17:56.312769Z",
