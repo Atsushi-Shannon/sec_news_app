@@ -120,6 +120,16 @@
       "title": "Apples, Oranges, and Signatures: Pitfalls and Methodology in ML-DSA Benchmarking",
       "url": "https://eprint.iacr.org/2026/1333"
     },
+    "053172ae5115f254e85b491eb216ad3ca97f6931385dc342178655c358570a84": {
+      "processed_at": "2026-07-07T23:05:56.370669Z",
+      "published_at": "2026-07-06T13:02:03Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Concrete Bit-Operation Cost of XL: For Solving Multivariate Quadratic Systems Using Wiedemann and Berlekamp-Massey",
+      "url": "https://eprint.iacr.org/2026/1382"
+    },
     "05934532c7454760d0f3f8ac2894941a2de88aadbd15a9664cbdc0816bc8f773": {
       "processed_at": "2026-07-07T10:46:44.765559Z",
       "published_at": "2026-06-15T07:50:00Z",
@@ -2260,6 +2270,16 @@
       "title": "Weekly Report: 複数のFortinet製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
     },
+    "559a5b3bf0cd7140d19881d7d1dcf0ef06003960fea58111f4c77bbaeae95633": {
+      "processed_at": "2026-07-07T23:05:56.370692Z",
+      "published_at": "2026-07-06T09:54:14Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "TIM: A Sensitive-Parameter-Privacy Blind Watermarking Based on Zero-Knowledge Proof",
+      "url": "https://eprint.iacr.org/2026/1380"
+    },
     "559ed7802882befe3a0adca62321fd377c9c844244f67194394a6c5dd4bfd837": {
       "processed_at": "2026-06-18T07:18:35.071778Z",
       "published_at": "2026-06-12T13:00:00Z",
@@ -2590,6 +2610,16 @@
       "title": "BlowLive: Blow-Based Multi-Factor Biometrics with Liveness Detection and Revocability",
       "url": "https://arxiv.org/abs/2606.25998v1"
     },
+    "60a1238c25676cccbd387d364b834efbfc8d8411f30e78e25c06284e9532adb4": {
+      "processed_at": "2026-07-07T23:05:56.370704Z",
+      "published_at": "2026-07-06T07:12:32Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Hierarchical Structure in Attribute-Based Inner-Product Functional Encryption",
+      "url": "https://eprint.iacr.org/2026/1379"
+    },
     "6172ce211e7e863932184ebd51524b20d05cabcd067bef0a3d79c48ebdce81ab": {
       "processed_at": "2026-06-18T07:18:35.071422Z",
       "published_at": "2026-06-17T13:00:00Z",
@@ -2619,6 +2649,16 @@
       "source_id": "arxiv-crypto",
       "title": "Taxonomy of Risks on Automated Fact-Checking Systems Considering its Propagation",
       "url": "https://arxiv.org/abs/2606.25645v1"
+    },
+    "61ea8623d1de305d41210dbab4cfd5cc198d59d6d96556b4177546ac405ba2af": {
+      "processed_at": "2026-07-07T23:05:56.370612Z",
+      "published_at": "2026-07-07T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
+      "url": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge"
     },
     "61fcadb6471ddfe896c45c7f1889037d5b0ce732522a4a3b547e33a3d191cfe2": {
       "processed_at": "2026-07-02T23:12:42.116334Z",
@@ -4810,6 +4850,16 @@
       "title": "Single-Hop HRA-Secure Owner-Encrypted Lattice-Based Proxy Re-Encryption without Statistical Noise Flooding",
       "url": "https://eprint.iacr.org/2026/1113"
     },
+    "adab03b2352d5fad2ff0cada468631870ff3f2fdf523bde99b66c906c3c50f39": {
+      "processed_at": "2026-07-07T23:05:56.370654Z",
+      "published_at": "2026-07-06T18:29:47Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Notes on the ideal arithmetic correlations of $N$-ary sequences",
+      "url": "https://eprint.iacr.org/2026/1383"
+    },
     "ae1c693f96858df9e79ac520b07a6a3c3da7b073c03c2f3ac1f7bd56c69b2e78": {
       "processed_at": "2026-06-20T23:13:05.652589Z",
       "published_at": "2026-06-18T22:26:08Z",
@@ -5499,6 +5549,16 @@
       "source_id": "iacr-eprint",
       "title": "Resultants Meet Resultant: Improving CICO-1 and CICO-2 Attacks on ZK-Friendly Permutations",
       "url": "https://eprint.iacr.org/2026/1281"
+    },
+    "c6ed765f430ba572804a935c8230b81ec0fed443f328d70eb2dfc43ee840a391": {
+      "processed_at": "2026-07-07T23:05:56.370682Z",
+      "published_at": "2026-07-06T10:41:04Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "PriFT: Private Fine-Tuning using off-the-shelf MPC and HE libraries",
+      "url": "https://eprint.iacr.org/2026/1381"
     },
     "c73719dbe2cd6cc73ad251d8266376bf642aec131d6ed24d6e85e20ff7b1ab83": {
       "processed_at": "2026-06-18T07:18:35.071625Z",
