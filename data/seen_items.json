@@ -5150,6 +5150,16 @@
       "title": "Resilient Liquid Democracy: Mitigating Voting Power Imbalances via Secure Delegation Networks",
       "url": "https://arxiv.org/abs/2607.01730v1"
     },
+    "abccde4adeb06cad797d6beaaac57ffcdf13ae8be4bd96eaef6c77485cdffb53": {
+      "processed_at": "2026-07-08T23:12:06.987033Z",
+      "published_at": "2026-07-08T17:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud"
+    },
     "ac5fdc8676a0373d1dd49977626ac0be67cc687627b6e96cd2ee72be4366ef5d": {
       "processed_at": "2026-07-01T23:20:20.299462Z",
       "published_at": "2026-06-03T00:37:09Z",
@@ -6199,6 +6209,16 @@
       "source_id": "microsoft-security-blog",
       "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control"
+    },
+    "cd19378d26b4fb491e697d5592de148237c075375f0a0f81aa9d291cbeb40d06": {
+      "processed_at": "2026-07-08T23:12:06.987078Z",
+      "published_at": "2026-07-08T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing Meerkat: an experiment in global consensus",
+      "url": "https://blog.cloudflare.com/meerkat-introduction"
     },
     "cd200297e92e60d6e973d9b1f00c0ca804b7554f78e9944fe2bd88b10d56a385": {
       "processed_at": "2026-06-29T12:24:06.392970Z",
@@ -7649,6 +7669,16 @@
       "source_id": "iacr-eprint",
       "title": "A Communication-Efficient Local-Verification Framework for Maliciously Secure MPC with a Two-Thirds Honest Majority",
       "url": "https://eprint.iacr.org/2026/1307"
+    },
+    "fff2ad2d177526daeef2ab5b19b6bb6d6ac6495e3164c08971a7ea021b28c8ef": {
+      "processed_at": "2026-07-08T23:12:06.987094Z",
+      "published_at": "2026-07-08T11:00:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "trail-of-bits-blog",
+      "title": "Mutation testing comes to DAML",
+      "url": "https://blog.trailofbits.com/2026/07/08/mutation-testing-comes-to-daml"
     }
   },
   "version": 1
