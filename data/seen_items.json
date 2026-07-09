@@ -50,6 +50,16 @@
       "title": "Probabilistic Agents in Deterministic Audits: Evaluating Multi-Agent Systems for Automated Audits Based on the German IT-Grundschutz",
       "url": "https://arxiv.org/abs/2606.25622v1"
     },
+    "01771a45d3a83ee1421f53d3a3fec809040c80ae2bc52359a88bc6f84adff28f": {
+      "processed_at": "2026-07-09T23:15:53.292218Z",
+      "published_at": "2026-07-09T15:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware"
+    },
     "018918457598d183baf0b7d465b08f2295212bf163f9acbcdb0f8acd14bbe2bb": {
       "processed_at": "2026-06-24T23:09:00.727036Z",
       "published_at": "2026-06-22T20:05:16Z",
@@ -4130,6 +4140,16 @@
       "title": "We hardened zizmor's GitHub Actions static analyzer",
       "url": "https://blog.trailofbits.com/2026/05/22/we-hardened-zizmors-github-actions-static-analyzer"
     },
+    "8683a256e598b0cde0610dbce6b608f9cde0ab7ffdd369dcdbc462be8f7ec781": {
+      "processed_at": "2026-07-09T23:15:53.292269Z",
+      "published_at": "2026-07-09T14:00:00Z",
+      "score": 16,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Why we cannot wait for better post-quantum signature algorithms",
+      "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do"
+    },
     "8719d28a41ac58dc8eb37dd7af65884796ef2f9a3c5ccd5949a2e1b66898e7b5": {
       "processed_at": "2026-07-03T10:27:28.895228Z",
       "published_at": "2026-07-02T03:11:41Z",
@@ -5859,6 +5879,16 @@
       "source_id": "microsoft-security-blog",
       "title": "​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report"
+    },
+    "bb9e773f748036e0968c230c2574f3a7eca82261e2313541f55e97a396926553": {
+      "processed_at": "2026-07-09T23:15:53.292280Z",
+      "published_at": "2026-07-02T08:24:39Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Prototype-Based Study of Zero-Knowledge Proof Verification for Privacy-Preserving Blockchain Interoperability",
+      "url": "https://eprint.iacr.org/2026/1360"
     },
     "bc23d9d19e9e02340b00d4ac61f27823eeb96dbcc8cd83d7ed700a0d9cac192e": {
       "processed_at": "2026-07-09T10:51:22.421480Z",
