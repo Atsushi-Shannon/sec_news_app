@@ -280,6 +280,16 @@
       "title": "Collaborative Rate Limiting Nullifier Signaling",
       "url": "https://eprint.iacr.org/2026/1259"
     },
+    "09d5010c824c88f5cbc86db64c77ca2736a0eb342832ccd4ba35b9b14a6558fd": {
+      "processed_at": "2026-07-10T23:01:50.799804Z",
+      "published_at": "2026-07-07T21:17:04Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Chimera: A Hybrid GPU Backend for Sumcheck Acceleration in Zero Knowledge Provers",
+      "url": "https://eprint.iacr.org/2026/1388"
+    },
     "0a4cd268072cf816190996f0c44e1bb784c77ecca39bfb99cd5302ed486cdc48": {
       "processed_at": "2026-06-30T10:49:24.831487Z",
       "published_at": "2026-06-29T08:40:16Z",
@@ -2350,6 +2360,16 @@
       "title": "SDDT: An Operation Skip Attack Framework for Bitslice Ciphers—Validated on PIPO",
       "url": "https://eprint.iacr.org/2026/1368"
     },
+    "4b3c3367088a8ad3c603f78f58d24b76b9b628888af06a3e0571869e7714c471": {
+      "processed_at": "2026-07-10T23:01:50.799817Z",
+      "published_at": "2026-07-07T21:15:19Z",
+      "score": 16,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "ZK-Audit: Proving Power Side-Channel Resilience in Synthesized Hardware",
+      "url": "https://eprint.iacr.org/2026/1387"
+    },
     "4b98b7918765fd68ae96574ba702ccc7585e68d1c128d423d73ebd659a26e0b6": {
       "processed_at": "2026-06-29T12:24:06.392834Z",
       "published_at": "2026-06-26T11:26:53Z",
@@ -2829,6 +2849,16 @@
       "source_id": "arxiv-crypto",
       "title": "Generalized Synthetic Image Detection with Enhanced RGB-Noise Representation Learning",
       "url": "https://arxiv.org/abs/2607.06354v1"
+    },
+    "5bb6d8cadf9773ec739396a72f055f76817cfc83ba953a1b92148612f52c7d0d": {
+      "processed_at": "2026-07-10T23:01:50.799740Z",
+      "published_at": "2026-07-10T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative"
     },
     "5c12cf6964d2d9a68f384d0baf259526271d697d12fb9320b7f6badf3fa32966": {
       "processed_at": "2026-06-19T11:59:38.030242Z",
@@ -5939,6 +5969,16 @@
       "source_id": "arxiv-crypto",
       "title": "Certification of Machine Learning Models via Directional Sharpness",
       "url": "https://arxiv.org/abs/2606.25004v1"
+    },
+    "b5033fffcce3c8d2891944a6e766f1e280cdb2fe269d12c0f7211d91e4da503d": {
+      "processed_at": "2026-07-10T23:01:50.799787Z",
+      "published_at": "2026-07-10T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Improving Smart Tiered Cache for Public Cloud Regions",
+      "url": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds"
     },
     "b5361c9556edd5bae16c8c3486514df4ace7e3d3bad90ce029fe339b9d48643c": {
       "processed_at": "2026-06-25T10:35:22.791729Z",
