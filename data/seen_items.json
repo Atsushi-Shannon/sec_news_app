@@ -1150,6 +1150,16 @@
       "title": "All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme",
       "url": "https://arxiv.org/abs/2607.01209v1"
     },
+    "251a141d0b1f7cefba642e6371f5582d9de78db2d1d49c54bc7ef19a6983063c": {
+      "processed_at": "2026-07-11T09:17:53.883266Z",
+      "published_at": "2026-07-08T05:45:43Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Separation Principle for Lookup-Based zkML: Activation-Function Structure Cannot Reduce Per-Lookup Proving Cost",
+      "url": "https://eprint.iacr.org/2026/1390"
+    },
     "25335fb5e9d59d8f1eff99cf31ae99eb9e2f14d0f0d72c2d6aafc627a64591cd": {
       "processed_at": "2026-07-02T23:12:42.116480Z",
       "published_at": "2026-06-30T03:09:59Z",
@@ -2820,6 +2830,16 @@
       "title": "OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing",
       "url": "https://arxiv.org/abs/2606.19149v1"
     },
+    "594f794594a4234af0c30517be2180fb4c84313a3d105be3e522244bed095bc1": {
+      "processed_at": "2026-07-11T09:17:53.883280Z",
+      "published_at": "2026-07-08T02:26:57Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "SC-DT: Scalable Constant Round Secure Comparison and its Application to Privacy Decision Tree Evaluation",
+      "url": "https://eprint.iacr.org/2026/1389"
+    },
     "5abf46ee8c6c279fd83a0af9519fbb733035049d6a2d60376ee8f532be9f3962": {
       "processed_at": "2026-07-01T11:17:56.312963Z",
       "published_at": "2026-06-30T12:14:22Z",
@@ -3659,6 +3679,16 @@
       "source_id": "arxiv-crypto",
       "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
       "url": "https://arxiv.org/abs/2606.28153v2"
+    },
+    "74000ec2f903b76653e51c46690f2f31c9879388c22f105842d80c8a94e72905": {
+      "processed_at": "2026-07-11T09:17:53.883198Z",
+      "published_at": "2026-07-08T08:07:00Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Slicing Boolean Functions with Inner Products",
+      "url": "https://eprint.iacr.org/2026/1392"
     },
     "7402d16cb8d36b16b16f3e5c6d3a7965138a2f3839facf046723c4c50768a324": {
       "processed_at": "2026-07-01T11:17:56.313049Z",
@@ -5679,6 +5709,16 @@
       "source_id": "arxiv-crypto",
       "title": "ColumnKeeper: Efficient Solutions to the ColumnDisturb Vulnerability in DRAM-based Systems",
       "url": "https://arxiv.org/abs/2606.22632v2"
+    },
+    "ad02d4a892c0059345126c47e88524a3a3aec5b3ae8c1276d4f79bf4aaa3b2d3": {
+      "processed_at": "2026-07-11T09:17:53.883245Z",
+      "published_at": "2026-07-08T07:14:11Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "6G Sensing Security: Distributed Game-Theoretic RL for Urban Beamforming and Attacker Detection",
+      "url": "https://eprint.iacr.org/2026/1391"
     },
     "ad0cefeccafdc2ffede526602976212701554854f86514af3adcbc256034432b": {
       "processed_at": "2026-06-19T23:02:40.718180Z",
