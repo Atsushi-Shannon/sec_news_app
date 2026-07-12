@@ -1060,6 +1060,16 @@
       "title": "PRISM: PE Relational Inter-Section Matrix. A 2D Section-Aware Dataset for Static PE Malware Detection",
       "url": "https://arxiv.org/abs/2606.27109v1"
     },
+    "22c193040562c26091cd5293b5cb8a342a3687d1f810cc26f476372c76d5824c": {
+      "processed_at": "2026-07-12T22:55:00.808682Z",
+      "published_at": "2026-07-09T15:17:00Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A polynomial-time key recovery attack of Facto-DSA",
+      "url": "https://eprint.iacr.org/2026/1403"
+    },
     "22c7d59f3b691ba91d646d24b2797d7f9ba28e5dc04b0b2b8d1373f455fb88ea": {
       "processed_at": "2026-06-25T10:35:22.791537Z",
       "published_at": "2026-06-24T09:34:27Z",
@@ -1830,6 +1840,16 @@
       "title": "Safe Alone, Unsafe Together: Safeguarding Against Implicit Toxicity When Benign Images Combine",
       "url": "https://arxiv.org/abs/2607.00576v1"
     },
+    "3959ba94ef1451fa4a7ae5482e1dd200df84f8ea1ee2032a7c02a373dd9169c6": {
+      "processed_at": "2026-07-12T22:55:00.808734Z",
+      "published_at": "2026-07-09T14:37:46Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "On Extending Integral Distinguishers",
+      "url": "https://eprint.iacr.org/2026/1402"
+    },
     "3a11a11152e66089aead5d57f09efa8df00d302491348a59d61aa50ceed36a42": {
       "processed_at": "2026-06-18T07:18:35.071984Z",
       "published_at": "2026-05-19T13:00:00Z",
@@ -2399,6 +2419,16 @@
       "source_id": "arxiv-crypto",
       "title": "GTI-mSEMP Framework : A Proposed Framework to Stimulate Malware Propagation with Inclusion of Attacker-Defender Strategy",
       "url": "https://arxiv.org/abs/2606.28079v1"
+    },
+    "4bf49349f54b2958fc5b36c56e914883472afb042ca1eebeab78ce989993bebe": {
+      "processed_at": "2026-07-12T22:55:00.808759Z",
+      "published_at": "2026-07-09T12:02:37Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "What Happens When integrating Modulus Switching and Lossy Source Coding: A New Dual Attack Variant on LWE",
+      "url": "https://eprint.iacr.org/2026/1400"
     },
     "4c301023a19349bca0498028a88b273e3ad356444d52f3865c26827a3a8461ce": {
       "processed_at": "2026-07-01T23:20:20.299397Z",
@@ -3090,6 +3120,16 @@
       "title": "The Binary Tree Mechanism is Optimal for Approximate Differentially Private Continual Counting",
       "url": "https://arxiv.org/abs/2607.00876v1"
     },
+    "61a78f40f5e13c4fbfaeb439eac18bbb8956710de2391758cc59459e86ce297d": {
+      "processed_at": "2026-07-12T22:55:00.808806Z",
+      "published_at": "2026-07-08T10:44:41Z",
+      "score": 15,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Blind Trace-Only Segmentation of Cipher Implementations Without Algorithm Metadata",
+      "url": "https://eprint.iacr.org/2026/1395"
+    },
     "61ac863431b75dfc93330235f6c44e297ad09761276c3b263e1e5608333eba00": {
       "processed_at": "2026-06-25T10:35:22.791526Z",
       "published_at": "2026-06-24T09:53:23Z",
@@ -3699,6 +3739,16 @@
       "source_id": "arxiv-crypto",
       "title": "An Empirical Study of Security Calibration in Large Language Models for Code",
       "url": "https://arxiv.org/abs/2606.31159v1"
+    },
+    "748c28cd28585e8c564515dc5f57950afb31c66a5e974ddba9f431004d6cb408": {
+      "processed_at": "2026-07-12T22:55:00.808797Z",
+      "published_at": "2026-07-08T13:13:49Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Reliable TRNG and its Challenges",
+      "url": "https://eprint.iacr.org/2026/1396"
     },
     "74b9de58b0367aa24c6dcbd47fa8e54a10e969948345644f317ece5e32234b1c": {
       "processed_at": "2026-06-30T10:49:24.831558Z",
@@ -4810,6 +4860,16 @@
       "title": "Space-based Missile Defense",
       "url": "https://arxiv.org/abs/2606.25756v1"
     },
+    "97ef7760ac665bba39fb7f8da9c6f6bf62c10c901752df0393254343aecdbd93": {
+      "processed_at": "2026-07-12T22:55:00.808748Z",
+      "published_at": "2026-07-09T14:16:51Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A New Framework for Efficient Multivariate Functional Bootstrapping",
+      "url": "https://eprint.iacr.org/2026/1401"
+    },
     "985a34653fbe7f2ae5d5b7c7cf3c7ef6a04d6f43bf342bcea7d3f18ecfc3ea61": {
       "processed_at": "2026-06-23T10:55:48.540281Z",
       "published_at": "2026-06-22T12:24:11Z",
@@ -5119,6 +5179,16 @@
       "source_id": "arxiv-crypto",
       "title": "What You See Is Not What You Execute: Memory-Based Runtime SBOM Generation for Supply Chain Security",
       "url": "https://arxiv.org/abs/2606.22827v2"
+    },
+    "a01633cec64ec06fa5ed076058d2abe9019e546b8e022a52db79ef0e3739689a": {
+      "processed_at": "2026-07-12T22:55:00.808768Z",
+      "published_at": "2026-07-09T06:29:48Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "CHIP: Efficient Homomorphic Encryption-Based CNN Batch Inference Using Channel-Interleaved Packing with Small Rotation Key Set",
+      "url": "https://eprint.iacr.org/2026/1399"
     },
     "a091d451c6de1c74e22c773f59bde8077e5885262d0851e5bc1d35c9ba3b7d13": {
       "processed_at": "2026-07-02T10:29:31.874649Z",
@@ -5449,6 +5519,16 @@
       "source_id": "iacr-eprint",
       "title": "Signatures with Post-Compromise Accountability",
       "url": "https://eprint.iacr.org/2026/1203"
+    },
+    "a783c746255b17b32bfb81037a0ff02603ddfb67bda2b47799fdb1864da941d9": {
+      "processed_at": "2026-07-12T22:55:00.808778Z",
+      "published_at": "2026-07-08T21:19:13Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "How to Encrypt with Random Reversible Circuits",
+      "url": "https://eprint.iacr.org/2026/1398"
     },
     "a785370e8b25e8ea3a970608383765af22820263fec73a451e28b3629d573885": {
       "processed_at": "2026-06-26T10:44:46.362609Z",
@@ -7540,6 +7620,16 @@
       "title": "Finite-key security analysis of decoy-state QKD with source and detector imperfections",
       "url": "https://arxiv.org/abs/2606.29943v1"
     },
+    "df908310aab0a1ffe4f989784c81e4095e89338b1ede71990e75e1d438011082": {
+      "processed_at": "2026-07-12T22:55:00.808826Z",
+      "published_at": "2026-07-08T09:20:21Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "On the Differential Uniformity of Polynomials over Galois Rings",
+      "url": "https://eprint.iacr.org/2026/1393"
+    },
     "dfcc06f013d9ba555016a166838c649c12516795a108a0379dc7af3d0fbed5e9": {
       "processed_at": "2026-06-25T10:35:22.791404Z",
       "published_at": "2026-06-24T15:25:45Z",
@@ -8010,6 +8100,16 @@
       "title": "Try our new dimensional analysis Claude plugin",
       "url": "https://blog.trailofbits.com/2026/03/25/try-our-new-dimensional-analysis-claude-plugin"
     },
+    "ef5872370b33954d9946dd4e9a24797262b39cdfa2bc7771f55047cbd6576498": {
+      "processed_at": "2026-07-12T22:55:00.808787Z",
+      "published_at": "2026-07-08T16:09:16Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "HANNS: Low-Storage Non-Interactive Approximate Private Nearest Neighbor Search with Sublinear Comparison Complexity",
+      "url": "https://eprint.iacr.org/2026/1397"
+    },
     "ef5c949849923686f6df7415ffdb5a59541418c3ec2142cad635dffbff721458": {
       "processed_at": "2026-07-07T10:46:44.765446Z",
       "published_at": "2026-07-06T08:25:56Z",
@@ -8319,6 +8419,16 @@
       "source_id": "iacr-eprint",
       "title": "Distributed Key Generation for Efficient Threshold-CKKS",
       "url": "https://eprint.iacr.org/2025/2057"
+    },
+    "fb6462e6ec7b9202f43366fbf5977269e4e3955c630a06559544e3dce39f9d20": {
+      "processed_at": "2026-07-12T22:55:00.808816Z",
+      "published_at": "2026-07-08T10:13:05Z",
+      "score": -5,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Adaptor Signatures Meet BLS: Enabling Efficient Blockchain Applications with Unique Adaptor Signatures",
+      "url": "https://eprint.iacr.org/2026/1394"
     },
     "fc2ec8c5550279b79dcba767bd2c9412bb3602227706082392e3cd49681ace0f": {
       "processed_at": "2026-06-18T07:18:35.071849Z",
