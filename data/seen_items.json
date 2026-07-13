@@ -2270,6 +2270,16 @@
       "title": "Signing It Twice: Mitigating the Effects of State Reuse for Stateful Signatures",
       "url": "https://eprint.iacr.org/2026/1321"
     },
+    "4529a6bd97438870c4e875cf98d19268ea56dd52bd86049d022e93e0fcc59a38": {
+      "processed_at": "2026-07-13T22:58:32.872858Z",
+      "published_at": "2026-07-13T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
+      "url": "https://blog.cloudflare.com/introducing-precursor"
+    },
     "452efdbf44dada7674b6cf30bac33f97cae4794e704f8370c73206586b5c267a": {
       "processed_at": "2026-07-08T10:08:21.464833Z",
       "published_at": "2026-07-07T12:48:14Z",
@@ -5230,6 +5240,16 @@
       "title": "Spectral Method attacks Sparse LWE, Sparse LPN and Beyond",
       "url": "https://eprint.iacr.org/2026/614"
     },
+    "9d682c366fae977ff207706e8accdb453754d97c08f7b6af5e05b9f8778759be": {
+      "processed_at": "2026-07-13T22:58:32.872811Z",
+      "published_at": "2026-07-13T17:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id"
+    },
     "9d95adac0293bbf856a792a6530db10e81979cfcac64cd31fec8838aa3554b1c": {
       "processed_at": "2026-07-02T23:12:42.116496Z",
       "published_at": "2026-06-29T18:52:32Z",
@@ -6429,6 +6449,16 @@
       "source_id": "arxiv-crypto",
       "title": "Analyzing the Narration Gap in LLM-Solver Loops",
       "url": "https://arxiv.org/abs/2606.19588v1"
+    },
+    "ba9d0488514820434f5676029a417a18129a699e6edd98a7fe03ec84c27b6aa9": {
+      "processed_at": "2026-07-13T22:58:32.872875Z",
+      "published_at": "2026-07-13T11:00:00Z",
+      "score": 4,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "trail-of-bits-blog",
+      "title": "Rust-proof your code with our new Testing Handbook chapter",
+      "url": "https://blog.trailofbits.com/2026/07/13/rust-proof-your-code-with-our-new-testing-handbook-chapter"
     },
     "baa3644caa6d187232b0d82f9cd4c4bdb0d3433e9d22fc4f573d48917110edc0": {
       "processed_at": "2026-06-19T23:02:40.718223Z",
@@ -8579,6 +8609,16 @@
       "source_id": "arxiv-crypto",
       "title": "Let My Data Go: Data Brokers' Compliance with Opt-Out and Deletion Requests",
       "url": "https://arxiv.org/abs/2607.04552v1"
+    },
+    "f8ca79481713e8cacf7d86186491ac4cc5efa279991aa4c66099d4820ae1b057": {
+      "processed_at": "2026-07-13T22:58:32.872886Z",
+      "published_at": "2026-07-09T15:53:16Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Anonymous Communication on Expander Networks",
+      "url": "https://eprint.iacr.org/2026/1404"
     },
     "f8f0f6cdeb6ef9d1bdbab0cc1d1aba49c71251d6244f0369e16d4bcd480dec66": {
       "processed_at": "2026-06-19T23:02:40.718210Z",
