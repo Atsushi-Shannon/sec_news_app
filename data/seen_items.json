@@ -7310,6 +7310,16 @@
       "title": "Resultants Meet Resultant: Improving CICO-1 and CICO-2 Attacks on ZK-Friendly Permutations",
       "url": "https://eprint.iacr.org/2026/1281"
     },
+    "c6d911b438b9e7f9da5b3f7944249ec1a8a3185641cc9211cccb68b18a65789d": {
+      "processed_at": "2026-07-14T22:59:54.828356Z",
+      "published_at": "2026-07-14T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
+      "url": "https://blog.cloudflare.com/dnssec-nta-ede-33"
+    },
     "c6ed765f430ba572804a935c8230b81ec0fed443f328d70eb2dfc43ee840a391": {
       "processed_at": "2026-07-07T23:05:56.370682Z",
       "published_at": "2026-07-06T10:41:04Z",
