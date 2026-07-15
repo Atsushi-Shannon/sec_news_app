@@ -460,6 +460,16 @@
       "title": "SpikeTimer: Exploring Active Copyright Protection in Spiking Neural Networks via Temporal Backdoor Regularization",
       "url": "https://arxiv.org/abs/2606.26841v1"
     },
+    "0ebf93e9988e51f8053c884d2db036d2fa03a07efd6efd51bac48560900f32a3": {
+      "processed_at": "2026-07-15T23:00:54.359690Z",
+      "published_at": "2026-07-11T00:42:16Z",
+      "score": 29,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Evaluating Hybrid KEM/DSA for KpqC and NIST PQC on ARM Cortex-M4",
+      "url": "https://eprint.iacr.org/2026/1414"
+    },
     "0f5e4990e19e7448d2dc604ff07926ae48da68521277b0035b3bf7ed2a36d0df": {
       "processed_at": "2026-06-29T23:02:52.974737Z",
       "published_at": "2026-06-25T20:22:47Z",
@@ -2000,6 +2010,16 @@
       "title": "Dead Man’s Switch Cryptography",
       "url": "https://eprint.iacr.org/2026/1352"
     },
+    "372a7b0ec36b5a62745c00cae540144972bc0bed535a0be9dbf72ffd8f2f9968": {
+      "processed_at": "2026-07-15T23:00:54.359666Z",
+      "published_at": "2026-07-11T00:45:17Z",
+      "score": 11,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Optimized Implementation of Warp-Cooperative GPU HCTR2-ARIA Wide-Block Encryption",
+      "url": "https://eprint.iacr.org/2026/1415"
+    },
     "378dd01b4da50195d43953b35e2a64d626b4d95dcb4d4f39333d9cfbd41595d9": {
       "processed_at": "2026-07-14T09:47:39.424539Z",
       "published_at": "2026-07-13T09:21:38Z",
@@ -2440,6 +2460,16 @@
       "title": "HAWK ``Guessing Game'' is not Polynomial-Time",
       "url": "https://eprint.iacr.org/2026/1377"
     },
+    "42eaabfbf4c3f363da2edafddb32037d138a9ac4412b23f5695a751290679dd2": {
+      "processed_at": "2026-07-15T23:00:54.359821Z",
+      "published_at": "2026-07-10T13:37:22Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "An $n^{n+o(n)}$-Time Algorithm for the Lattice Isomorphism Problem",
+      "url": "https://eprint.iacr.org/2026/1406"
+    },
     "432b3d03e20e4f924f89757a6dba20f91a03dd09ab3a4dcf90dfd9eb8b2d518c": {
       "processed_at": "2026-06-26T10:44:46.362397Z",
       "published_at": "2026-06-25T12:11:28Z",
@@ -2790,6 +2820,16 @@
       "title": "What Happens When integrating Modulus Switching and Lossy Source Coding: A New Dual Attack Variant on LWE",
       "url": "https://eprint.iacr.org/2026/1400"
     },
+    "4c2c222019214f0a0bbe2e8750b1b9b979739fc9b82a8ec50bbb0831ea1b4031": {
+      "processed_at": "2026-07-15T23:00:54.359842Z",
+      "published_at": "2026-07-10T12:20:25Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "AsymSAE: Verifier-Based Asymmetric SAE Protocol for Personal Wi-Fi Networks",
+      "url": "https://eprint.iacr.org/2026/1405"
+    },
     "4c301023a19349bca0498028a88b273e3ad356444d52f3865c26827a3a8461ce": {
       "processed_at": "2026-07-01T23:20:20.299397Z",
       "published_at": "2026-07-01T13:00:00Z",
@@ -2849,6 +2889,16 @@
       "source_id": "arxiv-crypto",
       "title": "Privacy Detective: A Narrative Game that Cultivates Student Developers' Privacy Awareness by Harnessing Legal Documents",
       "url": "https://arxiv.org/abs/2607.09022v1"
+    },
+    "4f27f1b0f0bf83085e9baf0cf1b78b55f1c4c2f5a59a9533e36c796e1773cceb": {
+      "processed_at": "2026-07-15T23:00:54.359741Z",
+      "published_at": "2026-07-11T00:30:14Z",
+      "score": 16,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Improved Quantum Circuits for Information Set Decoding with Application to Code-Based Cryptography",
+      "url": "https://eprint.iacr.org/2026/1411"
     },
     "4fab91d697141887b5ae8dcc0bc8560e1379a186e82a12e5ecd0d119f3390e6f": {
       "processed_at": "2026-06-18T07:18:35.071618Z",
@@ -4100,6 +4150,16 @@
       "title": "How Humans, Bots, and Agents Communicate About Vulnerabilities in Pull Requests",
       "url": "https://arxiv.org/abs/2606.28125v1"
     },
+    "706b44ed974bbe36c168af1700bdbc5387a234c61c7252840cba2cbb6db24847": {
+      "processed_at": "2026-07-15T23:00:54.359708Z",
+      "published_at": "2026-07-11T00:38:35Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Optimizing ARIA-GCM on GPUs",
+      "url": "https://eprint.iacr.org/2026/1413"
+    },
     "70b94c87af823eca6b3284aacf7550f0ccbbeb3a2f584d02e916b9b684710a46": {
       "processed_at": "2026-07-04T10:00:18.699200Z",
       "published_at": "2026-07-01T13:10:47Z",
@@ -4479,6 +4539,16 @@
       "source_id": "arxiv-crypto",
       "title": "Securing People and their Machines Against Major Faults",
       "url": "https://arxiv.org/abs/2607.02304v1"
+    },
+    "79de07b3f0b64de9fb21764376dfd58adbc5f61db4287d7ce6f77bbe96d1e120": {
+      "processed_at": "2026-07-15T23:00:54.359806Z",
+      "published_at": "2026-07-10T14:55:42Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "HACC: A Scalable Hierarchical Accumulator with Sublinear Cost for Large Dynamic Sets",
+      "url": "https://eprint.iacr.org/2026/1407"
     },
     "7a0283a052715b9c018d6cf726159120c7a0b2d97f053887b4f81d85c1186dde": {
       "processed_at": "2026-06-18T07:18:35.071901Z",
@@ -5560,6 +5630,16 @@
       "title": "Monitoring Vulnerabilities in Next-Generation Automotive Operating Systems",
       "url": "https://arxiv.org/abs/2607.07226v1"
     },
+    "9535cea7e1fe3314fbc869878197ca03c5d7e2c582c63e094c82b93d57f9adaf": {
+      "processed_at": "2026-07-15T23:00:54.359774Z",
+      "published_at": "2026-07-11T00:24:37Z",
+      "score": 32,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Accelerating FAEST Signing on GPU via Fused AES Constraint Generation and Batched Leaf Hashing",
+      "url": "https://eprint.iacr.org/2026/1409"
+    },
     "958bbc1c92368d62fe6c9b5f8d98f952f9dd1fbef376a2880422707eb55644fb": {
       "processed_at": "2026-07-10T10:45:00.436816Z",
       "published_at": "2026-07-09T08:20:45Z",
@@ -5590,6 +5670,16 @@
       "title": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms"
     },
+    "966702d7f0dcff9a5485b27f16c3f706989d4b388d064a2d540e92285f115430": {
+      "processed_at": "2026-07-15T23:00:54.359609Z",
+      "published_at": "2026-07-15T16:00:35Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Turning threat intelligence into decisive action with Defender Experts",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts"
+    },
     "96bed37957f78478cf0947c94903912d0b23e9fc9821677c420583d064925b39": {
       "processed_at": "2026-06-25T10:35:22.791354Z",
       "published_at": "2026-06-24T17:12:42Z",
@@ -5619,6 +5709,16 @@
       "source_id": "arxiv-crypto",
       "title": "Space-based Missile Defense",
       "url": "https://arxiv.org/abs/2606.25756v1"
+    },
+    "9762fc25670b4046b9c9d2bf49d7cb5c81ef745fcea1f08be69387ebd20b087b": {
+      "processed_at": "2026-07-15T23:00:54.359757Z",
+      "published_at": "2026-07-11T00:27:29Z",
+      "score": 21,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Memory-Efficient and Assembly-Optimized Implementation of NTRU+",
+      "url": "https://eprint.iacr.org/2026/1410"
     },
     "97ef7760ac665bba39fb7f8da9c6f6bf62c10c901752df0393254343aecdbd93": {
       "processed_at": "2026-07-12T22:55:00.808748Z",
@@ -9270,6 +9370,16 @@
       "title": "A forgery attack on the Block.co blockchain-based digital credential certification system",
       "url": "https://arxiv.org/abs/2606.31462v1"
     },
+    "f18206e2693de58ee4e9d13284d058e7e55b010f0250f22bad8f415c9d833e15": {
+      "processed_at": "2026-07-15T23:00:54.359791Z",
+      "published_at": "2026-07-10T15:38:58Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Statistically Undetectable Backdoors in Deep Neural Networks",
+      "url": "https://eprint.iacr.org/2026/1408"
+    },
     "f1ef513f66f0bd131ec6492c711593a6ba87e4acbf2e0ae9fd887b32a90377ac": {
       "processed_at": "2026-07-08T10:08:21.464752Z",
       "published_at": "2026-07-08T00:21:00Z",
@@ -9389,6 +9499,16 @@
       "source_id": "arxiv-crypto",
       "title": "Comparative Analysis of Machine Learning based Intrusion Detection in Realistic IoT Networks",
       "url": "https://arxiv.org/abs/2606.31594v1"
+    },
+    "f6315f045b01d6e5d5d41682574dcca5fbf288155b6f2d9257c77aa02263e156": {
+      "processed_at": "2026-07-15T23:00:54.359725Z",
+      "published_at": "2026-07-11T00:34:38Z",
+      "score": 25,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Quantum Implementation and Analysis of Rijndael",
+      "url": "https://eprint.iacr.org/2026/1412"
     },
     "f6bce2cb8c61c407d200338135ffa8d1775e59e24348dc469c40adc09ed77af8": {
       "processed_at": "2026-07-08T10:08:21.464981Z",
