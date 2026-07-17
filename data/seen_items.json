@@ -2890,6 +2890,16 @@
       "title": "The Observer World: A Cryptographic Extension of Impagliazzo's Five Worlds",
       "url": "https://arxiv.org/abs/2606.27139v1"
     },
+    "45870aade9a32eb2425417c72995a28dcbb43d69c6bb27ef5acfb415986285b2": {
+      "processed_at": "2026-07-17T22:53:16.860934Z",
+      "published_at": "2026-07-17T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks"
+    },
     "45a87be87cea081d3bcfec5dc4ea8a315bf4570e5bdfdd1a6168c8aeec1f26de": {
       "processed_at": "2026-06-26T10:44:46.362286Z",
       "published_at": "2026-06-25T14:43:42Z",
@@ -4329,6 +4339,16 @@
       "source_id": "arxiv-crypto",
       "title": "Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations",
       "url": "https://arxiv.org/abs/2607.04645v1"
+    },
+    "6addfcbb625c49ff6d4be0bd89f54e93dc85715eda08d0334170002d1b480022": {
+      "processed_at": "2026-07-17T22:53:16.860894Z",
+      "published_at": "2026-07-17T21:30:43Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+      "url": "https://blog.cloudflare.com/wordpress-vulnerabilities"
     },
     "6af3d6d06155826489f0719749b6db03e1653994ac6d39bdd6d60fd64814772c": {
       "processed_at": "2026-06-26T10:44:46.362519Z",
