@@ -630,6 +630,16 @@
       "title": "Stickel-type key exchange with hidden subspaces",
       "url": "https://eprint.iacr.org/2026/1257"
     },
+    "10b21548eac3f9b3c2813d03a41ce1ae49cb2d54bfb98c30d2d9337c49c3f301": {
+      "processed_at": "2026-07-20T23:04:02.231240Z",
+      "published_at": "2026-07-16T23:13:43Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "QuantumScouter: Reinforcement Learning-Based Optimization of Variational Quantum Circuits for Differential Cryptanalysis",
+      "url": "https://eprint.iacr.org/2026/1456"
+    },
     "10e6f0de030d0a2fb239d7ba59db464f88a70725c33cad150d47e9eadf3f7df2": {
       "processed_at": "2026-06-19T11:59:38.029926Z",
       "published_at": "2026-06-19T00:17:54Z",
@@ -809,6 +819,16 @@
       "source_id": "arxiv-crypto",
       "title": "Understanding the (In)Security of Vibe-Coded Applications",
       "url": "https://arxiv.org/abs/2606.23130v2"
+    },
+    "14a7be91fea4b81e6ee937d45b87a938f00cb7fc63c390e8b687730eb440712e": {
+      "processed_at": "2026-07-20T23:04:02.231291Z",
+      "published_at": "2026-07-16T15:25:26Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Labeled Multi-Key Batched IBE",
+      "url": "https://eprint.iacr.org/2026/1452"
     },
     "1554f5307d7924587e78c9c3f96fef80d5c78cba13f6c92979a757ba41d269d1": {
       "processed_at": "2026-07-08T10:08:21.464995Z",
@@ -1309,6 +1329,16 @@
       "source_id": "arxiv-crypto",
       "title": "Quantum Arithmetic Circuits in Public-Key Cryptography",
       "url": "https://arxiv.org/abs/2607.11713v1"
+    },
+    "2251b35e9e6600abd0d865f848dfc83205be66dbf167e53b32ae2f97e35b835c": {
+      "processed_at": "2026-07-20T23:04:02.231301Z",
+      "published_at": "2026-07-16T14:54:32Z",
+      "score": 24,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Lightweight Hardware Accelerator for the UOV Signature Scheme with Oil Space Blinding",
+      "url": "https://eprint.iacr.org/2026/1451"
     },
     "2282046ee59d0dce99de09ec9197395e93cb6e4983ff9cac32ed86b66ced1166": {
       "processed_at": "2026-07-06T23:12:31.232290Z",
@@ -2180,6 +2210,16 @@
       "title": "CAN We Trust Your Results? A Cross-Dataset Study of Automotive IDS Evaluation",
       "url": "https://arxiv.org/abs/2606.30430v1"
     },
+    "33804836f148d05e247556dc9462074d49d209c02e694994f9c37e29701abb67": {
+      "processed_at": "2026-07-20T23:04:02.231268Z",
+      "published_at": "2026-07-16T20:18:42Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Batched Attribute-Based Encryption from Bilinear Pairings",
+      "url": "https://eprint.iacr.org/2026/1454"
+    },
     "33a7d3967bdc86cd766c2b1841daac5a29534cb5e25622192d25b44804a86c25": {
       "processed_at": "2026-07-09T10:51:22.421450Z",
       "published_at": "2026-07-08T09:44:27Z",
@@ -2479,6 +2519,16 @@
       "source_id": "arxiv-crypto",
       "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
       "url": "https://arxiv.org/abs/2606.20470v1"
+    },
+    "3ba7853aa406ca85394e92ea35cadd2aa5925759167eaf5f2a5740ec01c7a407": {
+      "processed_at": "2026-07-20T23:04:02.231279Z",
+      "published_at": "2026-07-16T19:08:08Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Celer: A Lookup Argument for Large-Scale Queries",
+      "url": "https://eprint.iacr.org/2026/1453"
     },
     "3bf8e59131934e52ae967e644b47a3e88b73f28da6cbc97106e2a33a3f4cf32a": {
       "processed_at": "2026-06-24T10:41:50.825306Z",
@@ -3210,6 +3260,16 @@
       "title": "GTI-mSEMP Framework : A Proposed Framework to Stimulate Malware Propagation with Inclusion of Attacker-Defender Strategy",
       "url": "https://arxiv.org/abs/2606.28079v1"
     },
+    "4bde2afd879d14bd92565dc29350deb7aa1b63e50fc42249950d02bc4b069cda": {
+      "processed_at": "2026-07-20T23:04:02.231337Z",
+      "published_at": "2026-07-16T08:59:44Z",
+      "score": 15,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Improving Skipping Fault Correction Attacks on Randomized Dilithium via MILP",
+      "url": "https://eprint.iacr.org/2026/1448"
+    },
     "4bf49349f54b2958fc5b36c56e914883472afb042ca1eebeab78ce989993bebe": {
       "processed_at": "2026-07-12T22:55:00.808759Z",
       "published_at": "2026-07-09T12:02:37Z",
@@ -3349,6 +3409,16 @@
       "source_id": "arxiv-crypto",
       "title": "Automated Template-free Synthesis of Instruction-Centric Leakage Contracts for Black-Box CPUs",
       "url": "https://arxiv.org/abs/2607.15118v1"
+    },
+    "505d48e46e7ca10f019211fe079370c176a338b248dc78e287dc512bd0d87f27": {
+      "processed_at": "2026-07-20T23:04:02.231198Z",
+      "published_at": "2026-07-20T20:59:31Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare Internal DNS is now generally available",
+      "url": "https://blog.cloudflare.com/internal-dns"
     },
     "505d70b71205a2f395156f732ae1c35863a1d69d2b101b8275000b018497fc61": {
       "processed_at": "2026-06-18T07:18:35.071527Z",
@@ -4269,6 +4339,16 @@
       "source_id": "arxiv-crypto",
       "title": "HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice",
       "url": "https://arxiv.org/abs/2606.24819v1"
+    },
+    "658d62fbabf16de542abbf88aee01a29fa14f8e26f0ecf305a809d3cb13ee752": {
+      "processed_at": "2026-07-20T23:04:02.231256Z",
+      "published_at": "2026-07-16T20:40:59Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Trout++: Robust Asynchronous Two-Round ECDSA for Arbitrary Thresholds",
+      "url": "https://eprint.iacr.org/2026/1455"
     },
     "65ceb035b595d66d847a125b35d88b211aeae68def418461a862b7fe05bf2506": {
       "processed_at": "2026-06-24T10:41:50.825075Z",
@@ -6559,6 +6639,16 @@
       "source_id": "iacr-eprint",
       "title": "BeeKEM: Decentralized, Secure and Efficient Group Key Agreement",
       "url": "https://eprint.iacr.org/2026/1434"
+    },
+    "98f4da20a43a0cf0693ac16d6fb955d1ab1b51bb92eda66fdc1c03ef9a254bbc": {
+      "processed_at": "2026-07-20T23:04:02.231326Z",
+      "published_at": "2026-07-16T09:49:43Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "`ANSA-IBKEM`: Practical Quantum-Safe Identity-Based Key Encapsulation via Annular NTRU Trapdoors and Standardized PQC Arithmetic Reuse",
+      "url": "https://eprint.iacr.org/2026/1449"
     },
     "9997e9cbe847a22aafbc91e8777ef5cbee8703bd23920def69086b16a04c6a6f": {
       "processed_at": "2026-06-29T12:24:06.392937Z",
@@ -10660,6 +10750,16 @@
       "title": "Quantum Implementation and Analysis of Rijndael",
       "url": "https://eprint.iacr.org/2026/1412"
     },
+    "f6562d418d478d65d159eada88d7ac2930e6b565798471db5cbb957f885d8f72": {
+      "processed_at": "2026-07-20T23:04:02.231313Z",
+      "published_at": "2026-07-16T12:14:18Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4",
+      "url": "https://eprint.iacr.org/2026/1450"
+    },
     "f6a5e8cedd5bb2de95dc3f0648f987a9551d63e7ef6d39544b93cc993a11669d": {
       "processed_at": "2026-07-16T09:58:06.612169Z",
       "published_at": "2026-07-15T13:42:13Z",
@@ -10729,6 +10829,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: Drupal coreに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html"
+    },
+    "f7d399766d43594d8c597db3165bd3449fc050f5e1040f029ff61b42b2bd017f": {
+      "processed_at": "2026-07-20T23:04:02.231349Z",
+      "published_at": "2026-07-16T07:31:32Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Faster NTRU-based Bootstrapping with Extended and Sorting-based Techniques",
+      "url": "https://eprint.iacr.org/2026/1447"
     },
     "f8622f77b9d0321792e67600f946f8a71de945a55f84053fb68fa8786cab3d0a": {
       "processed_at": "2026-07-14T09:47:39.424626Z",
