@@ -360,6 +360,16 @@
       "title": "Mean Time to Remediate Is Not a Fielding Model: A Cadence Audit for Enterprise Vulnerability Management",
       "url": "https://arxiv.org/abs/2607.04511v1"
     },
+    "0875a39684101f313e740e55423654bfc8a3e871947e88b13384389b4854e5e9": {
+      "processed_at": "2026-07-21T23:01:18.866248Z",
+      "published_at": "2026-07-17T14:41:02Z",
+      "score": 21,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Power Reveals Timing Conceals - Side-Channel Attacks and Hiding Countermeasures for HQC's Fixed-Weight Vector Sampling",
+      "url": "https://eprint.iacr.org/2026/1462"
+    },
     "0887687aea2ec4f388dc69c4a61044a27c347ba8290acf1ea3d434380f720d4d": {
       "processed_at": "2026-06-18T07:18:35.071822Z",
       "published_at": "2026-06-10T04:45:00Z",
@@ -639,6 +649,16 @@
       "source_id": "arxiv-crypto",
       "title": "HTTP REST API Structure Learning",
       "url": "https://arxiv.org/abs/2607.02442v1"
+    },
+    "0fec82d7aa72b9816192951e0933065040b1fab0015e532b821c8ffd3616c064": {
+      "processed_at": "2026-07-21T23:01:18.866224Z",
+      "published_at": "2026-07-17T17:46:32Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Optimal Distributed Monotone-Policy Encryption for DNFs and More from Lattices",
+      "url": "https://eprint.iacr.org/2026/1464"
     },
     "1031a204c7440fa7df7a847f0b25663870444d65b87a5d0746dd98ad26a1fc1d": {
       "processed_at": "2026-07-14T09:47:39.424611Z",
@@ -1270,6 +1290,16 @@
       "title": "Salience Induction against Multi-Hop RAG Agents: Threat and Defense",
       "url": "https://arxiv.org/abs/2607.17535v1"
     },
+    "1e6ba93e497db759b76787894d49f07803841c3301c39a2f737b04cf3b74d85b": {
+      "processed_at": "2026-07-21T23:01:18.866142Z",
+      "published_at": "2026-07-21T12:59:40Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How the 2026 World Cup affected Internet traffic",
+      "url": "https://blog.cloudflare.com/2026-world-cup-internet-traffic"
+    },
     "1ea10acd44c050697f5c9a2f0c56a927a4b1a783c9de7daade2cee5fd6e31ba7": {
       "processed_at": "2026-07-02T10:29:31.874746Z",
       "published_at": "2026-06-25T09:20:03Z",
@@ -1629,6 +1659,16 @@
       "source_id": "iacr-eprint",
       "title": "A Separation Principle for Lookup-Based zkML: Activation-Function Structure Cannot Reduce Per-Lookup Proving Cost",
       "url": "https://eprint.iacr.org/2026/1390"
+    },
+    "251d52b29e4ffc6ed662aa18b795b3add8e1ed8a8da4fcd07508c82401bc553a": {
+      "processed_at": "2026-07-21T23:01:18.866199Z",
+      "published_at": "2026-07-17T20:16:31Z",
+      "score": 23,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Scalable High-Throughput FPGA Architecture for SMAC Message Authentication Code",
+      "url": "https://eprint.iacr.org/2026/1466"
     },
     "25335fb5e9d59d8f1eff99cf31ae99eb9e2f14d0f0d72c2d6aafc627a64591cd": {
       "processed_at": "2026-07-02T23:12:42.116480Z",
@@ -2209,6 +2249,16 @@
       "source_id": "arxiv-crypto",
       "title": "Context-to-Execution Integrity for LLM Agents",
       "url": "https://arxiv.org/abs/2607.06000v1"
+    },
+    "2fe58238bb5477250d61e6b7ff16b52fa06215198d2686ee8e6927abd0bf408e": {
+      "processed_at": "2026-07-21T23:01:18.866272Z",
+      "published_at": "2026-07-17T09:41:58Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Practical Key-Recovery Attack on GRAFHEN",
+      "url": "https://eprint.iacr.org/2026/1460"
     },
     "2ff7bfe28fae859f3dbe2afb514de528480325117de8c1fb40960cdbeb7ffe43": {
       "processed_at": "2026-07-02T10:29:31.874581Z",
@@ -7270,6 +7320,16 @@
       "title": "CHIP: Efficient Homomorphic Encryption-Based CNN Batch Inference Using Channel-Interleaved Packing with Small Rotation Key Set",
       "url": "https://eprint.iacr.org/2026/1399"
     },
+    "a031d8f21b6c96063471bb73fdb5e2695df3ce849d9db51fd10f32e52901ed96": {
+      "processed_at": "2026-07-21T23:01:18.866235Z",
+      "published_at": "2026-07-17T16:16:53Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Shortening Bounds for Reed-Solomon MCA",
+      "url": "https://eprint.iacr.org/2026/1463"
+    },
     "a072f24dd0bb22be32bfe3702b992b2284f3a7eb56cac00c75a28ef5ab8fcc2c": {
       "processed_at": "2026-07-13T10:50:50.528778Z",
       "published_at": "2026-07-09T17:13:18Z",
@@ -8970,6 +9030,16 @@
       "title": "Weekly Report: 複数のJuniper Networks製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html"
     },
+    "c2e34eb8cece3532bc86ce48acd21b218c402d408b702ddf7619c37beb4cd3a0": {
+      "processed_at": "2026-07-21T23:01:18.866186Z",
+      "published_at": "2026-07-17T21:24:32Z",
+      "score": 24,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Quantum-Safe Cryptography: A Migration Framework for Legacy Systems Toward NIST PQC Standards with the Crypto-Agility Readiness Score",
+      "url": "https://eprint.iacr.org/2026/1467"
+    },
     "c2eeb416dde0075ca0334b8c37528fecfad2f90ad3baa7835a28b01f3c885cc7": {
       "processed_at": "2026-07-06T23:12:31.232448Z",
       "published_at": "2026-07-02T12:37:21Z",
@@ -9239,6 +9309,16 @@
       "source_id": "arxiv-crypto",
       "title": "Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack",
       "url": "https://arxiv.org/abs/2606.21210v2"
+    },
+    "c891fbf5145f289f43f490a909382d35b0f1d5565b27934012135b4ccef84db8": {
+      "processed_at": "2026-07-21T23:01:18.866260Z",
+      "published_at": "2026-07-17T12:15:08Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "The m=n+1 Boundary of EME: A Splicing Distinguisher for the Unrefreshed EME-Core Extension and Its Linear-Map Generalization",
+      "url": "https://eprint.iacr.org/2026/1461"
     },
     "c8af8f4cd8e000c945737d100c90aa6ee0b2193abfd4e05abcda8fff19efefd4": {
       "processed_at": "2026-07-16T23:01:15.229782Z",
@@ -10229,6 +10309,16 @@
       "source_id": "arxiv-crypto",
       "title": "Room for Error: Large-Scale Simulation of Over-the-Air Acoustic Attacks",
       "url": "https://arxiv.org/abs/2606.27701v2"
+    },
+    "df6045edbfe383e655d5a124582d7a2e42c2f03319a0573fa53863365188ee57": {
+      "processed_at": "2026-07-21T23:01:18.866212Z",
+      "published_at": "2026-07-17T19:19:56Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "On Reduction Probability Models in Lattice Sieving",
+      "url": "https://eprint.iacr.org/2026/1465"
     },
     "df836afd77d39568636bc817f5b2d3c294771ef60cfc22f260c2fe658da593ca": {
       "processed_at": "2026-06-30T10:49:24.831502Z",
