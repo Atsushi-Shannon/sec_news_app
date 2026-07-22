@@ -540,6 +540,16 @@
       "title": "Sign in the Air to Unlock: An Interface for authentication in Virtual and Augmented Reality Powered by Point-Voxel Cross-Attention Network",
       "url": "https://arxiv.org/abs/2607.01435v1"
     },
+    "0d32545c51d69a18bf052ab90267d5b241c3e8fffb97a9781f6567bf72b7d26c": {
+      "processed_at": "2026-07-22T23:09:08.354915Z",
+      "published_at": "2026-07-19T09:14:36Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "An Exact Four-Wise Framework for Boomerang Cryptanalysis",
+      "url": "https://eprint.iacr.org/2026/1473"
+    },
     "0dced9d89e8bef96fc56289305d930758b6b40a3ed5d13d7a8ed6fbfe888d69d": {
       "processed_at": "2026-07-09T10:51:22.421382Z",
       "published_at": "2026-07-08T13:45:34Z",
@@ -2460,6 +2470,16 @@
       "title": "Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe",
       "url": "https://arxiv.org/abs/2607.07209v1"
     },
+    "33bad3051498ecf097f16d5598e1b9d80a2c1ffddf882530b0f64600468178e9": {
+      "processed_at": "2026-07-22T23:09:08.354927Z",
+      "published_at": "2026-07-18T20:47:36Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Vordr: Verifiable, Scalable and Anonymous Remote Attestation for Confidential Virtual Machines",
+      "url": "https://eprint.iacr.org/2026/1472"
+    },
     "33d719fd0a0cbbb592f882fadac084a4309c2d5851fe7ab9ae299ff6db9bdea2": {
       "processed_at": "2026-06-26T10:44:46.362361Z",
       "published_at": "2026-06-25T13:35:28Z",
@@ -2559,6 +2579,16 @@
       "source_id": "arxiv-crypto",
       "title": "DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection",
       "url": "https://arxiv.org/abs/2607.13439v1"
+    },
+    "35f7b9d56c2c53888483d6913af64a0b5134d541c1d9fdb48ea19ea9c1eca7f4": {
+      "processed_at": "2026-07-22T23:09:08.354974Z",
+      "published_at": "2026-07-18T15:17:00Z",
+      "score": 22,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Side-Channel Attacks Revisited - an Optimization Problem Perspective: Bootstrapping and Space Reduction",
+      "url": "https://eprint.iacr.org/2026/1468"
     },
     "362385ac6a554b582f04c65ba53f871931b1a60e198bc9f30627d47308bb3a9b": {
       "processed_at": "2026-06-18T07:18:35.071449Z",
@@ -3250,6 +3280,16 @@
       "title": "Signing It Twice: Mitigating the Effects of State Reuse for Stateful Signatures",
       "url": "https://eprint.iacr.org/2026/1321"
     },
+    "45084de8b08b49f876c7e65d03e4297f83ad5a2cf32ada1731004ba0017dca8f": {
+      "processed_at": "2026-07-22T23:09:08.354844Z",
+      "published_at": "2026-07-22T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience"
+    },
     "4519d11f33fcced696afd116e336035717e813cbe76f6f4cf36332ab9908bfbf": {
       "processed_at": "2026-07-14T09:47:39.424554Z",
       "published_at": "2026-07-13T05:48:08Z",
@@ -3739,6 +3779,16 @@
       "source_id": "arxiv-crypto",
       "title": "AI Watermark Evidence Fails Forensic Readiness: An Empirical Evaluation",
       "url": "https://arxiv.org/abs/2607.16010v1"
+    },
+    "50245e75fc16b0caa0076e86b7b7976367e560259bfb1f7d200f54bab0491dff": {
+      "processed_at": "2026-07-22T23:09:08.354949Z",
+      "published_at": "2026-07-18T18:11:39Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Complexity-Theoretic Approach to Proofs of Space",
+      "url": "https://eprint.iacr.org/2026/1470"
     },
     "504a4ea54e21def6513afb4289768f68bf43bd0fdf825ca9fa6bc24a3b256325": {
       "processed_at": "2026-07-17T09:48:04.842959Z",
@@ -5450,6 +5500,16 @@
       "title": "Weekly Report: Wiresharkに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html"
     },
+    "737bf5d215cee241dcb9ee714169a933161db58d0067b0d9f642bd18a20914ba": {
+      "processed_at": "2026-07-22T23:09:08.354889Z",
+      "published_at": "2026-07-20T00:11:39Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Partial Derandomization for Leakage-Resilient Shamir's Secret Sharing over Composite Order Fields",
+      "url": "https://eprint.iacr.org/2026/1475"
+    },
     "7384dae06488390831bd65e0a051aba7e3f0295555415dfc2849ac3ab0728567": {
       "processed_at": "2026-07-01T11:17:56.313155Z",
       "published_at": "2026-06-12T02:01:38Z",
@@ -6540,6 +6600,16 @@
       "title": "Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs",
       "url": "https://arxiv.org/abs/2607.17518v1"
     },
+    "8ae38515768d35afe9ddbc1264ea67bc97a15b75cda414251ee2812c44a51ad8": {
+      "processed_at": "2026-07-22T23:09:08.354904Z",
+      "published_at": "2026-07-19T12:11:18Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Mu-qt-PEGASIS: Interactive Aggregate Signatures from Effective Isogenies in the Programmable Random-Oracle Model",
+      "url": "https://eprint.iacr.org/2026/1474"
+    },
     "8b1a0b85b40e58f6a43085d805e222bad28130084decca4cdb6f8c6ccad2e5bc": {
       "processed_at": "2026-07-03T10:27:28.895212Z",
       "published_at": "2026-07-02T04:10:58Z",
@@ -7519,6 +7589,16 @@
       "source_id": "arxiv-crypto",
       "title": "Delving into the Temporal Challenges of Unified Video Protection Against Image-to-Video and Fine-Tuning-based Customization",
       "url": "https://arxiv.org/abs/2607.13336v1"
+    },
+    "9ffe26139fe2b7c5abf0f822074cdce71257118543f91c54b2f947299d734db8": {
+      "processed_at": "2026-07-22T23:09:08.354938Z",
+      "published_at": "2026-07-18T19:00:43Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Single-Round Obfuscation of Search and Result Patterns in Searchable Encryption",
+      "url": "https://eprint.iacr.org/2026/1471"
     },
     "a01633cec64ec06fa5ed076058d2abe9019e546b8e022a52db79ef0e3739689a": {
       "processed_at": "2026-07-12T22:55:00.808768Z",
@@ -8769,6 +8849,16 @@
       "source_id": "arxiv-crypto",
       "title": "TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model",
       "url": "https://arxiv.org/abs/2607.08666v1"
+    },
+    "b65d4e2e69e9a7ac78acdf2d39a0784525fd2abaed45be9b2868957797deede2": {
+      "processed_at": "2026-07-22T23:09:08.354961Z",
+      "published_at": "2026-07-18T15:38:36Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "MULTILINEAR POLYNOMIALS VIA TREE-BASED CIRCUIT AND THE SUMCHECK PROTOCOL",
+      "url": "https://eprint.iacr.org/2026/1469"
     },
     "b70ff30cd2ca5143ec2cc61581e67217ee6c70a5fdb4f30c2a30b82cb6ffb33c": {
       "processed_at": "2026-06-25T10:35:22.791612Z",
