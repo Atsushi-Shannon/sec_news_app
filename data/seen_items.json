@@ -1520,6 +1520,16 @@
       "title": "Real-world Qualification Proof: A Protocol for Supporting Real-world Assets in DeFi",
       "url": "https://eprint.iacr.org/2026/1330"
     },
+    "20dd8579ed2d3ff766d2e3a4388655d60c41bcc102cc2c56fda21154c2d45bdb": {
+      "processed_at": "2026-07-24T10:08:22.872989Z",
+      "published_at": "2026-07-21T12:56:34Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Proof of Demand Is Not Proof of Work: On the Limits of Demand-Weighted Consensus under Free Pseudonyms",
+      "url": "https://eprint.iacr.org/2026/1492"
+    },
     "20fd98b35c58dee574337d5da6cc29c810e1a4ece5d07885ac5c67120a7307f6": {
       "processed_at": "2026-06-18T07:18:35.071944Z",
       "published_at": "2026-05-26T12:02:14Z",
@@ -6150,6 +6160,16 @@
       "title": "BlowLive: Blow-Based Multi-Factor Biometrics with Liveness Detection and Revocability",
       "url": "https://arxiv.org/abs/2606.25998v2"
     },
+    "7af4795da5d6907e473df83f6627ed37733224cb970acb65b0963f43797a03c9": {
+      "processed_at": "2026-07-24T10:08:22.873054Z",
+      "published_at": "2026-05-22T07:11:56Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Collusion-Resistant Asymmetric Anamorphic Encryption: Framework, Generic Construction, and Concrete Instantiations",
+      "url": "https://eprint.iacr.org/2026/1028"
+    },
     "7af7591cebfd4278a06e45f627ff43e239464fc957b8d9e6514fdc81e8893a75": {
       "processed_at": "2026-07-13T10:50:50.528757Z",
       "published_at": "2026-07-09T21:19:25Z",
@@ -6279,6 +6299,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: PleskのPlesk XML APIにローカル権限昇格の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html"
+    },
+    "7ce057cb06bfaa124970659a2672199b05fcdc4157f5c28b39c7a50d55f43636": {
+      "processed_at": "2026-07-24T10:08:22.873044Z",
+      "published_at": "2026-05-27T17:04:08Z",
+      "score": -15,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Cryptocurrency-Backed Trustless Anonymous Tokens and Their Applications",
+      "url": "https://eprint.iacr.org/2026/1074"
     },
     "7d475a0aeb95e9bd4b2c487556280b335ceedf628be566637ddacb3121b413b9": {
       "processed_at": "2026-07-15T09:51:51.028082Z",
@@ -6599,6 +6629,16 @@
       "source_id": "iacr-eprint",
       "title": "A Real-World Law-Enforcement Hack: The Case of Encrochat",
       "url": "https://eprint.iacr.org/2026/1319"
+    },
+    "820a9223e93fabfb1e50027488752d9c471cbcd0176d959546bc197a73793a9b": {
+      "processed_at": "2026-07-24T10:08:22.873063Z",
+      "published_at": "2026-04-28T07:00:06Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Beyond Binary: crosscorrelation of Cubic, Quartic and Quintic Character Sequences",
+      "url": "https://eprint.iacr.org/2026/829"
     },
     "821daafcd6967272c88a761839a3e5ecc65203a73be2f94578a85e37143f4c81": {
       "processed_at": "2026-07-08T10:08:21.464896Z",
@@ -8589,6 +8629,16 @@
       "source_id": "arxiv-crypto",
       "title": "ComputeFHE: A Privacy-Preserving General-Purpose Computation Library",
       "url": "https://arxiv.org/abs/2606.24379v1"
+    },
+    "a9e0f83b367cdbb4b6139391c360927b8feed75b4d4e438c2029fe07eed91976": {
+      "processed_at": "2026-07-24T10:08:22.873032Z",
+      "published_at": "2026-06-11T19:32:05Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Resource Estimation of the Distributed Quantum Algorithm for the Elliptic Curve Logarithm Problem",
+      "url": "https://eprint.iacr.org/2026/1244"
     },
     "a9f500a630c03191cdf7f5112d5f56b6b2cf17d9702352e349ec44252cdda160": {
       "processed_at": "2026-07-03T10:27:28.895220Z",
@@ -11229,6 +11279,16 @@
       "source_id": "arxiv-crypto",
       "title": "Finite-key security analysis of decoy-state QKD with source and detector imperfections",
       "url": "https://arxiv.org/abs/2606.29943v1"
+    },
+    "df84c15c011ba4baf14d50822c5441868e5f09a231db153a9a608cdb4847400d": {
+      "processed_at": "2026-07-24T10:08:22.873070Z",
+      "published_at": "2026-04-17T16:37:07Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Simple Batched Threshold Encryption Scheme",
+      "url": "https://eprint.iacr.org/2026/760"
     },
     "df908310aab0a1ffe4f989784c81e4095e89338b1ede71990e75e1d438011082": {
       "processed_at": "2026-07-12T22:55:00.808826Z",
