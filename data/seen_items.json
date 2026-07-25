@@ -3950,6 +3950,16 @@
       "title": "Improving Skipping Fault Correction Attacks on Randomized Dilithium via MILP",
       "url": "https://eprint.iacr.org/2026/1448"
     },
+    "4be3340901097103f9fd5304b46e65987ce4a26d373516615dec7f6287f0ee74": {
+      "processed_at": "2026-07-25T09:28:33.271054Z",
+      "published_at": "2026-07-22T08:12:40Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Updatable Private Set Union: Generic Construction with Efficient Instantiation",
+      "url": "https://eprint.iacr.org/2026/1497"
+    },
     "4bf49349f54b2958fc5b36c56e914883472afb042ca1eebeab78ce989993bebe": {
       "processed_at": "2026-07-12T22:55:00.808759Z",
       "published_at": "2026-07-09T12:02:37Z",
@@ -3989,6 +3999,16 @@
       "source_id": "arxiv-crypto",
       "title": "Converging Safety and Security: IO-Link Wireless and OPC UA over 5G under prEN 50742",
       "url": "https://arxiv.org/abs/2607.15840v1"
+    },
+    "4c76676802ef794915c5eadf696036747d459dcf62ac8fa8fa6dc83c7c6eab45": {
+      "processed_at": "2026-07-25T09:28:33.270884Z",
+      "published_at": "2026-07-24T00:11:54Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Unconditional Unclonable Encryption",
+      "url": "https://eprint.iacr.org/2026/1511"
     },
     "4cfd602c594d3b55f05aa1f1f1cce6c7ea0add364aa9cf4cdabb1cff467355f8": {
       "processed_at": "2026-06-26T10:44:46.362385Z",
@@ -4059,6 +4079,16 @@
       "source_id": "iacr-eprint",
       "title": "Improved Quantum Circuits for Information Set Decoding with Application to Code-Based Cryptography",
       "url": "https://eprint.iacr.org/2026/1411"
+    },
+    "4f616e6d94b239d96536e05e447f95b2f306f2be13abfe277f590a7c558427b9": {
+      "processed_at": "2026-07-25T09:28:33.270977Z",
+      "published_at": "2026-07-23T08:00:40Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Conditional-Affine Redundant Clauses for SHA-256 Differential SAT",
+      "url": "https://eprint.iacr.org/2026/1505"
     },
     "4fab91d697141887b5ae8dcc0bc8560e1379a186e82a12e5ecd0d119f3390e6f": {
       "processed_at": "2026-06-18T07:18:35.071618Z",
@@ -4749,6 +4779,16 @@
       "source_id": "arxiv-crypto",
       "title": "Low-Cost Multi-Precision Systolic Arrays for Accelerating FHE NTTs on AI ASICs",
       "url": "https://arxiv.org/abs/2606.19866v1"
+    },
+    "5c37ce26d41ac96287e80fde2a86770dea3937137dea2ff9eab3cf5fe0af0625": {
+      "processed_at": "2026-07-25T09:28:33.270955Z",
+      "published_at": "2026-07-23T13:36:02Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Analyzing Cryptography in Context: A Cryptography-Native Approach to Threat Modeling",
+      "url": "https://eprint.iacr.org/2026/1507"
     },
     "5c49aeb0a06141d642f514db4d40853a7fceeac954779dc35c2826be7075a26d": {
       "processed_at": "2026-06-26T10:44:46.362337Z",
@@ -5540,6 +5580,16 @@
       "title": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them"
     },
+    "6da700c9190d60928739bb2976221f5f883bb215937624b2583b7f2594de9760": {
+      "processed_at": "2026-07-25T09:28:33.271073Z",
+      "published_at": "2026-07-21T16:50:51Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Oblivious Sorting under Fully Homomorphic Encryption: A Comprehensive Survey and Performance Analysis",
+      "url": "https://eprint.iacr.org/2026/1495"
+    },
     "6db011e5a93a2ffebe915c0fc13404892e00ccb19d60bc25871576760f96b184": {
       "processed_at": "2026-06-19T11:59:38.030161Z",
       "published_at": "2026-06-18T05:22:38Z",
@@ -5679,6 +5729,16 @@
       "source_id": "arxiv-crypto",
       "title": "The Spectrum Strikes Back: Infrared POV Attacks on Traffic Sign Classification",
       "url": "https://arxiv.org/abs/2606.30153v1"
+    },
+    "6fa5fb800fba9166c5c08a4b22a17f2dfa3b554ab910afaee5baebdd44949a73": {
+      "processed_at": "2026-07-25T09:28:33.270997Z",
+      "published_at": "2026-07-23T05:38:51Z",
+      "score": -2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "The Consensus Number of Untraceable Cryptocurrencies",
+      "url": "https://eprint.iacr.org/2026/1503"
     },
     "6fc4d5f423448fdd29e0fcbcc9a0fb7c055d345203b2f9bf09900bc3cf67d7fc": {
       "processed_at": "2026-07-24T23:04:45.546357Z",
@@ -6910,6 +6970,16 @@
       "title": "An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios",
       "url": "https://arxiv.org/abs/2606.29602v1"
     },
+    "85795a2fde31f2a890e028d180c603ec4ad89ceaec765f739a0870f87d6a7896": {
+      "processed_at": "2026-07-25T09:28:33.271045Z",
+      "published_at": "2026-07-22T08:46:06Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Multilevel Amortized Gaussian Elimination in Information-Set Decoding: Applications to HQC and PCG",
+      "url": "https://eprint.iacr.org/2026/1498"
+    },
     "860e8dfb520940790f177e0e2b352d137c64f69a74dea1c7b428391cdd6ec0c6": {
       "processed_at": "2026-06-18T07:18:35.071329Z",
       "published_at": "2026-06-17T15:33:41Z",
@@ -7080,6 +7150,16 @@
       "title": "Trust but Verify? Uncovering the Security Debt of Autonomous Coding Agents",
       "url": "https://arxiv.org/abs/2607.12428v1"
     },
+    "8955b3f5b51caa0d7d89e19d96b0d7f35c85788e64d33ea2b60298563ad4f43e": {
+      "processed_at": "2026-07-25T09:28:33.270945Z",
+      "published_at": "2026-07-23T19:28:41Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "ZKPoSP: Post-Quantum Zero-Knowledge Proofs for Hierarchical Deterministic Wallets",
+      "url": "https://eprint.iacr.org/2026/1508"
+    },
     "8977fbdbae475d9196ab3619836b5a562189db4d90a56ac9f052c24c4f8a5f76": {
       "processed_at": "2026-07-23T23:00:38.603574Z",
       "published_at": "2026-07-20T19:09:40Z",
@@ -7239,6 +7319,16 @@
       "source_id": "arxiv-crypto",
       "title": "Automated Stealthy Wear-Out Attack on Digital Twins With Deep Reinforcement Learning",
       "url": "https://arxiv.org/abs/2607.10830v1"
+    },
+    "8ce0bebbac8f34dea376ddb9d2e0ed138bd116647e7bce9f079dd86f990023dd": {
+      "processed_at": "2026-07-25T09:28:33.271016Z",
+      "published_at": "2026-07-22T22:31:21Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Phishing in the Noise: Analysis of CT-based Phishing Detection Performance on Free Hosting Platforms",
+      "url": "https://eprint.iacr.org/2026/1501"
     },
     "8cf257176878d20a9e99437baf590aa02579461a414911630788266c2cd53089": {
       "processed_at": "2026-06-19T23:02:40.718129Z",
@@ -7810,6 +7900,16 @@
       "title": "Halt Fast! Early Stopping for Certified Robustness",
       "url": "https://arxiv.org/abs/2606.27694v1"
     },
+    "99dec15a671f6c1695c21fe7910b81f30ae0cf3966add4f07183795b41437273": {
+      "processed_at": "2026-07-25T09:28:33.271026Z",
+      "published_at": "2026-07-22T20:37:51Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "How to Define Expected Quantum Polynomial-Time Zero Knowledge Simulation",
+      "url": "https://eprint.iacr.org/2026/1500"
+    },
     "99e5ee544c8c772befbd5b5c5929f27654c4535c616fc995b6cbbe8c1f65736c": {
       "processed_at": "2026-07-20T10:42:13.175833Z",
       "published_at": "2026-07-14T01:17:17Z",
@@ -8159,6 +8259,16 @@
       "source_id": "iacr-eprint",
       "title": "Barriers for Transparent Algebraic Generation of Hard Supersingular Curves",
       "url": "https://eprint.iacr.org/2026/1278"
+    },
+    "9f753d88ed2d276904b7ceb879c493f08dc8a5edcf2f135ac483b3a9f722d98e": {
+      "processed_at": "2026-07-25T09:28:33.270987Z",
+      "published_at": "2026-07-23T07:30:23Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Encifher: A Trusted-Execution Coprocessor for Confidential Computation on Solana",
+      "url": "https://eprint.iacr.org/2026/1504"
     },
     "9f76d19b6d074df8dd515329388c740ed11e8ddb39878729a1abc8899b205921": {
       "processed_at": "2026-07-10T10:45:00.436670Z",
@@ -9510,6 +9620,26 @@
       "title": "TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model",
       "url": "https://arxiv.org/abs/2607.08666v1"
     },
+    "b6266de42ded5ca15bf01bceb47ed3e06cc93153d1454c430b5e9f43a5268d47": {
+      "processed_at": "2026-07-25T09:28:33.270935Z",
+      "published_at": "2026-07-23T20:42:18Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Unclonable Encryption from Pauli Eigenstates",
+      "url": "https://eprint.iacr.org/2026/1509"
+    },
+    "b62b50e35013b9ed54ce469c8cadcc4e29c5c787d52636c266284a3dba4a3704": {
+      "processed_at": "2026-07-25T09:28:33.271035Z",
+      "published_at": "2026-07-22T15:44:50Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "BF²: A Bloom-Filtered Brute-Force Framework for Multi-Target Password Recovery",
+      "url": "https://eprint.iacr.org/2026/1499"
+    },
     "b65d4e2e69e9a7ac78acdf2d39a0784525fd2abaed45be9b2868957797deede2": {
       "processed_at": "2026-07-22T23:09:08.354961Z",
       "published_at": "2026-07-18T15:38:36Z",
@@ -10189,6 +10319,16 @@
       "source_id": "arxiv-crypto",
       "title": "NARAD: Non-colluding Aggregator-oblivious Record-And-Decrypt",
       "url": "https://arxiv.org/abs/2607.07596v1"
+    },
+    "c50685346c35753d9ba6e74bbf59da00114a24f202063cbb01ffe09dbe028e87": {
+      "processed_at": "2026-07-25T09:28:33.270923Z",
+      "published_at": "2026-07-23T22:03:11Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Quantum Lazy Sampling and Path Recording for Any Group",
+      "url": "https://eprint.iacr.org/2026/1510"
     },
     "c51daa9c70b4d6c478495550076459ff509bba1f1e3db4b7ddf1688b8bc4eed7": {
       "processed_at": "2026-07-24T23:04:45.546218Z",
@@ -11159,6 +11299,16 @@
       "source_id": "arxiv-crypto",
       "title": "BipBipCache: Pipeline-Aware Integration of Low-Latency Tweakable Encryption in an Embedded Cache Controller",
       "url": "https://arxiv.org/abs/2606.23941v1"
+    },
+    "d984da32ecc174eb79c71759ce8d884dae120cc69fe916dacd09dad4fc2e81cf": {
+      "processed_at": "2026-07-25T09:28:33.271006Z",
+      "published_at": "2026-07-23T05:10:37Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Privacy-Preserving LSTM Inference on Encrypted Sequential Data",
+      "url": "https://eprint.iacr.org/2026/1502"
     },
     "d995b57f5f4d5687d2382a0debf5cbff34e60571c0531e4e9472f5cfa500563c": {
       "processed_at": "2026-07-23T23:00:38.603473Z",
@@ -12150,6 +12300,16 @@
       "title": "What You See Is Not What You Execute: Memory-Based Runtime SBOM Generation for Supply Chain Security",
       "url": "https://arxiv.org/abs/2606.22827v1"
     },
+    "ec412b9e430fb55cb981ecc0f06ff76b00356d1b7170df6b6736fc337afb9c04": {
+      "processed_at": "2026-07-25T09:28:33.270964Z",
+      "published_at": "2026-07-23T08:26:37Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "SM4th and uBlockith: VOLE-based Post-Quantum Signature Schemes from Chinese Block Ciphers",
+      "url": "https://eprint.iacr.org/2026/1506"
+    },
     "ecbae7fa31aa7e0c90c0b1dc3579a50697d3e0eb5b06aa3b6383576dd8d4ee52": {
       "processed_at": "2026-07-20T10:42:13.175537Z",
       "published_at": "2026-07-17T17:55:19Z",
@@ -13049,6 +13209,16 @@
       "source_id": "arxiv-crypto",
       "title": "ProvICS: A Provenance-based Intrusion Detection for Industrial Control Systems",
       "url": "https://arxiv.org/abs/2607.05989v1"
+    },
+    "ff2fa305b9c794a5540cd0432f2ce0a54ecacbac585b4e019c6009c196933ce3": {
+      "processed_at": "2026-07-25T09:28:33.271064Z",
+      "published_at": "2026-07-21T19:11:13Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Floor-IT: Information-Theoretic BFT in Partial Synchrony with Two Round Good Case Latency and Optimal Resilience",
+      "url": "https://eprint.iacr.org/2026/1496"
     },
     "ff34773250671bc9556551e48567bd9001ce1226cfc9d7d1f2475d7ee194092d": {
       "processed_at": "2026-07-01T11:17:56.312769Z",
