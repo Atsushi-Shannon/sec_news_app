@@ -340,6 +340,16 @@
       "title": "The post-quantum EO is an important milestone. Now it’s time to get to work",
       "url": "https://blog.cloudflare.com/post-quantum-eo-2026"
     },
+    "06207bda86848d0ced83de476856a9f7b080745ba060112133d92ee9929e79af": {
+      "processed_at": "2026-07-27T23:06:52.233047Z",
+      "published_at": "2026-07-24T05:47:34Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Distributed Vector Commitments and Their Applications",
+      "url": "https://eprint.iacr.org/2026/1514"
+    },
     "069960d5f5ff7e7e34f8a89eeb7e891806fe5d4d4ec2240386ec654ea2391c0f": {
       "processed_at": "2026-07-04T10:00:18.699226Z",
       "published_at": "2026-07-01T09:15:49Z",
@@ -479,6 +489,16 @@
       "source_id": "arxiv-crypto",
       "title": "Do Agents Dream of False Memories? Black-box Visual Attacks on Long-term Memory in Multimodal AI Agents",
       "url": "https://arxiv.org/abs/2607.15657v1"
+    },
+    "0a48e9fd5446addc6ffd0d298f3a1f885353be187502586c111cd2d5a6c79377": {
+      "processed_at": "2026-07-27T23:06:52.232982Z",
+      "published_at": "2026-07-24T13:27:41Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Beyond Blockchain Ballots: UC-Secure Layer-2 Voting and Governance",
+      "url": "https://eprint.iacr.org/2026/1521"
     },
     "0a4cd268072cf816190996f0c44e1bb784c77ecca39bfb99cd5302ed486cdc48": {
       "processed_at": "2026-06-30T10:49:24.831487Z",
@@ -1069,6 +1089,16 @@
       "source_id": "arxiv-crypto",
       "title": "End-to-End Differential Privacy in Training Deep Neural Network Classifiers",
       "url": "https://arxiv.org/abs/2607.19580v1"
+    },
+    "177200ab42bd7743effcc78660f725d3c22fe317e90311ffbc5f23072360c3a8": {
+      "processed_at": "2026-07-27T23:06:52.232936Z",
+      "published_at": "2026-07-27T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "We’re open-sourcing our privacy proxy CLI",
+      "url": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli"
     },
     "17c1e1d99af256af5d1ff807558fb61285b83902577fab7fd3cc417a2e9fa46b": {
       "processed_at": "2026-07-02T10:29:31.874694Z",
@@ -5170,6 +5200,16 @@
       "title": "BioSecBench-Refusal: A paired metric for performance and alignment in agentic biosecurity risk assessment",
       "url": "https://arxiv.org/abs/2607.05462v2"
     },
+    "60522b0b942c098d8bb69d0ad7ef30b39039e16e8604cf8cd6a273e3b69eed43": {
+      "processed_at": "2026-07-27T23:06:52.232949Z",
+      "published_at": "2026-07-25T00:41:51Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Note on Single-Server QPIR from One-Way Functions",
+      "url": "https://eprint.iacr.org/2026/1524"
+    },
     "60a1238c25676cccbd387d364b834efbfc8d8411f30e78e25c06284e9532adb4": {
       "processed_at": "2026-07-07T23:05:56.370704Z",
       "published_at": "2026-07-06T07:12:32Z",
@@ -5489,6 +5529,16 @@
       "source_id": "arxiv-crypto",
       "title": "Self-Verifying Measurement Records: Hash-Linked Evidence Graphs for Hardware Benchmarking",
       "url": "https://arxiv.org/abs/2606.27934v1"
+    },
+    "67990c87fbf548c37d9f00c48360cdf82276a85cb26e9d52846b60df6aa8485e": {
+      "processed_at": "2026-07-27T23:06:52.232971Z",
+      "published_at": "2026-07-24T15:43:02Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Ternary Computation of Optimal Ate Pairing on BLS27 Curves",
+      "url": "https://eprint.iacr.org/2026/1522"
     },
     "683b5536a12fe2ab74895dd4a9a1034b670411bec6369fc335e012ebcebab2e1": {
       "processed_at": "2026-07-03T10:27:28.895140Z",
@@ -7140,6 +7190,16 @@
       "title": "Bootstrapping is All You Need: Secure Transformer Inference via Improved CKKS Functional Bootstrapping",
       "url": "https://eprint.iacr.org/2026/1255"
     },
+    "852b87066f17a475eee7c5bcebacf3cfbc4d7eafd164a23839c8ebdb61918731": {
+      "processed_at": "2026-07-27T23:06:52.232921Z",
+      "published_at": "2026-07-27T16:25:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Enhancing AI security through global AI red teaming",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming"
+    },
     "8542f138989b68844638da9c3aeb3a6bc13459eb55525048bb8c92165d3f1b79": {
       "processed_at": "2026-07-10T10:45:00.436805Z",
       "published_at": "2026-07-09T08:26:50Z",
@@ -7520,6 +7580,16 @@
       "title": "Efficient Unclonable Encryption from Pauli Eigenstates",
       "url": "https://arxiv.org/abs/2607.21811v1"
     },
+    "8c7148119af8f587ff9abf72c0ba2d3e3409e7b3f7b450b1d630cc0ab5f442b2": {
+      "processed_at": "2026-07-27T23:06:52.232873Z",
+      "published_at": "2026-07-27T16:40:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Rethinking security for the age of AI",
+      "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai"
+    },
     "8cc468faae86cfb23539873fd5fc299e4fec86b0d37baf050687088fb555c152": {
       "processed_at": "2026-07-14T09:47:39.424581Z",
       "published_at": "2026-07-12T16:46:30Z",
@@ -7729,6 +7799,16 @@
       "source_id": "arxiv-crypto",
       "title": "SEED: Semi-supervised Continual MalwarE Detection for Tackling ConcEpt Drift on a BuDget",
       "url": "https://arxiv.org/abs/2605.24903v2"
+    },
+    "9185b2c225fd20b3bfeb2545eb91d0cf2061c4c818a6b87a4ea669ed601de92b": {
+      "processed_at": "2026-07-27T23:06:52.233024Z",
+      "published_at": "2026-07-24T08:32:59Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "ConvertInput-Free Vector Homomorphic Secret Sharing and Its Applications",
+      "url": "https://eprint.iacr.org/2026/1517"
     },
     "91b403cace7c2fd576f3373e32f7100769966dc4ca824efa88cc746c073fff7e": {
       "processed_at": "2026-06-18T06:50:34.963611Z",
@@ -8019,6 +8099,16 @@
       "source_id": "iacr-eprint",
       "title": "A New Framework for Efficient Multivariate Functional Bootstrapping",
       "url": "https://eprint.iacr.org/2026/1401"
+    },
+    "97f2b348224cba141defe99405aa8c8ffdfc72679c079a5915ed0b5f82960565": {
+      "processed_at": "2026-07-27T23:06:52.233016Z",
+      "published_at": "2026-07-24T09:18:01Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Practical Equivalent-Key Recovery in GRAFHEN",
+      "url": "https://eprint.iacr.org/2026/1518"
     },
     "9837ef1d9d54737c14aa796df8a6aecbb6b0e369207d5d642456fbbc946d1d28": {
       "processed_at": "2026-07-14T09:47:39.424621Z",
@@ -9130,6 +9220,16 @@
       "title": "Double-Structured Genetic Algorithm for Solving the SVP Based on Double Optimization: Using Two Types of Chromosomes",
       "url": "https://eprint.iacr.org/2026/1345"
     },
+    "a9752497be987c435a802aed6233d4b7469745de10ecf4f329693e69aed1cf88": {
+      "processed_at": "2026-07-27T23:06:52.232960Z",
+      "published_at": "2026-07-24T21:40:09Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions",
+      "url": "https://eprint.iacr.org/2026/1523"
+    },
     "a9ab76d95b83094a2ebfa0e657473c8faa480be83f7c55f386c335714f8825ed": {
       "processed_at": "2026-06-18T07:18:35.071872Z",
       "published_at": "2026-06-08T13:00:00Z",
@@ -9920,6 +10020,16 @@
       "title": "ToolGuardian: Declarative Security for AI Agent-Tool Interactions",
       "url": "https://arxiv.org/abs/2607.21835v1"
     },
+    "b65f5ec4b2309ceaf1dfff41145a9136ae60b8bf2abe5d0c3bb59803950db171": {
+      "processed_at": "2026-07-27T23:06:52.233031Z",
+      "published_at": "2026-07-24T08:31:19Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Complex-Multiplication Terminals for Supersingular Isogeny Path-Finding",
+      "url": "https://eprint.iacr.org/2026/1516"
+    },
     "b6ee43e8d18d2ce295b47305dea7078512e0a0f73a646d1285030f7ce325f022": {
       "processed_at": "2026-07-23T10:12:14.724586Z",
       "published_at": "2026-07-23T00:22:00Z",
@@ -9970,6 +10080,16 @@
       "title": "The Most Efficient Protocol for PAKE: What Exact Stuff Do You Need to Hash at the End?",
       "url": "https://eprint.iacr.org/2026/1331"
     },
+    "b87cf6b0c3f8206b3518ee8686f140a6c777734a92e156e8467ee445b7ffc415": {
+      "processed_at": "2026-07-27T23:06:52.233039Z",
+      "published_at": "2026-07-24T06:47:30Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Exponentially Fewer-Server PIR from Sparser $S$-Decoding Polynomials",
+      "url": "https://eprint.iacr.org/2026/1515"
+    },
     "b8e6db8cde8e96193b2a419240357646a263600e793b6da9bfa88b2373405406": {
       "processed_at": "2026-07-16T09:58:06.612370Z",
       "published_at": "2026-07-15T04:52:47Z",
@@ -9989,6 +10109,16 @@
       "source_id": "iacr-eprint",
       "title": "TensorZKP: Repurposing GPU Tensor Cores for High-Performance Zero-Knowledge Proofs",
       "url": "https://eprint.iacr.org/2026/1250"
+    },
+    "b9b9a05a70ded09f041eee1add568f9f5dd968accc97bc39fb18a55151157487": {
+      "processed_at": "2026-07-27T23:06:52.233055Z",
+      "published_at": "2026-07-24T05:39:58Z",
+      "score": 16,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "STEBR: A Timed-Erasure, Threshold-Gated Backup Ratchet",
+      "url": "https://eprint.iacr.org/2026/1513"
     },
     "b9d5b7667ba2ff8557e82975828e2cd28da5744035dab0d6b83e5104c92632cf": {
       "processed_at": "2026-06-23T10:55:48.540354Z",
@@ -12790,6 +12920,16 @@
       "title": "A Comparison of Kubernetes Compliance Standards and Configuration Scanners",
       "url": "https://arxiv.org/abs/2606.24438v1"
     },
+    "efcfe3b0d14ba5db696e4de984ec53ba968216eae1bf262b5ce44906a55e967f": {
+      "processed_at": "2026-07-27T23:06:52.232994Z",
+      "published_at": "2026-07-24T12:24:36Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Quintus: Two-round Good-case Information Theoretic BFT for $n=5f+1$",
+      "url": "https://eprint.iacr.org/2026/1520"
+    },
     "f089f45033d4ff9967179d66f845b03a492b86ecc436f226aedd1be956ec8fdb": {
       "processed_at": "2026-07-23T10:12:14.724667Z",
       "published_at": "2026-07-22T14:09:37Z",
@@ -12949,6 +13089,16 @@
       "source_id": "arxiv-crypto",
       "title": "PIP-NTT: Towards a Scalable Memory-Parallelized Accelerator for Iterative NTT in PQC",
       "url": "https://arxiv.org/abs/2607.18533v1"
+    },
+    "f389eb8c8789dad50904a3cef6270df7d4c379498ed6729fff404ae512c33423": {
+      "processed_at": "2026-07-27T23:06:52.233007Z",
+      "published_at": "2026-07-24T12:16:36Z",
+      "score": 23,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Classic Full Plaintext Recovery Attacks on Low Round Generalized Feistel Networks",
+      "url": "https://eprint.iacr.org/2026/1519"
     },
     "f3bc04f29df821aaac0bff8844e8285c1b57f37084e53c9eb6a8a1ee490d4081": {
       "processed_at": "2026-07-27T11:10:46.287935Z",
