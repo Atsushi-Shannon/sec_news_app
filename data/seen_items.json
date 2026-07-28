@@ -6450,6 +6450,16 @@
       "title": "An Empirical Study of Security Calibration in Large Language Models for Code",
       "url": "https://arxiv.org/abs/2606.31159v1"
     },
+    "740a5e1033d4c8bc8f2b07e3620e7fd3aeb313c409ad76a8a926a5ea7afddc9b": {
+      "processed_at": "2026-07-28T23:03:48.988429Z",
+      "published_at": "2026-07-28T11:00:00Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "trail-of-bits-blog",
+      "title": "How we use /goal to find bugs in Patch the Planet",
+      "url": "https://blog.trailofbits.com/2026/07/28/how-we-use-goal-to-find-bugs-in-patch-the-planet"
+    },
     "7420b6174191343a696ee1e57905dc68f8450e1160c343a5cbacca8ab1d1b545": {
       "processed_at": "2026-07-16T09:58:06.612473Z",
       "published_at": "2026-07-13T15:36:19Z",
@@ -7519,6 +7529,16 @@
       "source_id": "arxiv-crypto",
       "title": "Gasp: A DeFi Application Specic Rollup as a Consolidation Layer for All Assets",
       "url": "https://arxiv.org/abs/2607.16052v1"
+    },
+    "87a59475a5c72808d01c46adaf51e327ada65c7b2763ca44a9a138ff90da40a6": {
+      "processed_at": "2026-07-28T23:03:48.988392Z",
+      "published_at": "2026-07-28T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
+      "url": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary"
     },
     "87be204a229cf74ffb7e895905ae2ff7156b2a711bb2c09611926587749af6f4": {
       "processed_at": "2026-06-30T10:49:24.831393Z",
