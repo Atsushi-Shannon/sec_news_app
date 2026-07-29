@@ -2500,6 +2500,16 @@
       "title": "FirmCure:Towards Autonomous and Adaptive Rehosting of Linux-Based Firmware",
       "url": "https://arxiv.org/abs/2606.24549v1"
     },
+    "2c514140a5b0656badf5c6585e449714e5c1c95706681ef32da8d14f5f3e4ec5": {
+      "processed_at": "2026-07-29T23:01:08.054299Z",
+      "published_at": "2026-07-29T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "​​Better security starts with better questions",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions"
+    },
     "2c5e27cbc8c3dc096c30256e2ee708ae392d9562107c3cd5eed55c5f5eb2d97c": {
       "processed_at": "2026-07-16T09:58:06.612005Z",
       "published_at": "2026-07-16T01:36:21Z",
@@ -8739,6 +8749,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: 複数のSplunk製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html"
+    },
+    "9972b3a95738d21414f2d21edf6b8155731264dde3adad2f267848d78aceceed": {
+      "processed_at": "2026-07-29T23:01:08.054343Z",
+      "published_at": "2026-07-29T13:00:00Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Post-quantum authentication to origins is now supported",
+      "url": "https://blog.cloudflare.com/post-quantum-authentication-to-origins"
     },
     "9997e9cbe847a22aafbc91e8777ef5cbee8703bd23920def69086b16a04c6a6f": {
       "processed_at": "2026-06-29T12:24:06.392937Z",
