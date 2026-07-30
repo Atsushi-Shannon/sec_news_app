@@ -1130,6 +1130,16 @@
       "title": "A Machine-Checked EUF-CMA Proof for the Hybrid Fiat-Shamir Signature Scheme",
       "url": "https://eprint.iacr.org/2026/1086"
     },
+    "1676ce956f24c1c98764770c65c64c8726a4cdae75449ebc689bc1e5cb760aab": {
+      "processed_at": "2026-07-30T10:13:19.348152Z",
+      "published_at": "2026-05-29T08:10:12Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "The Equivalence of Two Quadratic Based IBEs",
+      "url": "https://eprint.iacr.org/2026/1092"
+    },
     "170690f9d1011cef2df00c5138814514c7807a986334a7e8ce29e578f7f28348": {
       "processed_at": "2026-07-23T10:12:14.724778Z",
       "published_at": "2026-07-21T21:15:55Z",
@@ -2299,6 +2309,16 @@
       "source_id": "arxiv-crypto",
       "title": "Untrusted Content Masking for Web Agents with Security Guarantees",
       "url": "https://arxiv.org/abs/2607.05277v1"
+    },
+    "297612d7d50b3ba69ff0c9b4e3f4b0829944144ad0d78dcdbaabadfb5bf388e6": {
+      "processed_at": "2026-07-30T10:13:19.348212Z",
+      "published_at": "2026-04-06T20:24:30Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "FLOSS: Fast Linear Online Secret-Shared Shuffling",
+      "url": "https://eprint.iacr.org/2026/672"
     },
     "29a3698d4efa43390d913ede57b8ded16bb09d7aaa3743451b59205b7b1d933f": {
       "processed_at": "2026-07-01T11:17:56.312812Z",
@@ -3500,6 +3520,16 @@
       "title": "Reproducible Validation of Voucher-Based L2 Interoperability: Diagnosing an ERC-4337 Compatibility Issue in an EIL SDK Implementation",
       "url": "https://arxiv.org/abs/2607.05914v1"
     },
+    "3e6b1607d65e02060dd8756908352eefabee7de73bab21ca233c028660f39a17": {
+      "processed_at": "2026-07-30T10:13:19.348164Z",
+      "published_at": "2026-05-15T05:59:37Z",
+      "score": -5,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "On the Communication Complexity of Sleepy Consensus",
+      "url": "https://eprint.iacr.org/2026/960"
+    },
     "3e719ba2de55107ca145c4509c9d2a09a07a02823dfabf072cd830e766eed444": {
       "processed_at": "2026-06-25T10:35:22.791369Z",
       "published_at": "2026-06-24T16:57:49Z",
@@ -3589,6 +3619,16 @@
       "source_id": "cloudflare-blog",
       "title": "How we built Cloudflare's data platform and an AI agent on top of it",
       "url": "https://blog.cloudflare.com/our-unified-data-platform"
+    },
+    "3fd505f15bb9555d1565ba87e93e5dea205db934b8ce71791dc07942e8ac4d9b": {
+      "processed_at": "2026-07-30T10:13:19.348262Z",
+      "published_at": "2026-03-04T10:29:07Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "PRISM with a pinch of salt: Simple, Efficient and Strongly Unforgeable Signatures from Isogenies",
+      "url": "https://eprint.iacr.org/2026/443"
     },
     "3fe1e76440b433a745515c6b1407c37007e0dae87d676358b4c5e637eca2fb12": {
       "processed_at": "2026-07-16T09:58:06.612466Z",
@@ -3839,6 +3879,16 @@
       "source_id": "iacr-eprint",
       "title": "HAWK ``Guessing Game'' is not Polynomial-Time",
       "url": "https://eprint.iacr.org/2026/1377"
+    },
+    "42d05c60a2d50c4322b2b29498ee5cc72d60f9fb5d1782db3eaed4242637c125": {
+      "processed_at": "2026-07-30T10:13:19.348080Z",
+      "published_at": "2026-07-30T08:03:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "注意喚起: Ruby on RailsのActive Storageにおけるリモートコード実行につながる脆弱性（CVE-2026-66066）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260021.html"
     },
     "42eaabfbf4c3f363da2edafddb32037d138a9ac4412b23f5695a751290679dd2": {
       "processed_at": "2026-07-15T23:00:54.359821Z",
@@ -7290,6 +7340,16 @@
       "title": "Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models",
       "url": "https://arxiv.org/abs/2606.24000v1"
     },
+    "7e13ca47ee4ee065aabb721053b6cc133d72ab015b6cea470ff15970c5f25fc9": {
+      "processed_at": "2026-07-30T10:13:19.348176Z",
+      "published_at": "2026-05-14T07:11:33Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Threshold FHE with Short Decryption Shares without a Semi-trusted Server",
+      "url": "https://eprint.iacr.org/2026/957"
+    },
     "7e51c18633fbcde8d667ab28bcb182d1ea54f6ca791b326f287a229dfa23ceb8": {
       "processed_at": "2026-06-18T07:18:35.071436Z",
       "published_at": "2026-06-17T12:17:02Z",
@@ -7850,6 +7910,16 @@
       "title": "On the Impact of Entropy-based Features",
       "url": "https://arxiv.org/abs/2607.15379v1"
     },
+    "88472a060bfbd9fdf0120a7788760c4d5041ed1827ba96ec132c646f09d02125": {
+      "processed_at": "2026-07-30T10:13:19.348188Z",
+      "published_at": "2026-05-08T08:37:29Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "An analysis of a weakened version of PRISM",
+      "url": "https://eprint.iacr.org/2026/906"
+    },
     "885799b9881e7839e9b3b5c6f793612d993a442bec17c276938cb5f654f03cfc": {
       "processed_at": "2026-06-24T10:41:50.825198Z",
       "published_at": "2026-06-23T05:37:14Z",
@@ -8190,6 +8260,16 @@
       "title": "Multiple-of Property for Related-Differential Distinguishers on 5-Round AES",
       "url": "https://eprint.iacr.org/2026/1286"
     },
+    "8e7379c8047c8d0fc1d324c8fb028d492ad84597460054793c857f6bc34573ea": {
+      "processed_at": "2026-07-30T10:13:19.348225Z",
+      "published_at": "2026-03-16T02:13:59Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Distance of RAA Codes over Large Finite Fields (with Applications in zkSNARKs and PCGs)",
+      "url": "https://eprint.iacr.org/2026/524"
+    },
     "8e7d7d41ca9c2f340d698c98df7e156e336dab3aa986f13dcebb75cea1363644": {
       "processed_at": "2026-07-28T10:25:49.978437Z",
       "published_at": "2026-07-27T13:28:37Z",
@@ -8420,6 +8500,16 @@
       "title": "Practical End-to-end Fault Attacks on PERK",
       "url": "https://eprint.iacr.org/2026/1266"
     },
+    "92de41d67b9da1189d312c256fbae8adf8fa6cfae75377da8a2c332d41dda52d": {
+      "processed_at": "2026-07-30T10:13:19.348298Z",
+      "published_at": "2026-02-25T15:17:00Z",
+      "score": 2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Staying One Step Ahead: Strengthening Android’s Lead in Scam Protection",
+      "url": "http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html"
+    },
     "9318d9467581620f3992461474dd1a0acf8a96ccdf8833fce274f56e3d7a5276": {
       "processed_at": "2026-06-18T07:18:35.071842Z",
       "published_at": "2026-06-10T03:28:00Z",
@@ -8539,6 +8629,16 @@
       "source_id": "iacr-eprint",
       "title": "Compressed Post-Quantum Silent OT from Isogenies",
       "url": "https://eprint.iacr.org/2026/1444"
+    },
+    "95605866a241c072e6fef66e4b2d0ea6033b6b1d14826cf57b9ce4a1f5782909": {
+      "processed_at": "2026-07-30T10:13:19.348310Z",
+      "published_at": "2026-02-19T17:00:00Z",
+      "score": 2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Keeping Google Play & Android app ecosystems safe in 2025",
+      "url": "http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html"
     },
     "958bbc1c92368d62fe6c9b5f8d98f952f9dd1fbef376a2880422707eb55644fb": {
       "processed_at": "2026-07-10T10:45:00.436816Z",
@@ -10580,6 +10680,16 @@
       "title": "TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model",
       "url": "https://arxiv.org/abs/2607.08666v1"
     },
+    "b6093cbe06dca5d9a2fca01b51bfac72bc38f3969fe7b75a7f24dd4b50be2307": {
+      "processed_at": "2026-07-30T10:13:19.348238Z",
+      "published_at": "2026-03-09T08:47:55Z",
+      "score": 11,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Linear-Time, Constant-Depth Blind Polynomial Commitments from Generalized RAA Codes, with an End-to-End Blind SNARK Implementation",
+      "url": "https://eprint.iacr.org/2026/487"
+    },
     "b6266de42ded5ca15bf01bceb47ed3e06cc93153d1454c430b5e9f43a5268d47": {
       "processed_at": "2026-07-25T09:28:33.270935Z",
       "published_at": "2026-07-23T20:42:18Z",
@@ -10599,6 +10709,16 @@
       "source_id": "iacr-eprint",
       "title": "BF²: A Bloom-Filtered Brute-Force Framework for Multi-Target Password Recovery",
       "url": "https://eprint.iacr.org/2026/1499"
+    },
+    "b63cdfed6744922d317cd0fb0327a5e2181d7756a9da5f7cd708d0604c226af1": {
+      "processed_at": "2026-07-30T10:13:19.348250Z",
+      "published_at": "2026-03-05T20:24:54Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Advanced cryptography from lattice isomorphism—new constructions of IBE and FHE",
+      "url": "https://eprint.iacr.org/2026/465"
     },
     "b65d4e2e69e9a7ac78acdf2d39a0784525fd2abaed45be9b2868957797deede2": {
       "processed_at": "2026-07-22T23:09:08.354961Z",
@@ -12250,6 +12370,16 @@
       "title": "SecDrift: Measuring Sector-Conditioned Security Drift in AI-Generated Code",
       "url": "https://arxiv.org/abs/2607.25225v1"
     },
+    "d34f1ed05ad604c42ba5f04eb27f945d7ee0c0ebe42a722125ffd04f0da704d2": {
+      "processed_at": "2026-07-30T10:13:19.348274Z",
+      "published_at": "2026-03-03T16:28:05Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Post-Quantum Anonymous Signatures from the Lattice Isomorphism Group Action",
+      "url": "https://eprint.iacr.org/2026/436"
+    },
     "d356289c7d169a5c4993fa8e3e6d6881b70644786b157e8da0c4b2fbe90ccba0": {
       "processed_at": "2026-07-14T09:47:39.424606Z",
       "published_at": "2026-07-12T10:38:18Z",
@@ -12970,6 +13100,16 @@
       "title": "On the Differential Uniformity of Polynomials over Galois Rings",
       "url": "https://eprint.iacr.org/2026/1393"
     },
+    "df9801bb1b93b524eba99d526081e8ab348ca5ed7f101e496a75e39dc67b7da6": {
+      "processed_at": "2026-07-30T10:13:19.348139Z",
+      "published_at": "2026-06-05T14:12:24Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Validity in Responsive Byzantine Agreement",
+      "url": "https://eprint.iacr.org/2026/1183"
+    },
     "dfcc06f013d9ba555016a166838c649c12516795a108a0379dc7af3d0fbed5e9": {
       "processed_at": "2026-06-25T10:35:22.791404Z",
       "published_at": "2026-06-24T15:25:45Z",
@@ -13359,6 +13499,16 @@
       "source_id": "arxiv-crypto",
       "title": "Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation",
       "url": "https://arxiv.org/abs/2607.13987v1"
+    },
+    "e6f27481510373526dc22927b69b921a26cf58f161a5dba0490ffe3a269ea993": {
+      "processed_at": "2026-07-30T10:13:19.348322Z",
+      "published_at": "2026-02-19T06:52:58Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Multi-key Fully Homomorphic Encryption with Non-Interactive Setup in the Plain Model",
+      "url": "https://eprint.iacr.org/2026/322"
     },
     "e6f9a2f97bd00e55a4da054ac3c3787cc72e1557036df67220fff803a4f169b3": {
       "processed_at": "2026-07-01T11:17:56.313120Z",
@@ -13970,6 +14120,16 @@
       "title": "Conjectures and Barriers for RS-MCA",
       "url": "https://eprint.iacr.org/2026/1479"
     },
+    "f31838bf076d566bfdaa2f87caa874902f90781f4fd968e0be351fa333e65f8e": {
+      "processed_at": "2026-07-30T10:13:19.348287Z",
+      "published_at": "2026-02-27T17:01:00Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Cultivating a robust and efficient quantum-safe HTTPS",
+      "url": "http://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html"
+    },
     "f34e5193f42352e2f797e9c6bdbbe63fe8b52c85473a2425d671a395e42000aa": {
       "processed_at": "2026-07-01T23:20:20.299350Z",
       "published_at": "2026-07-01T16:00:00Z",
@@ -14290,6 +14450,16 @@
       "title": "Firewall3D: A Hardware Firewall for Defending 3D Printers Against Firmware Attacks",
       "url": "https://arxiv.org/abs/2607.10484v1"
     },
+    "f87ecf8d31ef94685160aff433418f9f21fdd8b1dc6fccf8158696683b893304": {
+      "processed_at": "2026-07-30T10:13:19.348123Z",
+      "published_at": "2026-06-08T13:43:43Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "\"Sticking their heads out above the parapets\": Lived Experiences of Legal Risks in Research (Extended)",
+      "url": "https://eprint.iacr.org/2026/1207"
+    },
     "f8812abcd8cc7f0df9c73904912d4d95982ccddc451cf7db45147dc126a22b29": {
       "processed_at": "2026-07-01T23:20:20.299638Z",
       "published_at": "2026-03-31T16:55:00Z",
@@ -14589,6 +14759,16 @@
       "source_id": "arxiv-crypto",
       "title": "Statistically Undetectable Backdoors in Deep Neural Networks",
       "url": "https://arxiv.org/abs/2607.09532v1"
+    },
+    "fdfd3776303ca72c175466d53c5cec4db5af3e6903799c08b24dad16459a40d6": {
+      "processed_at": "2026-07-30T10:13:19.348200Z",
+      "published_at": "2026-04-24T21:24:47Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Practical Post-Quantum Secure Publicly Verifiable Secret Sharing and Applications",
+      "url": "https://eprint.iacr.org/2026/813"
     },
     "fe134f26b653abbe5bcc484a3a8c1311b37cb0d56953c1d2c4dcf2b2105cca9c": {
       "processed_at": "2026-07-08T10:08:21.465003Z",
