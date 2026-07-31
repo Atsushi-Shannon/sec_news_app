@@ -1560,6 +1560,16 @@
       "title": "A High-Speed Hardware Accelerator for QR-UOV Signature Scheme",
       "url": "https://eprint.iacr.org/2026/1458"
     },
+    "1c853fb0981c6e8af10970f73f8f8daac0e25ecdab213d9bd68555c285288177": {
+      "processed_at": "2026-07-31T23:05:22.272964Z",
+      "published_at": "2026-07-31T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "An API for MoQ: provision your own isolated relays",
+      "url": "https://blog.cloudflare.com/moq-relays"
+    },
     "1ca60085e651fb8d0acd5e89d203896b275324f4736a4ff1ffd81455910c93bb": {
       "processed_at": "2026-07-01T11:17:56.313085Z",
       "published_at": "2026-06-29T18:32:29Z",
@@ -8089,6 +8099,16 @@
       "source_id": "arxiv-crypto",
       "title": "TGCM: Topic-Guided Generative Disentanglement of Interleaved APT Technique Sequences",
       "url": "https://arxiv.org/abs/2606.18651v1"
+    },
+    "83f34d2c7f852312797d4af622b3379c2f1f7b45334b34c97a32ca3ad1d2155b": {
+      "processed_at": "2026-07-31T23:05:22.272927Z",
+      "published_at": "2026-07-31T21:01:37Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft"
     },
     "841699514d6daa8963a57df1f521a59ec302df2fd8b32a4b68378cf20fb8cf10": {
       "processed_at": "2026-07-30T23:11:58.394660Z",
