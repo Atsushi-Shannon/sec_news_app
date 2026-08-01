@@ -640,6 +640,16 @@
       "title": "Composable Trust for Language Models: A proven boundary and a measured defense",
       "url": "https://arxiv.org/abs/2607.13149v1"
     },
+    "0b34bcd870ea32590d097d6af21853bd828ce8bfcc32c6470b94429151ede5d7": {
+      "processed_at": "2026-08-01T22:58:12.077354Z",
+      "published_at": "2026-07-15T07:51:52Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "CoSecRAG: Efficient Vector Similarity Search with Database and Query Privacy for RAG",
+      "url": "https://eprint.iacr.org/2026/1442"
+    },
     "0b4447b4a4263b55f7cda3bdc53ac559c513f2fcb693fc582ec0cb3f9867075d": {
       "processed_at": "2026-06-30T10:49:24.831232Z",
       "published_at": "2026-06-29T17:31:10Z",
