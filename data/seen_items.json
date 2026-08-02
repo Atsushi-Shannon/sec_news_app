@@ -3200,6 +3200,16 @@
       "title": "Securing Autonomous Vehicle Systems via Twin-Aware Federated Reinforcement Learning",
       "url": "https://arxiv.org/abs/2607.08137v1"
     },
+    "348c19a2e05284a2c1beeaea199826c9f8dd041767129116a3d3055f509ab12b": {
+      "processed_at": "2026-08-02T22:58:47.826013Z",
+      "published_at": "2026-06-07T06:33:32Z",
+      "score": 4,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "Digital White Spaces: A Cyberpsychology-Informed Framework to Mobile Phone Addiction",
+      "url": "https://arxiv.org/abs/2606.08472v4"
+    },
     "349a5062eb792f5014d4b394f74d9baf7b92824f2a8a37d8cdc5acadc9c8d9dc": {
       "processed_at": "2026-06-24T10:41:50.825176Z",
       "published_at": "2026-06-23T07:06:56Z",
@@ -11089,6 +11099,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: 複数のAdobe製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html"
+    },
+    "b3de0a0bbb9bcc583a581a11c7fac7999d8615ff5d0c17753716241af83a2a77": {
+      "processed_at": "2026-08-02T22:58:47.825962Z",
+      "published_at": "2026-08-02T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Welcome to Agents Week",
+      "url": "https://blog.cloudflare.com/agents-week-welcome"
     },
     "b3f601c9e263f9e214ac6714226c5d569105666b3e36f9f5770110e1edc39dc7": {
       "processed_at": "2026-07-21T10:16:29.237068Z",
