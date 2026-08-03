@@ -2630,6 +2630,16 @@
       "title": "From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning",
       "url": "https://arxiv.org/abs/2606.20553v1"
     },
+    "2a7b60a8358525ae93a001131ae4e5c88026606e0fea35cde7ccf2a17afc6550": {
+      "processed_at": "2026-08-03T23:06:01.531850Z",
+      "published_at": "2026-07-29T03:45:52Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Note on Number-Theoretic Transforms for Implementers -- Butterflies, Twisting, Incompleteness, and Good's Trick",
+      "url": "https://eprint.iacr.org/2026/1546"
+    },
     "2a89ce8f99eacde1671620462b68ad7601b1fb891814f66ffc703bc6c23d7f11": {
       "processed_at": "2026-07-16T09:58:06.612048Z",
       "published_at": "2026-07-15T16:36:54Z",
@@ -3169,6 +3179,16 @@
       "source_id": "iacr-eprint",
       "title": "Solving the Shortest Vector Problem in $2^{0.7314n+o(n)}$ Time via Discrete Gaussian Sampling on Superlattices",
       "url": "https://eprint.iacr.org/2026/1587"
+    },
+    "31b2db8ac4215f3668f4dad869fda799c5cb4a0d43a674272951b2483f13935c": {
+      "processed_at": "2026-08-03T23:06:01.531825Z",
+      "published_at": "2026-08-03T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing the Billable Usage API: programmatic cost visibility for Cloudflare",
+      "url": "https://blog.cloudflare.com/billable-usage-api"
     },
     "31b458f12bb28e9db239b093ab2eda29d9798e6350bc43c0a0928d1778c4cd34": {
       "processed_at": "2026-07-03T10:27:28.895237Z",
@@ -4729,6 +4749,16 @@
       "source_id": "arxiv-crypto",
       "title": "High-Performance NTT Accelerators for PQC leveraging Unified Redundant Arithmetic and Fine-Tuned Microarchitecture",
       "url": "https://arxiv.org/abs/2607.00621v1"
+    },
+    "49729dbdb356ab0556e2b8da147863b6b8a3aa6b6003f8d84f602466263fbf21": {
+      "processed_at": "2026-08-03T23:06:01.531814Z",
+      "published_at": "2026-08-03T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+      "url": "https://blog.cloudflare.com/grpc-workers"
     },
     "4980c0776de04a2d53c0b09f86e38d5763762cfd8b4ca9d90ab8f4cf5a0921bc": {
       "processed_at": "2026-07-21T10:16:29.237247Z",
@@ -10050,6 +10080,16 @@
       "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
       "url": "https://blog.cloudflare.com/agentic-internet-bot-report"
     },
+    "9e4d7ca100b345ae39b5cd360950cd472ba80b3ea2312541b68f994d8da8dd03": {
+      "processed_at": "2026-08-03T23:06:01.531842Z",
+      "published_at": "2026-08-03T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Workers RPC now works across Python and JavaScript",
+      "url": "https://blog.cloudflare.com/python-workers-rpc"
+    },
     "9e6589098a4b7e3c1852b35bd2d7eea50def00500afaa7ee10d2587cf0911676": {
       "processed_at": "2026-07-01T23:20:20.299579Z",
       "published_at": "2026-04-10T15:12:00Z",
@@ -12840,6 +12880,16 @@
       "title": "PriFT: Private Fine-Tuning using off-the-shelf MPC and HE libraries",
       "url": "https://eprint.iacr.org/2026/1381"
     },
+    "c6fef86aac82fd36e2c47490354fcca73af1f18cd4bb2d49cf13e081d88703cb": {
+      "processed_at": "2026-08-03T23:06:01.531834Z",
+      "published_at": "2026-08-03T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models"
+    },
     "c73719dbe2cd6cc73ad251d8266376bf642aec131d6ed24d6e85e20ff7b1ab83": {
       "processed_at": "2026-06-18T07:18:35.071625Z",
       "published_at": "2026-06-17T00:15:00Z",
@@ -13089,6 +13139,16 @@
       "source_id": "arxiv-crypto",
       "title": "Inside Crypter-as-a-Service: An Ecosystem Analysis of the exploit.in Underground Forum Research Talks",
       "url": "https://arxiv.org/abs/2606.24226v1"
+    },
+    "ca67752e57064eb2cbc1b9a817f6f107beccf3b898731c9f1e98bb9dfd46be90": {
+      "processed_at": "2026-08-03T23:06:01.531768Z",
+      "published_at": "2026-08-03T13:15:24Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Your agent needs a computer, not a container — introducing @cloudflare/computer",
+      "url": "https://blog.cloudflare.com/cloudflare-computer"
     },
     "cad0d19f1202cbed6ebb553e75f0dc056236e94ec84ce317551ec7cfefa4f783": {
       "processed_at": "2026-07-01T23:20:20.299527Z",
