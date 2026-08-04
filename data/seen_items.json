@@ -1030,6 +1030,26 @@
       "title": "On the Internet, Nobody Knows You're an LLM Bot: Unmasking Web Agents with Multi-Layer Fingerprinting",
       "url": "https://arxiv.org/abs/2606.30119v1"
     },
+    "124379e3f7f20db029c2ad8f9670603e303b8fa267d3bb5ffbf53d839ed1bf4c": {
+      "processed_at": "2026-08-04T23:06:17.760091Z",
+      "published_at": "2026-08-04T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Run CI/CD for millions of repos — on your platform, on Cloudflare",
+      "url": "https://blog.cloudflare.com/ci-workflows"
+    },
+    "1249e293ab37d76ff72f37c237556ed284b6569ae34f7ec686eb6946b8aaddbe": {
+      "processed_at": "2026-08-04T23:06:17.760063Z",
+      "published_at": "2026-08-04T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "The Agent Development Lifecycle has arrived on Cloudflare",
+      "url": "https://blog.cloudflare.com/agent-development-lifecycle"
+    },
     "1258d31e8ad7725e52606f8177ebfed6ec98a67f5b2805f308303b50ae2fbab9": {
       "processed_at": "2026-07-02T23:12:42.116404Z",
       "published_at": "2026-06-30T10:53:09Z",
@@ -1449,6 +1469,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html"
+    },
+    "18c483865a1a740e278e4c02939285bcb166264c7915e5f8df7315987707da47": {
+      "processed_at": "2026-08-04T23:06:17.760159Z",
+      "published_at": "2026-07-29T15:08:58Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "BORG: Extendable Distributed Vector Commitments from Reconfigurable Erasure Codes",
+      "url": "https://eprint.iacr.org/2026/1552"
     },
     "190c84a1b0dc2aa5f107bb3edb4bc229125aaa1539542509981f82b74663a59c": {
       "processed_at": "2026-07-01T11:17:56.313056Z",
@@ -3200,6 +3230,16 @@
       "title": "To Play or Not to Play: Insights and Lessons Learned from 20 Years of CTFs with ENOFLAG",
       "url": "https://arxiv.org/abs/2607.13480v1"
     },
+    "30d182d9a0c95450008f58dda9e62325f6565a0e4cc0edb9b51791270300c36d": {
+      "processed_at": "2026-08-04T23:06:17.760149Z",
+      "published_at": "2026-08-04T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "How we built a software factory to drive Astro’s GitHub issue count to zero",
+      "url": "https://blog.cloudflare.com/astro-issue-triage"
+    },
     "30dd03e5ad5144d57f35370fc86bb3d68c2c7a6e1308998c98232961977ab10c": {
       "processed_at": "2026-07-29T10:33:04.732411Z",
       "published_at": "2026-07-29T00:04:00Z",
@@ -4370,6 +4410,16 @@
       "title": "What Was That Again? Certified Robustness for Automatic Speech Recognition",
       "url": "https://arxiv.org/abs/2606.27698v2"
     },
+    "424c69f51aff6dff6a47d838ed203b460256f29472d4a8d036b5047a54ab2ddb": {
+      "processed_at": "2026-08-04T23:06:17.759993Z",
+      "published_at": "2026-08-04T18:30:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops"
+    },
     "427ba0dc5bd3486cc1f093359b1c345553584d142fb69d38f1028ffdf37e3231": {
       "processed_at": "2026-07-23T23:00:38.603530Z",
       "published_at": "2026-07-21T02:02:25Z",
@@ -5110,6 +5160,16 @@
       "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
       "url": "https://blog.cloudflare.com/monetization-gateway"
     },
+    "4c4b2f53973a484ba1cedd6ac20a2a3a2d9b73f7a23771d857e0d7b5c3f1806a": {
+      "processed_at": "2026-08-04T23:06:17.760195Z",
+      "published_at": "2026-05-11T16:57:14Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Fair Multiparty Coin Tossing from Minimal Assumptions",
+      "url": "https://eprint.iacr.org/2026/931"
+    },
     "4c5be5de1626775f724c3edb9c6aed4e360ed4e36d9a02445c353f0db087eb43": {
       "processed_at": "2026-07-20T10:42:13.175635Z",
       "published_at": "2026-07-17T10:51:38Z",
@@ -5409,6 +5469,16 @@
       "source_id": "arxiv-crypto",
       "title": "An Automated Framework for Input Alphabet Construction in Stateful Protocol Implementation Learning",
       "url": "https://arxiv.org/abs/2606.23464v1"
+    },
+    "51472d734ccbbba42c0b54d3107f0254affb1c4c1aef2f9f4607e2aa188d14d7": {
+      "processed_at": "2026-08-04T23:06:17.760187Z",
+      "published_at": "2026-05-15T10:32:28Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Beyond Quadratic: Unlocking Pseudorandomness with Quartic Character",
+      "url": "https://eprint.iacr.org/2026/964"
     },
     "516eb287c25d5f253f5520b3961cfa5c6cbe012039fadfab2e8c28f8847d2bf8": {
       "processed_at": "2026-06-18T07:18:35.071646Z",
@@ -6380,6 +6450,16 @@
       "title": "BioSecBench-Refusal: A paired metric for performance and alignment in agentic biosecurity risk assessment",
       "url": "https://arxiv.org/abs/2607.05462v2"
     },
+    "601bdbdfae3fc3f033e6c418f522e4dec9654b06e2bf24827b86bb45efbb3b28": {
+      "processed_at": "2026-08-04T23:06:17.760078Z",
+      "published_at": "2026-08-04T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet",
+      "url": "https://blog.cloudflare.com/wallets"
+    },
     "60522b0b942c098d8bb69d0ad7ef30b39039e16e8604cf8cd6a273e3b69eed43": {
       "processed_at": "2026-07-27T23:06:52.232949Z",
       "published_at": "2026-07-25T00:41:51Z",
@@ -6589,6 +6669,26 @@
       "source_id": "arxiv-crypto",
       "title": "Towards Robust Personalized Federated Learning: Vulnerability Assessment and Defense Co-Design",
       "url": "https://arxiv.org/abs/2606.22782v1"
+    },
+    "6438cb50fad58e5174a6b82868d70cf3330e233614f70fee43eff920d309f5dd": {
+      "processed_at": "2026-08-04T23:06:17.760133Z",
+      "published_at": "2026-08-04T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Your agent can now debug Workers with local tracing",
+      "url": "https://blog.cloudflare.com/local-tracing"
+    },
+    "64466f62aa5407365f06d4d031b2029aa6bd9fd6eec5ab57499c467f4220fe32": {
+      "processed_at": "2026-08-04T23:06:17.760212Z",
+      "published_at": "2026-04-23T16:12:48Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Compact Verifiable Shuffles for ElGamal Ciphertexts",
+      "url": "https://eprint.iacr.org/2026/805"
     },
     "646d221464737d0afe3327052f258062e59556906bff46c36a4acc8fbcc16624": {
       "processed_at": "2026-07-15T09:51:51.028115Z",
@@ -9180,6 +9280,16 @@
       "title": "The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing",
       "url": "https://arxiv.org/abs/2606.23969v2"
     },
+    "8c2ea3b42ee757af2299fed6ae6a301b6050098127818af06b64592295136def": {
+      "processed_at": "2026-08-04T23:06:17.760045Z",
+      "published_at": "2026-08-04T17:54:04Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet"
+    },
     "8c599cd909437bb28e4d9f616d2e51e7a6c6935965bc562bdb211cb071531017": {
       "processed_at": "2026-07-03T10:27:28.895244Z",
       "published_at": "2026-07-01T22:31:10Z",
@@ -10039,6 +10149,16 @@
       "source_id": "arxiv-crypto",
       "title": "SA-DRL: Security-Aware Deep Reinforcement Learning for Ransomware Detection with Asymmetric Reward Design",
       "url": "https://arxiv.org/abs/2607.06880v1"
+    },
+    "9ab039b1211f859bf1b5d51ba1fbbea8e0587bf01585a0eaf8a4537b873b17dc": {
+      "processed_at": "2026-08-04T23:06:17.760204Z",
+      "published_at": "2026-05-09T16:06:37Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Cryptanalysis of the Subfield Bilinear Collision Problem",
+      "url": "https://eprint.iacr.org/2026/916"
     },
     "9abc84eb9f3088e64b7ab9f4c2a09045368d9cbc3a56aa16dedede12f6d14995": {
       "processed_at": "2026-06-23T10:55:48.540341Z",
@@ -12190,6 +12310,16 @@
       "title": "ε-Indistinguishability In Moving Target Defense: Framework, Algorithms, And Cloud Case Studies",
       "url": "https://arxiv.org/abs/2607.13440v1"
     },
+    "b8fd6e9d35147a85281dae3a8c6446ff78703c5066d7e998ce4e50b40b23282e": {
+      "processed_at": "2026-08-04T23:06:17.760177Z",
+      "published_at": "2026-05-18T12:18:14Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A New Insight into Constructing Cryptographic Boolean Functions via Walsh Spectral Analysis",
+      "url": "https://eprint.iacr.org/2026/985"
+    },
     "b9b78217b352a9a1406849dd91dbacb001d24a4d15e750afebf14bbcaf2748bb": {
       "processed_at": "2026-06-18T07:18:35.071770Z",
       "published_at": "2026-06-13T11:52:21Z",
@@ -12239,6 +12369,16 @@
       "source_id": "arxiv-crypto",
       "title": "Analyzing the Narration Gap in LLM-Solver Loops",
       "url": "https://arxiv.org/abs/2606.19588v1"
+    },
+    "ba439b1669a8aa6dd538991923f00300b9a9cdda6a6d0a420d3650c909721e92": {
+      "processed_at": "2026-08-04T23:06:17.760118Z",
+      "published_at": "2026-08-04T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing: Cloudflare Agents",
+      "url": "https://blog.cloudflare.com/agents-on-cloudflare"
     },
     "ba56e029dc68434681600dc3629457ef0265dac486cb9a52f53d7be2159d8f7b": {
       "processed_at": "2026-07-27T11:10:46.287764Z",
@@ -13999,6 +14139,16 @@
       "source_id": "arxiv-crypto",
       "title": "FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels",
       "url": "https://arxiv.org/abs/2607.15469v1"
+    },
+    "d3e28b38a7d9ab3f043a4b46c518392c8f5503152c2ffad4bdbf4c3610a5f79b": {
+      "processed_at": "2026-08-04T23:06:17.760168Z",
+      "published_at": "2026-07-25T07:13:34Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "NAIBI: Binding Reconciliation KEMs and Ephemeral Key Agreement over Non-Split Commutative Algebras",
+      "url": "https://eprint.iacr.org/2026/1525"
     },
     "d48b2a30b4bdeaca9b525c8a18a6446c741e3b6132260eee99770773a5cf627f": {
       "processed_at": "2026-06-26T10:44:46.362481Z",
@@ -15879,6 +16029,16 @@
       "source_id": "trail-of-bits-blog",
       "title": "Building secure Uniswap v4 hooks",
       "url": "https://blog.trailofbits.com/2026/07/30/building-secure-uniswap-v4-hooks"
+    },
+    "f22e6338df5aa219104f760e79c5f8bd87595bc423b3eab9622f7a9af3fd05fe": {
+      "processed_at": "2026-08-04T23:06:17.760105Z",
+      "published_at": "2026-08-04T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "How Cloudflare enforces engineering standards using AI",
+      "url": "https://blog.cloudflare.com/engineering-standards-enforcement"
     },
     "f2caedfb5f0cb61cfba31b939c9ecf7a679b1245abf282e1f6756f72fc158079": {
       "processed_at": "2026-07-02T23:12:42.116534Z",
