@@ -1870,6 +1870,16 @@
       "title": "ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents",
       "url": "https://arxiv.org/abs/2607.23999v1"
     },
+    "1e0f640d8f99a8be73d43b0303a3ae143ad5a228ee424f8d71e6d965198642fd": {
+      "processed_at": "2026-08-05T23:04:05.299461Z",
+      "published_at": "2026-08-05T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "WriteGuard: fine-grained controls for MCP Servers",
+      "url": "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta"
+    },
     "1e12a5f139a1dadb8ff6bc8902239bae9c1fca46fcd0a283c5142ccfab69dd46": {
       "processed_at": "2026-07-16T09:58:06.612233Z",
       "published_at": "2026-07-15T11:37:58Z",
@@ -3049,6 +3059,16 @@
       "source_id": "arxiv-crypto",
       "title": "Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents",
       "url": "https://arxiv.org/abs/2607.07405v1"
+    },
+    "2c9d60eb4092f678d07f86567705edad833d20ecb3985df99aaaaf832c369195": {
+      "processed_at": "2026-08-05T23:04:05.299437Z",
+      "published_at": "2026-08-05T15:48:39Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide"
     },
     "2cce86f9b9d2eb91e3524ea00ad86233ab4f69ba23a60142516f95248cebe542": {
       "processed_at": "2026-07-01T11:17:56.312833Z",
@@ -5259,6 +5279,16 @@
       "source_id": "arxiv-crypto",
       "title": "Formalization of security",
       "url": "https://arxiv.org/abs/2607.28551v1"
+    },
+    "4af7a1d929c2c1ad0a6866d55ad1074b179a3c786642296fad70368269f74a4f": {
+      "processed_at": "2026-08-05T23:04:05.299445Z",
+      "published_at": "2026-08-05T13:00:41Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "The Agent Access Model",
+      "url": "https://blog.cloudflare.com/the-agent-access-model"
     },
     "4b3c3367088a8ad3c603f78f58d24b76b9b628888af06a3e0571869e7714c471": {
       "processed_at": "2026-07-10T23:01:50.799817Z",
@@ -8290,6 +8320,16 @@
       "title": "Policy-Conditioned Constrained Decoding for Column-Level Access Control in Text-to-SQL",
       "url": "https://arxiv.org/abs/2607.12341v1"
     },
+    "78e4a51bdb5d6c1882eeeec97ac21d4e099a2574091c98f8dd4af75b79c9c976": {
+      "processed_at": "2026-08-05T23:04:05.299471Z",
+      "published_at": "2026-08-05T11:00:00Z",
+      "score": 22,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "trail-of-bits-blog",
+      "title": "A few notes on AWS Nitro Enclaves: KMS integration",
+      "url": "https://blog.trailofbits.com/2026/08/05/a-few-notes-on-aws-nitro-enclaves-kms-integration"
+    },
     "78ec06bee16876db8ebf79f52588e57b12390901e8e38d30c3d8c98aec0d855d": {
       "processed_at": "2026-07-15T09:51:51.028122Z",
       "published_at": "2026-07-07T07:20:32Z",
@@ -8649,6 +8689,16 @@
       "source_id": "iacr-eprint",
       "title": "Cryptocurrency-Backed Trustless Anonymous Tokens and Their Applications",
       "url": "https://eprint.iacr.org/2026/1074"
+    },
+    "7ce0826fa3fc2bbc96d02bf70b5e6399c9a520c7354527f8e69b0457f85aafb9": {
+      "processed_at": "2026-08-05T23:04:05.299466Z",
+      "published_at": "2026-08-05T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Catching rogue AI behavior with identity-aware analytics",
+      "url": "https://blog.cloudflare.com/identity-aware-ai-gateway"
     },
     "7d475a0aeb95e9bd4b2c487556280b335ceedf628be566637ddacb3121b413b9": {
       "processed_at": "2026-07-15T09:51:51.028082Z",
@@ -10229,6 +10279,16 @@
       "source_id": "arxiv-crypto",
       "title": "Space-based Missile Defense",
       "url": "https://arxiv.org/abs/2606.25756v1"
+    },
+    "975947f58d8e4c054fe59a19cad46ddc99983853c6544193cf8f901f564b534d": {
+      "processed_at": "2026-08-05T23:04:05.299455Z",
+      "published_at": "2026-08-05T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os"
     },
     "9762fc25670b4046b9c9d2bf49d7cb5c81ef745fcea1f08be69387ebd20b087b": {
       "processed_at": "2026-07-15T23:00:54.359757Z",
@@ -13310,6 +13370,16 @@
       "title": "IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests",
       "url": "https://arxiv.org/abs/2607.20759v1"
     },
+    "c234900d872acc23fa440f5364e0ae35b99bc3c531d74db1dd40057c2b68077f": {
+      "processed_at": "2026-08-05T23:04:05.299403Z",
+      "published_at": "2026-08-05T16:30:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp"
+    },
     "c238ca59637789b1c3e20cbfcf5e052641d9ca471c725f3fd3b09d4c3084e7c3": {
       "processed_at": "2026-07-01T11:17:56.313148Z",
       "published_at": "2026-06-16T10:06:34Z",
@@ -14589,6 +14659,16 @@
       "source_id": "iacr-eprint",
       "title": "NAIBI: Binding Reconciliation KEMs and Ephemeral Key Agreement over Non-Split Commutative Algebras",
       "url": "https://eprint.iacr.org/2026/1525"
+    },
+    "d4189d8f035be945e2ef44acbc91ef741e3348280775db121933b0c9cca48949": {
+      "processed_at": "2026-08-05T23:04:05.299451Z",
+      "published_at": "2026-08-05T13:00:01Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
+      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os"
     },
     "d48b2a30b4bdeaca9b525c8a18a6446c741e3b6132260eee99770773a5cf627f": {
       "processed_at": "2026-06-26T10:44:46.362481Z",
