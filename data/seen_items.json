@@ -1720,6 +1720,16 @@
       "title": "Bounds and Limitations on Codes Achieving List Recovery Capacity",
       "url": "https://arxiv.org/abs/2607.19576v1"
     },
+    "1aa413812e2596bb465bc7736afaffc409a5fffe05c79dfc832e86ceb2b42526": {
+      "processed_at": "2026-08-07T08:46:27.411315Z",
+      "published_at": "2026-08-06T17:28:50Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "A Sound Translation from Tamarin to ProVerif: Enabling Comparative Analysis",
+      "url": "https://arxiv.org/abs/2608.06315v1"
+    },
     "1ae2e6a1c849541e88f63c728b8dd0b42c60f825aa32bee9b2aebbfbaeef26d4": {
       "processed_at": "2026-08-05T10:25:49.843270Z",
       "published_at": "2026-08-04T23:46:41Z",
@@ -5949,6 +5959,16 @@
       "source_id": "arxiv-crypto",
       "title": "Measuring Post-Quantum TLS Deployment Across UK Internet Sectors",
       "url": "https://arxiv.org/abs/2608.02147v1"
+    },
+    "50e5f8e7a646eb7bcb9cb5c21a1bd91945951bd44ec4337b566493ec00a3c37f": {
+      "processed_at": "2026-08-07T08:46:27.411359Z",
+      "published_at": "2026-08-06T08:19:17Z",
+      "score": 25,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "AES-Based Grinding for MPC-in-the-Head Signatures",
+      "url": "https://eprint.iacr.org/2026/1625"
     },
     "50f13e0dfd68cf9eb5e26041057ea5b33d6e6c1d2463e0248dd23b62cdf39d5f": {
       "processed_at": "2026-06-30T10:49:24.831198Z",
