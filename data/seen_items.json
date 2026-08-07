@@ -2670,6 +2670,16 @@
       "title": "When T2I Synthetic Data Backfires: Amplified Privacy Risks in Real-Synthetic Mix Training",
       "url": "https://arxiv.org/abs/2607.13541v1"
     },
+    "264a0c5c97a39b8b4021d832f0628001c61522bf0d34d0432a3d7e859c77b7d2": {
+      "processed_at": "2026-08-07T22:40:31.417039Z",
+      "published_at": "2026-08-07T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+      "url": "https://blog.cloudflare.com/workers-ai-gateway-unification"
+    },
     "269dbc2cc4307635aa02176ed1415cf73c88ada91a01e24d8f22be50187ba14c": {
       "processed_at": "2026-08-03T11:13:23.459664Z",
       "published_at": "2026-07-31T16:35:13Z",
@@ -13200,6 +13210,16 @@
       "title": "Web Cache Overflow: Exploiting Imprecise Keys for Cache Degradation and Beyond",
       "url": "https://arxiv.org/abs/2608.04744v1"
     },
+    "b482b03dfb866f9a30cd46fb8b106c877f0a98c3c99161e4268a1c8212c5908c": {
+      "processed_at": "2026-08-07T22:40:31.417023Z",
+      "published_at": "2026-08-07T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+      "url": "https://blog.cloudflare.com/community-program-refresh"
+    },
     "b48bbab324c7e949311990cc8960cbd0d5913ea264c0481b5ee99e2735f9405a": {
       "processed_at": "2026-07-13T10:50:50.528792Z",
       "published_at": "2026-07-08T13:05:19Z",
@@ -14469,6 +14489,16 @@
       "source_id": "arxiv-crypto",
       "title": "State-independent uncertainty relations on multipartite spin $1/2$-systems",
       "url": "https://arxiv.org/abs/2607.14376v1"
+    },
+    "c4e9999fc5447ff7374d60dfa570e0095efe476be67d40cc33447ec0fa4e3000": {
+      "processed_at": "2026-08-07T22:40:31.416958Z",
+      "published_at": "2026-08-07T13:01:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Unveiling good and bad behaviors on the Agentic Internet",
+      "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors"
     },
     "c504e5236f87a75ff5067317e5aa0d20be39e0307ccb067dd0470d7079fcb761": {
       "processed_at": "2026-07-09T10:51:22.421284Z",
@@ -16729,6 +16759,16 @@
       "source_id": "iacr-eprint",
       "title": "Post-Quantum Security of Tweakable Key-Alternating Feistel Ciphers in the Multi-Key Setting",
       "url": "https://eprint.iacr.org/2026/1312"
+    },
+    "e4cd8f130f3b62130648947fd18ae412948489712ced72455321ac8baab83676": {
+      "processed_at": "2026-08-07T22:40:31.417002Z",
+      "published_at": "2026-08-07T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+      "url": "https://blog.cloudflare.com/introducing-radar-researcher"
     },
     "e4d4f37bede5338cf2a420e7ac84dc649b3cb7a304812ae96f8a1f3184d7eca9": {
       "processed_at": "2026-07-31T10:29:20.196427Z",
