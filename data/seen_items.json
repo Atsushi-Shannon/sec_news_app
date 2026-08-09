@@ -3360,6 +3360,16 @@
       "title": "AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming",
       "url": "https://arxiv.org/abs/2606.24245v2"
     },
+    "2dcfd0527a146e55d6cc9a95637800bf90e3aabe4f7ed7b098d504356b80bdb6": {
+      "processed_at": "2026-08-09T08:30:45.454938Z",
+      "published_at": "2026-08-06T13:01:05Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Adaptive-Input-Secure Updatable Private Set Union",
+      "url": "https://eprint.iacr.org/2026/1626"
+    },
     "2ddbaa5ce1dcf96eaa51f8681ff6db06f45552de85f0a09727de4787ecc853ff": {
       "processed_at": "2026-07-16T23:01:15.229763Z",
       "published_at": "2026-07-15T11:27:30Z",
@@ -3949,6 +3959,16 @@
       "source_id": "arxiv-crypto",
       "title": "Structured lattices and their applications to security",
       "url": "https://arxiv.org/abs/2606.18920v1"
+    },
+    "362c3c60c3e6ed4a640c849b566b7cdd31c9c533fba06347d469abfceadd0a1a": {
+      "processed_at": "2026-08-09T08:30:45.454865Z",
+      "published_at": "2026-08-06T17:30:02Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "When Does Being Selfish Pay Off? Temporal Composability and Profitability in Selfish Mining",
+      "url": "https://eprint.iacr.org/2026/1629"
     },
     "3650c2097fd8ee297dbd8997a2b8543242a237bbec859ba8385f77cebc256a86": {
       "processed_at": "2026-07-01T23:20:20.299542Z",
@@ -5199,6 +5219,16 @@
       "source_id": "arxiv-crypto",
       "title": "HilEnT: Hilbert, Entropy Transformed Image Based Malware Detection",
       "url": "https://arxiv.org/abs/2607.04772v1"
+    },
+    "45e9b5432caa00f00b02dcf753a555f74c5fecb7bc7c28262665438a1a14a11d": {
+      "processed_at": "2026-08-09T08:30:45.454927Z",
+      "published_at": "2026-08-06T13:23:41Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Adaptively Secure Threshold Decryption from LWE with Polynomial Modulus",
+      "url": "https://eprint.iacr.org/2026/1627"
     },
     "4608cafe24b87431e458ceecd2565610f62964edfedd90e568b01c76f87b198f": {
       "processed_at": "2026-06-25T10:35:22.791601Z",
@@ -11769,6 +11799,16 @@
       "source_id": "arxiv-crypto",
       "title": "Insecure Coding Preferences in Long-Term Memory: Security Risks for LLM-based Code Generation",
       "url": "https://arxiv.org/abs/2607.17619v1"
+    },
+    "a17d6b3483bdeafae3acdde34541490bc9806723f0062471a362f642ebf4b3d3": {
+      "processed_at": "2026-08-09T08:30:45.454911Z",
+      "published_at": "2026-08-06T15:10:14Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Lattice-based Signature Schemes for Bitcoin",
+      "url": "https://eprint.iacr.org/2026/1628"
     },
     "a19c684206d095353a9430658ddf382261aacc3fbd3c042577631e20d0ff8015": {
       "processed_at": "2026-07-15T09:51:51.028095Z",
