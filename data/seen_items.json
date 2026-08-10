@@ -790,6 +790,16 @@
       "title": "Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection",
       "url": "https://arxiv.org/abs/2606.30587v1"
     },
+    "0b4fbaac5c4e2c0f80a972a032f05ce158d7622af28adda4a1a4d48c6d67bf7a": {
+      "processed_at": "2026-08-10T22:41:28.659071Z",
+      "published_at": "2026-08-10T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
+      "url": "https://blog.cloudflare.com/fedramp-class-d-certification"
+    },
     "0b5023443c3e8f0209a7f2ed56bd68043d8db14eb5d74b09b9ebb3b8a737a1c9": {
       "processed_at": "2026-08-03T11:13:23.459534Z",
       "published_at": "2026-08-03T06:00:00Z",
@@ -889,6 +899,16 @@
       "source_id": "iacr-eprint",
       "title": "FiltrumVote: Scalable, Verifiable, and Coercion-Resistant Internet Voting",
       "url": "https://eprint.iacr.org/2026/1435"
+    },
+    "0e00e23a5a0db7588025abca23837c1afc87bf154ede5b433c1812d47c305983": {
+      "processed_at": "2026-08-10T22:41:28.659060Z",
+      "published_at": "2026-08-10T15:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure"
     },
     "0e0e3b3203872db7c8eb3fb8d5757e35c32bb95894f29fcc6e0058b01a17af04": {
       "processed_at": "2026-07-15T09:51:51.028040Z",
@@ -15300,6 +15320,16 @@
       "title": "Test-time reasoning effort and unauthorized tool use in language-model agents: a prespecified equivalence study",
       "url": "https://arxiv.org/abs/2608.03169v1"
     },
+    "cb0b91351d5acf847a9a48f83385b3395a282c83193d0006643b3fd5db5b0563": {
+      "processed_at": "2026-08-10T22:41:28.659028Z",
+      "published_at": "2026-08-10T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise"
+    },
     "cb0e424543569b0a06e42d76109c70d218f98182174462e5d7624e6683fe02cf": {
       "processed_at": "2026-07-29T10:33:04.732818Z",
       "published_at": "2026-07-10T15:46:20Z",
@@ -16729,6 +16759,16 @@
       "source_id": "arxiv-crypto",
       "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
       "url": "https://arxiv.org/abs/2607.27081v1"
+    },
+    "df5a05e77e76c1b4e4a0db4610a91c901a0db2018be722ab0231cdb25701011d": {
+      "processed_at": "2026-08-10T22:41:28.658992Z",
+      "published_at": "2026-08-10T18:34:10Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Everything we launched during Agents Week",
+      "url": "https://blog.cloudflare.com/agents-week-review-august-2026"
     },
     "df6045edbfe383e655d5a124582d7a2e42c2f03319a0573fa53863365188ee57": {
       "processed_at": "2026-07-21T23:01:18.866212Z",
