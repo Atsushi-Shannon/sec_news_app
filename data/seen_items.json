@@ -840,6 +840,16 @@
       "title": "Power Analysis and Countermeasures on the MiMC Block Cipher",
       "url": "https://eprint.iacr.org/2026/1562"
     },
+    "0c01eba2b4dada513e53dc2325568101a23b5742c201b9d7a209186ba542e1f8": {
+      "processed_at": "2026-08-11T22:48:54.509657Z",
+      "published_at": "2026-08-03T20:17:09Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Polynomial-Time Quantum Algorithm for the Dihedral Coset Problem",
+      "url": "https://eprint.iacr.org/2026/1591"
+    },
     "0c286bcd0138164aaab3701fefa09ec3153c4177043abf2ebbd7d2a8d627f11d": {
       "processed_at": "2026-06-29T12:24:06.392888Z",
       "published_at": "2026-06-26T08:00:44Z",
@@ -3749,6 +3759,16 @@
       "source_id": "cloudflare-blog",
       "title": "How we built a software factory to drive Astro’s GitHub issue count to zero",
       "url": "https://blog.cloudflare.com/astro-issue-triage"
+    },
+    "30d6b720b04c6391599ead91285857d23c413ec7a21d377dd53c4f8b7468cf3c": {
+      "processed_at": "2026-08-11T22:48:54.509646Z",
+      "published_at": "2026-08-11T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1"
     },
     "30dd03e5ad5144d57f35370fc86bb3d68c2c7a6e1308998c98232961977ab10c": {
       "processed_at": "2026-07-29T10:33:04.732411Z",
@@ -19249,6 +19269,16 @@
       "source_id": "arxiv-crypto",
       "title": "Statistically Undetectable Backdoors in Deep Neural Networks",
       "url": "https://arxiv.org/abs/2607.09532v1"
+    },
+    "fdd01fa2179dc067644de28b50fdefc98e7267395737cd9db5b494749a9085ac": {
+      "processed_at": "2026-08-11T22:48:54.509602Z",
+      "published_at": "2026-08-11T17:30:00Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "trail-of-bits-blog",
+      "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats"
     },
     "fdfd3776303ca72c175466d53c5cec4db5af3e6903799c08b24dad16459a40d6": {
       "processed_at": "2026-07-30T10:13:19.348200Z",
