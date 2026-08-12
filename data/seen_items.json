@@ -1310,6 +1310,16 @@
       "title": "Weekly Report: PostgreSQL JDBC Driverに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html"
     },
+    "12f3c6a9eff18a93f61a89b8dc097ca549c03c081fd07b4fdd27c3426f876013": {
+      "processed_at": "2026-08-12T09:02:05.593461Z",
+      "published_at": "2026-06-10T17:27:29Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "SING: Improving the Efficiency of MPC Protocol Assignment using Graph Neural Networks",
+      "url": "https://eprint.iacr.org/2026/1237"
+    },
     "1371b91ff6fb8f82823d498fec4cf3714838d82cb4a279a61e256c90fc7a8632": {
       "processed_at": "2026-07-01T23:20:20.299586Z",
       "published_at": "2026-04-09T17:07:00Z",
@@ -1539,6 +1549,16 @@
       "source_id": "iacr-eprint",
       "title": "Private Identity-based Bulletin Boards for Anonymous Messaging and Other Online Services",
       "url": "https://eprint.iacr.org/2026/1611"
+    },
+    "173b22cf2537de00af5635f23636d6ebbae2bdf08c993d96f761f8227a23b6e3": {
+      "processed_at": "2026-08-12T09:02:05.593521Z",
+      "published_at": "2026-04-06T21:48:07Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Batch Threshold Encryption Using Partial Fraction Techniques",
+      "url": "https://eprint.iacr.org/2026/674"
     },
     "177200ab42bd7743effcc78660f725d3c22fe317e90311ffbc5f23072360c3a8": {
       "processed_at": "2026-07-27T23:06:52.232936Z",
@@ -7960,6 +7980,16 @@
       "title": "Cloudflare DMARC Management is now generally available",
       "url": "https://blog.cloudflare.com/dmarc-management-ga"
     },
+    "68a23c8581465a66a4485df33179dd26c940e563e203e8e62b57736067526e21": {
+      "processed_at": "2026-08-12T09:02:05.593452Z",
+      "published_at": "2026-07-29T22:15:22Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Breaking the Beyond-Birthday-Bound Security of $\\sharp\\textsf{Pencil}$",
+      "url": "https://eprint.iacr.org/2026/1556"
+    },
     "68d0913d8ddd0ae1236fe0b0767350e2fb9d9740f39b4e9ff8acfe348db2f06e": {
       "processed_at": "2026-07-03T10:27:28.895196Z",
       "published_at": "2026-07-02T05:06:57Z",
@@ -8519,6 +8549,16 @@
       "source_id": "iacr-eprint",
       "title": "The Consensus Number of Untraceable Cryptocurrencies",
       "url": "https://eprint.iacr.org/2026/1503"
+    },
+    "6fafbb908bbc105fb9d845dd6c15acae0d2b44f125d28158c4ea1711214f89c4": {
+      "processed_at": "2026-08-12T09:02:05.593470Z",
+      "published_at": "2026-05-22T11:48:23Z",
+      "score": 17,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Compact Quaternion Algorithms for SQIsign",
+      "url": "https://eprint.iacr.org/2026/1031"
     },
     "6fc4d5f423448fdd29e0fcbcc9a0fb7c055d345203b2f9bf09900bc3cf67d7fc": {
       "processed_at": "2026-07-24T23:04:45.546357Z",
@@ -10319,6 +10359,16 @@
       "source_id": "arxiv-crypto",
       "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
       "url": "https://arxiv.org/abs/2607.19321v2"
+    },
+    "87932e7de4bbfb0bad0a9934424d34149b6246f8c4a69c3265c69471e1467ab3": {
+      "processed_at": "2026-08-12T09:02:05.593509Z",
+      "published_at": "2026-04-07T09:06:55Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Compressed Key Exchange Protocol from Orientations of Large Discriminant Using AVX-512",
+      "url": "https://eprint.iacr.org/2026/679"
     },
     "87a59475a5c72808d01c46adaf51e327ada65c7b2763ca44a9a138ff90da40a6": {
       "processed_at": "2026-07-28T23:03:48.988392Z",
@@ -12720,6 +12770,16 @@
       "title": "ChainMark: Model-Free LLM Watermarking with Closed-Form Calibration",
       "url": "https://arxiv.org/abs/2607.18445v1"
     },
+    "a7655c9c89eaef0ce0e330cb1eda5e122ef389405a2552a3358ba9762aa015dd": {
+      "processed_at": "2026-08-12T09:02:05.593439Z",
+      "published_at": "2026-08-07T08:31:34Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Counters and Nonces for Mitigating Ciphertext Side Channels",
+      "url": "https://eprint.iacr.org/2026/1632"
+    },
     "a783c746255b17b32bfb81037a0ff02603ddfb67bda2b47799fdb1864da941d9": {
       "processed_at": "2026-07-12T22:55:00.808778Z",
       "published_at": "2026-07-08T21:19:13Z",
@@ -13509,6 +13569,16 @@
       "source_id": "arxiv-crypto",
       "title": "Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities",
       "url": "https://arxiv.org/abs/2607.12723v1"
+    },
+    "b0e1dd525678405424242f32a28eea73b3d291542b0318c303906756e9c70dc8": {
+      "processed_at": "2026-08-12T09:02:05.593398Z",
+      "published_at": "2026-08-12T02:26:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "注意喚起: 2026年8月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260022.html"
     },
     "b0fc75d8f9e6da5bc100e95592021bdfcb93406989a16a8a851aa5fad4c80d98": {
       "processed_at": "2026-07-08T10:08:21.464758Z",
@@ -16500,6 +16570,16 @@
       "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
       "url": "https://arxiv.org/abs/2606.27736v1"
     },
+    "d865b0879a6748f10513fde0ca302ce5e50a12f6a2b8b420d02ebeb764f241a1": {
+      "processed_at": "2026-08-12T09:02:05.593477Z",
+      "published_at": "2026-04-17T18:09:49Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Improved Garbled RAM via Garbled Merge",
+      "url": "https://eprint.iacr.org/2026/761"
+    },
     "d8b99a2d0f0cf6b227fba4a4619c8bd06e2892b831ad35466599252e4cf4745f": {
       "processed_at": "2026-06-18T07:18:35.071555Z",
       "published_at": "2026-06-17T00:15:00Z",
@@ -17159,6 +17239,16 @@
       "source_id": "iacr-eprint",
       "title": "Validity in Responsive Byzantine Agreement",
       "url": "https://eprint.iacr.org/2026/1183"
+    },
+    "dfa8d7136b29e1abfcbe368f8bf7f91c5a0b094c8ae74660cbbedee3b540b9e2": {
+      "processed_at": "2026-08-12T09:02:05.593530Z",
+      "published_at": "2026-04-04T09:11:51Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Improved Codes and Decoders for HQC",
+      "url": "https://eprint.iacr.org/2026/656"
     },
     "dfcc06f013d9ba555016a166838c649c12516795a108a0379dc7af3d0fbed5e9": {
       "processed_at": "2026-06-25T10:35:22.791404Z",
