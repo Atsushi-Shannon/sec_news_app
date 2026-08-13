@@ -7400,6 +7400,16 @@
       "title": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative"
     },
+    "5bb8ac257306ade4d55212e0f880ebc37b1054af1a6b8dc3d651172d7734492d": {
+      "processed_at": "2026-08-13T22:47:48.541751Z",
+      "published_at": "2026-08-13T19:58:01Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
+      "url": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal"
+    },
     "5c12cf6964d2d9a68f384d0baf259526271d697d12fb9320b7f6badf3fa32966": {
       "processed_at": "2026-06-19T11:59:38.030242Z",
       "published_at": "2026-06-17T14:56:04Z",
@@ -10159,6 +10169,16 @@
       "source_id": "trail-of-bits-blog",
       "title": "gosentry brings LibAFL-grade fuzzing to Go's native interface",
       "url": "https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it."
+    },
+    "7f571d5f442c7cbd36da107d94f15811aad3dc6a04609f41cf01228e58029e70": {
+      "processed_at": "2026-08-13T22:47:48.541793Z",
+      "published_at": "2026-08-13T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Certificate Transparency Monitoring is now generally available",
+      "url": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga"
     },
     "7f7c237b5c57a359826b10519bcc26ed33c0dd9fddac1a5ed21ecc751e390fbd": {
       "processed_at": "2026-07-01T23:20:20.299631Z",
