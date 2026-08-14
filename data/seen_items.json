@@ -2670,6 +2670,16 @@
       "title": "Maestro Order: A Model-Agnostic Orchestration Harness",
       "url": "https://arxiv.org/abs/2606.23983v1"
     },
+    "22984dd96ebc29c2fe7964f782a9edaaa5e1b2e91c979e94680fb750b721dfad": {
+      "processed_at": "2026-08-14T22:27:38.101456Z",
+      "published_at": "2026-08-14T13:12:12Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How Cloudflare detects MCP traffic and helps secure it",
+      "url": "https://blog.cloudflare.com/mcp-security-updates"
+    },
     "22a6e37f68cd1b89c95a8e7f2313d1ebf91b650896d8994a1a00fd6aa7fa275a": {
       "processed_at": "2026-06-23T10:55:48.540335Z",
       "published_at": "2026-06-22T07:45:34Z",
@@ -18639,6 +18649,16 @@
       "source_id": "arxiv-crypto",
       "title": "zkComposer: Decomposing Proof Construction to Scale zkML",
       "url": "https://arxiv.org/abs/2607.08095v1"
+    },
+    "e42b9da5ff163d9c6c7a92cf924bb10b82ca8c9d77d4e5c0e1bce89f78f44345": {
+      "processed_at": "2026-08-14T22:27:38.101497Z",
+      "published_at": "2026-08-14T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Secure all your internal vibe-coded applications — in one click",
+      "url": "https://blog.cloudflare.com/workers-protected-by-access"
     },
     "e4b64da4e5fce261a7914f6bf79f0c4fe29877b36746b6446d3a05d0f6bd3d78": {
       "processed_at": "2026-07-08T10:08:21.464781Z",
