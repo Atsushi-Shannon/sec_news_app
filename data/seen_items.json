@@ -930,6 +930,16 @@
       "title": "Exploring and Exploiting Synchrony Limitations of Time-Triggered Network-Agnostic Guardians",
       "url": "https://arxiv.org/abs/2606.27819v1"
     },
+    "0c44ee3b8cc148c207246bcd84eddfa27b8a2b57440918f8e64356c5a1c3ef4d": {
+      "processed_at": "2026-08-15T08:15:59.578308Z",
+      "published_at": "2026-08-15T05:31:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおけるリモートコード実行につながる脆弱性（CVE-2026-8452）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260024.html"
+    },
     "0c8980b42bf525f20f1fb15f3b52b33e9f866c6ed19069a2e0f80dea889f02ed": {
       "processed_at": "2026-07-27T11:10:46.287870Z",
       "published_at": "2026-07-23T22:06:12Z",
