@@ -3920,6 +3920,16 @@
       "title": "SFGA: A Statistics-First Gating Architecture with Adjudicative Escalation for Trustworthy SFT Data Procurement",
       "url": "https://arxiv.org/abs/2607.18960v1"
     },
+    "2e64493333ed55b5ae872e0d802073134b9da20cbaaf0700175f487bb3ce6269": {
+      "processed_at": "2026-08-16T08:17:09.740339Z",
+      "published_at": "2026-08-15T09:01:22Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "On the Impossibility of Robust Combiners for Cryptographic Groups",
+      "url": "https://eprint.iacr.org/2026/1695"
+    },
     "2eb72cbaa1747c28c8ad0351018803c5fc28d78b162b99c59c7e29cdf33133b7": {
       "processed_at": "2026-08-07T01:31:07.256728Z",
       "published_at": "2026-08-06T13:00:00Z",
@@ -4439,6 +4449,16 @@
       "source_id": "trail-of-bits-blog",
       "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
       "url": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials"
+    },
+    "3567b958939f9f762c7c6d068905f427d52ab85bcde4710897dcdca88430a80b": {
+      "processed_at": "2026-08-16T08:17:09.740351Z",
+      "published_at": "2026-08-15T08:16:13Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Relations Between the Uniform MQ Assumption and Other Multivariate Assumptions",
+      "url": "https://eprint.iacr.org/2026/1694"
     },
     "3571a6d8b0cf4751208905416be15249360be19b02d61fca804ef5ca35ac5af3": {
       "processed_at": "2026-07-21T10:16:29.237335Z",
@@ -5550,6 +5570,16 @@
       "title": "How we made Trail of Bits AI-native (so far)",
       "url": "https://blog.trailofbits.com/2026/03/31/how-we-made-trail-of-bits-ai-native-so-far"
     },
+    "41f39c810e00860ca6b3314a0c37714ac5c18ec2431b2d9c1bf161122d9a4d8e": {
+      "processed_at": "2026-08-16T08:17:09.740276Z",
+      "published_at": "2026-08-15T21:47:52Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Qlapoty: Improved analysis and eﬃciency for quaternionic ideal to isogeny transformation",
+      "url": "https://eprint.iacr.org/2026/1700"
+    },
     "41fd050c19066816cf16dfc4bab6810aa615190359969af0a55e6125d8c6ec8e": {
       "processed_at": "2026-06-29T12:24:06.392879Z",
       "published_at": "2026-06-26T10:10:27Z",
@@ -5719,6 +5749,16 @@
       "source_id": "trail-of-bits-blog",
       "title": "The sorry state of skill distribution",
       "url": "https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution"
+    },
+    "436f5e41017553ccac83b3d4ecfda62efd5b659724eb2840862164548abe26d3": {
+      "processed_at": "2026-08-16T08:17:09.740234Z",
+      "published_at": "2026-08-16T01:52:58Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "DTRU: A Versatile, Compact, Simple, and Robust NTRU KEM with Double $E_8$ Encoding",
+      "url": "https://eprint.iacr.org/2026/1701"
     },
     "438d265bd95a6fe9e8692206a73efa0c130391421576d0588dcfcf38eaa84122": {
       "processed_at": "2026-07-14T09:47:39.424661Z",
@@ -8910,6 +8950,16 @@
       "title": "Sharper and Closed-Form Attacks on $\\mathsf{SIS}$ When Modulus Is Small",
       "url": "https://eprint.iacr.org/2026/1349"
     },
+    "6ce432e2d1ebf550bc30ec47432ec90dc2127f049ce5d9b6e1aeb6aa4ec10ece": {
+      "processed_at": "2026-08-16T08:17:09.740290Z",
+      "published_at": "2026-08-15T21:32:21Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "DumboMix: Robust Asynchronous Anonymous Broadcast Made Practical",
+      "url": "https://eprint.iacr.org/2026/1699"
+    },
     "6cf6f1df32437887d50f4406cbf52c1382ec4dd21d51cb403018e8e7d884515c": {
       "processed_at": "2026-08-03T11:13:23.459916Z",
       "published_at": "2026-07-31T04:03:03Z",
@@ -10160,6 +10210,16 @@
       "title": "Weekly Report: Rancherに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html"
     },
+    "7bd086f3c2ef8a2209a13070cf811997f07a408e37871edecf43b3d3ca988203": {
+      "processed_at": "2026-08-16T08:17:09.740304Z",
+      "published_at": "2026-08-15T15:55:58Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "MamaBearZKP: A Holistic Co-design of Prime Fields and Proving Stacks for High-Throughput ZKP on Modern CPUs",
+      "url": "https://eprint.iacr.org/2026/1698"
+    },
     "7bdbfcf6f76dc69ae4f0f9dd9a9810608bb6085c813ac86ad47a2d0a7749b119": {
       "processed_at": "2026-08-03T11:13:23.459938Z",
       "published_at": "2026-07-31T01:01:57Z",
@@ -10239,6 +10299,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: PleskのPlesk XML APIにローカル権限昇格の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html"
+    },
+    "7cd2ce8f74c982f1f33b7c7a18ce899f2a8e9a458e64efe33e593528bdc1ea86": {
+      "processed_at": "2026-08-16T08:17:09.740315Z",
+      "published_at": "2026-08-15T15:23:12Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Actively Secure Two-Party Function Secret Sharing with Dynamic Cross-Phase Verification",
+      "url": "https://eprint.iacr.org/2026/1697"
     },
     "7ce057cb06bfaa124970659a2672199b05fcdc4157f5c28b39c7a50d55f43636": {
       "processed_at": "2026-07-24T10:08:22.873044Z",
@@ -15590,6 +15660,16 @@
       "title": "GNSS Spoofing Detection in TDD Networks: A 3GPP Standards-Based Security Framework",
       "url": "https://arxiv.org/abs/2607.11398v1"
     },
+    "bcf4ccb25eb108b5025008c3c5259af07f2572bd6ceb60ed1257b50278a2ebc8": {
+      "processed_at": "2026-08-16T08:17:09.740362Z",
+      "published_at": "2026-08-10T11:53:37Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Information-Theoretic SFE and PFE with Reduced Communication",
+      "url": "https://eprint.iacr.org/2026/1647"
+    },
     "bd2d204b5e206aadbffbc0e1fdc86e92fbc02e576c8f938ce293291c956227cb": {
       "processed_at": "2026-08-11T08:44:07.675206Z",
       "published_at": "2026-08-10T14:22:46Z",
@@ -19669,6 +19749,16 @@
       "source_id": "arxiv-crypto",
       "title": "POKEx: Performance analysis of POKE-key exchange and SIDH-variants",
       "url": "https://arxiv.org/abs/2608.06826v1"
+    },
+    "ef4770deca2f2e6bc770345f1da256d9a51e09303f20a7a194f7dcfb51e46105": {
+      "processed_at": "2026-08-16T08:17:09.740327Z",
+      "published_at": "2026-08-15T11:28:52Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Toward Secure Compilation: Leakage Detection for Masked Implementations in Jasmin",
+      "url": "https://eprint.iacr.org/2026/1696"
     },
     "ef5872370b33954d9946dd4e9a24797262b39cdfa2bc7771f55047cbd6576498": {
       "processed_at": "2026-07-12T22:55:00.808787Z",
