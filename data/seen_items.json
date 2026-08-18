@@ -170,6 +170,16 @@
       "title": "Vulnerability Detection in AArch64 Machine Code Using a Digital Twin",
       "url": "https://arxiv.org/abs/2608.02125v1"
     },
+    "02606c6d80450a09b11df7dad60eed58856b4297f1c6e6665d6863ff67bb686a": {
+      "processed_at": "2026-08-18T08:24:32.370465Z",
+      "published_at": "2026-08-17T11:38:33Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Experimental Validation and Mitigation of RRC Storm Attacks in 5G Cellular Networks",
+      "url": "https://arxiv.org/abs/2608.16441v1"
+    },
     "028db2e5fcb770e23410d8d48614378f3c77b23c6450a6cd126a4036b6ebb9ce": {
       "processed_at": "2026-08-06T10:28:52.639314Z",
       "published_at": "2026-08-04T15:37:02Z",
@@ -519,6 +529,16 @@
       "source_id": "arxiv-crypto",
       "title": "Casting the Net! Revisiting MasterFace Impersonation Attacks",
       "url": "https://arxiv.org/abs/2608.06952v1"
+    },
+    "0696ff91f7378d1fa72989a9ca357e4ba02d46b16eb6f39c4fdece40e31b31fa": {
+      "processed_at": "2026-08-18T08:24:32.370519Z",
+      "published_at": "2026-08-17T07:10:56Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Decorrelation Is Not Complementarity: Skill, Not Lineage, Governs Trusted-Monitor Ensembles",
+      "url": "https://arxiv.org/abs/2608.16190v1"
     },
     "069960d5f5ff7e7e34f8a89eeb7e891806fe5d4d4ec2240386ec654ea2391c0f": {
       "processed_at": "2026-07-04T10:00:18.699226Z",
@@ -889,6 +909,16 @@
       "source_id": "jpcert-cc",
       "title": "注意喚起: Ruby on RailsのActive Storageにおけるリモートコード実行につながる脆弱性（CVE-2026-66066）に関する注意喚起 (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260021.html"
+    },
+    "0b6c8c94f169479fd75cc4e70434ca8c6823b29217759823b493c15cf04fc781": {
+      "processed_at": "2026-08-18T08:24:32.370569Z",
+      "published_at": "2026-08-16T18:38:00Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+      "url": "https://arxiv.org/abs/2608.15888v1"
     },
     "0b82563caffe22f68fc4a2c976409051be5be97a9902d1675eadbc129054d6fe": {
       "processed_at": "2026-08-04T10:27:36.351356Z",
@@ -2090,6 +2120,16 @@
       "title": "Chi-MERA: Defending Orbit-Based Authentication of LEO Satellites with the Space Oddity of MLAT (Long Version)",
       "url": "https://arxiv.org/abs/2607.19047v2"
     },
+    "1b35090e759bb37a76078cebb2ea08e251baa2e48e57fd906da2922b49a0e472": {
+      "processed_at": "2026-08-18T08:24:32.370637Z",
+      "published_at": "2026-08-13T13:30:11Z",
+      "score": 4,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Homomorphic Aggregation of Continuous-Variable GKP States",
+      "url": "https://arxiv.org/abs/2608.13227v2"
+    },
     "1b6424357d40ba7a39ca32bd5ff05289e039b232e1b780f3f020b9b4626062bf": {
       "processed_at": "2026-06-25T10:35:22.791580Z",
       "published_at": "2026-06-24T08:37:38Z",
@@ -3010,6 +3050,16 @@
       "title": "Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric",
       "url": "https://arxiv.org/abs/2607.23532v2"
     },
+    "2529d7d89c3c078499c2802e5d2ded9c0db6abe91349a2e4609429c5830691a7": {
+      "processed_at": "2026-08-18T08:24:32.370536Z",
+      "published_at": "2026-08-17T06:25:29Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "A Calibrated and Explainable Bimodal Machine Learning Framework for Hybrid Intrusion Detection",
+      "url": "https://arxiv.org/abs/2608.16160v1"
+    },
     "25335fb5e9d59d8f1eff99cf31ae99eb9e2f14d0f0d72c2d6aafc627a64591cd": {
       "processed_at": "2026-07-02T23:12:42.116480Z",
       "published_at": "2026-06-30T03:09:59Z",
@@ -3169,6 +3219,16 @@
       "source_id": "arxiv-crypto",
       "title": "Intentional Electromagnetic Interference Attacks on Facial Recognition",
       "url": "https://arxiv.org/abs/2607.15512v1"
+    },
+    "27053dd593c009d1272aa76bafac0d32fc1bd356277a629bca60f73e6d6b00fb": {
+      "processed_at": "2026-08-18T08:24:32.370621Z",
+      "published_at": "2026-08-16T08:04:04Z",
+      "score": 27,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Post-Quantum TLS Migration: A Systematization of Hybrid Handshakes, PSKs, KeyUpdate, and Certificate Strategies",
+      "url": "https://eprint.iacr.org/2026/1703"
     },
     "2736ff81fb77051d19c1fac5c0218c13c9ae683b0759451519a98ae52dd92d94": {
       "processed_at": "2026-06-23T10:55:48.540257Z",
@@ -3589,6 +3649,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: Cisco Secure Firewall Management Centerソフトウェアに脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html"
+    },
+    "2b6043180b4de0293217daf087d6d09f2c2212ba15b0fb237576b301857ade3f": {
+      "processed_at": "2026-08-18T08:24:32.370611Z",
+      "published_at": "2026-08-16T08:32:39Z",
+      "score": 9,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Benchmarking Quantum Machine Learning for Power-System Attack Detection: Evaluation Choices Decide the Outcome Before the Models Do",
+      "url": "https://arxiv.org/abs/2608.15617v1"
     },
     "2b6d6f50fe172dcd311e19865c6177e0b63bfcc5edcce366f7bf696916f136d3": {
       "processed_at": "2026-07-09T10:51:22.421375Z",
@@ -4140,6 +4210,16 @@
       "title": "Weekly Report: セイコーソリューションズ製SkyBridge MB-A100/MB-A110にOSコマンドインジェクションの脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html"
     },
+    "307dfb658f68e078c40ef3dc094f11f5770a611d0ca1e00bd5ae485ccb90d603": {
+      "processed_at": "2026-08-18T08:24:32.370647Z",
+      "published_at": "2026-08-10T02:26:07Z",
+      "score": 7,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Context Is Not Authority: Structured Runtime Governance for Financial Market Agents",
+      "url": "https://arxiv.org/abs/2608.09025v2"
+    },
     "308e854f4ad9a2e19873171562f5b262c38882a795afc1c612566d94f5d600cb": {
       "processed_at": "2026-07-07T10:46:44.765372Z",
       "published_at": "2026-07-06T14:04:39Z",
@@ -4429,6 +4509,16 @@
       "source_id": "arxiv-crypto",
       "title": "MIDS: Detecting Stealthy Masquerade and Tampering Attacks on CAN Bus via Bidirectional Mamba",
       "url": "https://arxiv.org/abs/2606.18599v1"
+    },
+    "343aa27e82d228124289eff59a5c92f20a7d6e70f4a202a6208826970c1f74e5": {
+      "processed_at": "2026-08-18T08:24:32.370584Z",
+      "published_at": "2026-08-16T14:30:45Z",
+      "score": 7,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Provenance, Not Behaviour: A Serialisation Artifact in Edge-IIoTset and a Leakage-Free Benchmark for Precision-Agriculture Intrusion Detection",
+      "url": "https://arxiv.org/abs/2608.15761v1"
     },
     "344678daf2760b404976dd2d4528cecefc831508b566f4a7c4ca750696cc003c": {
       "processed_at": "2026-07-31T10:29:20.196300Z",
@@ -5089,6 +5179,16 @@
       "source_id": "arxiv-crypto",
       "title": "Toward Standardized Cross-Vendor Agent Tool Trust Management in Autonomous Networks",
       "url": "https://arxiv.org/abs/2607.25914v1"
+    },
+    "3d10ae7e030930e858a41c6c586f4ad798289626e7770443eb20857296ae5566": {
+      "processed_at": "2026-08-18T08:24:32.370502Z",
+      "published_at": "2026-08-17T10:41:18Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs",
+      "url": "https://arxiv.org/abs/2608.16391v1"
     },
     "3d1b6c6d0b37b68cf0e873a32b2a130cdeed66cc1c3ab619a833d62161b41d36": {
       "processed_at": "2026-08-05T10:25:49.843493Z",
@@ -6130,6 +6230,16 @@
       "title": "SoK: Federated Learning for Intrusion Detection in Vehicular Networks",
       "url": "https://arxiv.org/abs/2607.10914v1"
     },
+    "46f6e399f27dfa773ba37640cd9f90eba34d4b7e5f090b6d693126a89d44281c": {
+      "processed_at": "2026-08-18T08:24:32.370319Z",
+      "published_at": "2026-08-17T17:41:11Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "ECO-ID: Event-Camera based Optical System for Secure Multi-User Ultra-Low Latency Identification",
+      "url": "https://arxiv.org/abs/2608.16858v1"
+    },
     "472add3019ef688e7ba705e60bd116c9925f65fb276326a3dcce2f0a349513e1": {
       "processed_at": "2026-07-13T10:50:50.528708Z",
       "published_at": "2026-07-10T08:13:19Z",
@@ -6179,6 +6289,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: 複数のSplunk製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
+    },
+    "47945214892ec3407b1805a6f0a00f88d7bf5f8a99007e02646cccbee82763a5": {
+      "processed_at": "2026-08-18T08:24:32.370642Z",
+      "published_at": "2026-08-13T10:08:41Z",
+      "score": 4,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "InSPECtor: Improving SLEIGH Processor Specification Veracity via Proxy",
+      "url": "https://arxiv.org/abs/2608.13042v2"
     },
     "47e9490486e07654adaa68eb41f57b38797453e73954293b4e70c10d92ff195d": {
       "processed_at": "2026-07-29T10:33:04.732583Z",
@@ -6690,6 +6810,16 @@
       "title": "Privacy Detective: A Narrative Game that Cultivates Student Developers' Privacy Awareness by Harnessing Legal Documents",
       "url": "https://arxiv.org/abs/2607.09022v1"
     },
+    "4e97f4a2efefdf091f06eea5e3f6567b7523529403c51f8608f216197d304ce4": {
+      "processed_at": "2026-08-18T08:24:32.370360Z",
+      "published_at": "2026-08-17T17:12:11Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+      "url": "https://arxiv.org/abs/2608.16824v1"
+    },
     "4e9de51c165903bca2aab80eab35ee43bebf7936f210ea1f02b5bcc437e98299": {
       "processed_at": "2026-08-07T01:31:07.256953Z",
       "published_at": "2026-08-05T18:00:43Z",
@@ -6839,6 +6969,16 @@
       "source_id": "arxiv-crypto",
       "title": "Beyond the Syntax: Do Security Experts Trust LLMs for NIDS Rule Engineering?",
       "url": "https://arxiv.org/abs/2607.05916v1"
+    },
+    "5067b9f4aedab4fc48285a629c68f5dceea0458440f45d0770e160dae58ac50f": {
+      "processed_at": "2026-08-18T08:24:32.370425Z",
+      "published_at": "2026-08-17T12:47:38Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "LLMs for Zero-Shot Threat Detection via Structured Risk Indicators",
+      "url": "https://arxiv.org/abs/2608.16508v1"
     },
     "506856130c2046eace85c7b1b9bc47358efeeb2864df120b08fefd4cfeb0f7aa": {
       "processed_at": "2026-06-19T23:02:40.718156Z",
@@ -8090,6 +8230,16 @@
       "title": "注意喚起: 2026年6月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260017.html"
     },
+    "5f58e4ac63c7d1dd62a39d8bd535743656ae31cd11d90ba04f6a02dac5364eb2": {
+      "processed_at": "2026-08-18T08:24:32.370507Z",
+      "published_at": "2026-08-17T08:20:44Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "CompoSkill: Compositional Skill Chain Attacks from Individually Scanner-Passing LLM Agent Skills",
+      "url": "https://arxiv.org/abs/2608.16246v1"
+    },
     "5f7463e6bedb43eb733826958605d39de6e6456b9684cd93e6e57f81319114f0": {
       "processed_at": "2026-08-03T11:13:23.459558Z",
       "published_at": "2026-08-03T04:04:38Z",
@@ -8630,6 +8780,16 @@
       "title": "Is That Really My X-Ray? Measuring Internet-Exposed DICOM Services in the Presence of Deception",
       "url": "https://arxiv.org/abs/2607.15839v1"
     },
+    "6760d31c6ad609a6b8ab8532115755e7fa646364cc81f120e213b80dd3564459": {
+      "processed_at": "2026-08-18T08:24:32.370574Z",
+      "published_at": "2026-08-16T15:43:02Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Assessing Attack Surfaces in Generative Search Engines through Publisher Attributes: A Case Study in Political Domains",
+      "url": "https://arxiv.org/abs/2608.15814v1"
+    },
     "678e8e29cd5f779525427ae01180f50a8a299ae773497b22de08f8a91cb2a782": {
       "processed_at": "2026-06-29T12:24:06.392870Z",
       "published_at": "2026-06-26T10:26:50Z",
@@ -8709,6 +8869,16 @@
       "source_id": "iacr-eprint",
       "title": "Breaking the Beyond-Birthday-Bound Security of $\\sharp\\textsf{Pencil}$",
       "url": "https://eprint.iacr.org/2026/1556"
+    },
+    "68b238dffa86c4c7ae118aa83abe2101729e622e0c15b7bda706c7ef3e77e09e": {
+      "processed_at": "2026-08-18T08:24:32.370488Z",
+      "published_at": "2026-08-17T11:00:05Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Recovering Process Variables from Industrial Network Traffic via Search-Based Optimization",
+      "url": "https://arxiv.org/abs/2608.16403v1"
     },
     "68d0913d8ddd0ae1236fe0b0767350e2fb9d9740f39b4e9ff8acfe348db2f06e": {
       "processed_at": "2026-07-03T10:27:28.895196Z",
@@ -9340,6 +9510,16 @@
       "title": "Compact Quaternion Algorithms for SQIsign",
       "url": "https://eprint.iacr.org/2026/1031"
     },
+    "6fbed97eea1d60ac46e4502b36eac62f0b37908d26bd053b752582999c9d2636": {
+      "processed_at": "2026-08-18T08:24:32.370403Z",
+      "published_at": "2026-08-17T13:53:36Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Rigorous Statements and Proofs of the Lemmas in Simon's Algorithm for the Dihedral Coset Problem and Their Underlying Hypothesis",
+      "url": "https://arxiv.org/abs/2608.16598v1"
+    },
     "6fc4d5f423448fdd29e0fcbcc9a0fb7c055d345203b2f9bf09900bc3cf67d7fc": {
       "processed_at": "2026-07-24T23:04:45.546357Z",
       "published_at": "2026-07-14T01:17:17Z",
@@ -9479,6 +9659,16 @@
       "source_id": "iacr-eprint",
       "title": "A new attack to RSA with small private exponent and partial information.",
       "url": "https://eprint.iacr.org/2026/1295"
+    },
+    "71e5103419bbcf8083b852fad184a2e4aee4cac0f0526fdc2166b0d582fd5329": {
+      "processed_at": "2026-08-18T08:24:32.370480Z",
+      "published_at": "2026-08-17T11:22:20Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Proving the Utility of Large Language Models in Cybersecurity Simulations: A Comprehensive Examination",
+      "url": "https://arxiv.org/abs/2608.16422v1"
     },
     "71e8ec9466fed47bb44cd85c20814cc53f1cb96b0ef58b83e8888f8d93bee21a": {
       "processed_at": "2026-07-02T10:29:31.874709Z",
@@ -10310,6 +10500,16 @@
       "title": "Weekly Report: 複数のOracle製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html"
     },
+    "7bc3e211f0a13547cd4ddd6357046f149830cc5ba6ad28955ec33e2c5e824194": {
+      "processed_at": "2026-08-18T08:24:32.370552Z",
+      "published_at": "2026-08-17T02:54:04Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Proof-of-Execution Memory: Defending LLM Agents Against Forged-Reasoning Attacks by Verifying What Actually Happened",
+      "url": "https://arxiv.org/abs/2608.16032v1"
+    },
     "7bc921d2ba04f7b013f5b2823c253321e5dc98172de1f40ff6e576f06c8acd96": {
       "processed_at": "2026-07-08T10:08:21.464683Z",
       "published_at": "2026-07-08T00:21:00Z",
@@ -10930,6 +11130,16 @@
       "title": "Decoys Cannot Go Everywhere: Mapping the Deception Surface in MITRE ATT&CK",
       "url": "https://arxiv.org/abs/2606.27966v1"
     },
+    "82944e88db02ba9b0b2f113e149f5df347e614bdee6596a75e152d1c38f85fe5": {
+      "processed_at": "2026-08-18T08:24:32.370595Z",
+      "published_at": "2026-08-16T09:17:05Z",
+      "score": 7,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "When Time Meets Space: Entropy Integration and Dynamic Threshold for Adaptive DDoS Detection in SDN",
+      "url": "https://arxiv.org/abs/2608.15642v1"
+    },
     "82ba0a4195ce2c3b3e797a8480a920e242f7b428a3ba956834c43d6619933303": {
       "processed_at": "2026-07-02T10:29:31.874598Z",
       "published_at": "2026-07-01T09:41:54Z",
@@ -11239,6 +11449,16 @@
       "source_id": "arxiv-crypto",
       "title": "Silent Alarm: A J-Space Protocol for Comparing Danger Recognition Across Models and Quantization Levels",
       "url": "https://arxiv.org/abs/2607.12792v1"
+    },
+    "86f64365ffd33bde16e344574b9b4e6d706909a179f0d07c44be24df35f1497a": {
+      "processed_at": "2026-08-18T08:24:32.370541Z",
+      "published_at": "2026-08-17T06:24:22Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Digital Twin Degradation: Detecting Cyber Physical Attacks via Temporal Inconsistencies",
+      "url": "https://arxiv.org/abs/2608.16159v1"
     },
     "8719d28a41ac58dc8eb37dd7af65884796ef2f9a3c5ccd5949a2e1b66898e7b5": {
       "processed_at": "2026-07-03T10:27:28.895228Z",
@@ -11679,6 +11899,16 @@
       "source_id": "microsoft-security-blog",
       "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet"
+    },
+    "8c4868515abecd5b3a948853636636709ae25b1abc66421de821c1bcaeddc28c": {
+      "processed_at": "2026-08-18T08:24:32.370530Z",
+      "published_at": "2026-08-17T06:48:53Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Measuring Obedience to Authority Across Large Language Models with the Milgram Paradigm",
+      "url": "https://arxiv.org/abs/2608.16177v1"
     },
     "8c599cd909437bb28e4d9f616d2e51e7a6c6935965bc562bdb211cb071531017": {
       "processed_at": "2026-07-03T10:27:28.895244Z",
@@ -12639,6 +12869,16 @@
       "source_id": "arxiv-crypto",
       "title": "STAIR: Effective Incident Response Using an End-to-End Agentic Planning Framework",
       "url": "https://arxiv.org/abs/2608.09524v1"
+    },
+    "98d1a018f3f1f5da11030ba27f85188651560f47822171f9d20ffcf01c485e82": {
+      "processed_at": "2026-08-18T08:24:32.370410Z",
+      "published_at": "2026-08-17T13:23:39Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents",
+      "url": "https://arxiv.org/abs/2608.16551v1"
     },
     "98df8b9cbf97dd4658f741fdc9c0f8412cbe1689f0bcc0af2486dcc86ae4d65f": {
       "processed_at": "2026-07-16T23:01:15.229849Z",
@@ -13759,6 +13999,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: ProgressのMarkLogic Serverに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html"
+    },
+    "a493f0049be1a29a0cd5898b0760f149ef161de451d3179126dcd81a0c479a84": {
+      "processed_at": "2026-08-18T08:24:32.370590Z",
+      "published_at": "2026-08-16T12:19:05Z",
+      "score": 6,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Comment on ‘Quantum public key encryption scheme with four states key’",
+      "url": "https://eprint.iacr.org/2026/1706"
     },
     "a495208bf3d40b639fb4592c5c7a4cff3835c533df4e41b489fba76a007457cb": {
       "processed_at": "2026-07-23T10:12:14.724848Z",
@@ -14890,6 +15140,16 @@
       "title": "Generating Attacks for LLMs with GFlowNets",
       "url": "https://arxiv.org/abs/2608.10171v1"
     },
+    "b16f6318c97a82fe083f12cd5414e7d9a83c307b854b0c6e08c37ed8616bb0ff": {
+      "processed_at": "2026-08-18T08:24:32.370369Z",
+      "published_at": "2026-08-17T16:47:09Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching",
+      "url": "https://arxiv.org/abs/2608.16791v1"
+    },
     "b1a1648dde9902f6077b0c37cf7e554ace03971a98107add2143be7029185d48": {
       "processed_at": "2026-07-31T10:29:20.196270Z",
       "published_at": "2026-07-30T11:54:36Z",
@@ -15100,6 +15360,16 @@
       "title": "\"Operator, can you hear me?\" A Faithful Line into the UNISOC Baseband",
       "url": "https://arxiv.org/abs/2608.07143v1"
     },
+    "b3d709a0ac1020dcfb8fb4a5e4542ab1dc36655132f1da42e951318854ffd9e7": {
+      "processed_at": "2026-08-18T08:24:32.370513Z",
+      "published_at": "2026-08-17T07:58:46Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Trusted Hardware Acceleration for Function Secret Sharing",
+      "url": "https://arxiv.org/abs/2608.16223v1"
+    },
     "b3de0a0bbb9bcc583a581a11c7fac7999d8615ff5d0c17753716241af83a2a77": {
       "processed_at": "2026-08-02T22:58:47.825962Z",
       "published_at": "2026-08-02T16:00:00Z",
@@ -15280,6 +15550,16 @@
       "title": "Flock: Fast Proving for Batch Boolean Computations",
       "url": "https://arxiv.org/abs/2607.27491v1"
     },
+    "b592b322345e8cc0d455c9dba4e0d6296fbf192ff00731ed5e8579badf97d723": {
+      "processed_at": "2026-08-18T08:24:32.370495Z",
+      "published_at": "2026-08-17T10:43:07Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection",
+      "url": "https://arxiv.org/abs/2608.16393v1"
+    },
     "b5afce41d6a230e52e051958ac27983b18c882ef137f1abed4d1357a6eb50492": {
       "processed_at": "2026-07-30T23:11:58.394781Z",
       "published_at": "2026-07-27T23:35:01Z",
@@ -15389,6 +15669,16 @@
       "source_id": "iacr-eprint",
       "title": "Advanced cryptography from lattice isomorphism—new constructions of IBE and FHE",
       "url": "https://eprint.iacr.org/2026/465"
+    },
+    "b643c5031c84c6ff93b33d529950cf7b286f8d820fe279ae96e4b81299cf91fd": {
+      "processed_at": "2026-08-18T08:24:32.370579Z",
+      "published_at": "2026-08-16T14:58:13Z",
+      "score": 5,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Fast Simulation Algorithms for OLH using Binomial Modeling",
+      "url": "https://arxiv.org/abs/2608.15778v1"
     },
     "b6509bf08b8d4c2c52a95506aa84389aa21a69d5d8a6c1aef3ef19f37ce290ee": {
       "processed_at": "2026-07-30T23:11:58.394514Z",
@@ -15579,6 +15869,16 @@
       "source_id": "arxiv-crypto",
       "title": "LoRAScan: Detecting Backdoor Prompts in Low-Rank Adapters for Large Language Models via Down-Projection Activation Spikes",
       "url": "https://arxiv.org/abs/2608.06795v1"
+    },
+    "b9b52aca30ede5d1bf5b55934888daa2e35839802a5dbed6f5a71324f07fffbe": {
+      "processed_at": "2026-08-18T08:24:32.370386Z",
+      "published_at": "2026-08-17T16:18:15Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "A Deployment-Oriented and Resource-Efficient Neuro-Symbolic Framework for Explainable DDoS Detection in Operational Technology Networks",
+      "url": "https://arxiv.org/abs/2608.16769v1"
     },
     "b9b78217b352a9a1406849dd91dbacb001d24a4d15e750afebf14bbcaf2748bb": {
       "processed_at": "2026-06-18T07:18:35.071770Z",
@@ -16230,6 +16530,16 @@
       "title": "TACTIC-KG: Toward Small Agent Teams for Cyber Threat Intelligence Knowledge Graph Construction",
       "url": "https://arxiv.org/abs/2607.05001v1"
     },
+    "c0d6e157f6c3b5ccacb665944cf17bf11d0e2152b6fab79fff60a17ea80bf3a8": {
+      "processed_at": "2026-08-18T08:24:32.370616Z",
+      "published_at": "2026-08-16T08:14:55Z",
+      "score": 12,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A decrementally-improved algorithm for Boolean MQ",
+      "url": "https://eprint.iacr.org/2026/1704"
+    },
     "c12a10d4c73d4ebe40a41da4992ad05a1d139cb28ae08583a4f7b7d5c5d2d485": {
       "processed_at": "2026-07-01T11:17:56.313127Z",
       "published_at": "2026-06-21T22:04:48Z",
@@ -16519,6 +16829,16 @@
       "source_id": "arxiv-crypto",
       "title": "i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler",
       "url": "https://arxiv.org/abs/2607.05888v1"
+    },
+    "c40537b09cf6580cd013180b2881711059310482e875951c259b0490fe7bb140": {
+      "processed_at": "2026-08-18T08:24:32.370395Z",
+      "published_at": "2026-08-17T15:43:47Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "A Stable Transport-Mechanism Descriptor for Per-Pixel Rendering Difficulty",
+      "url": "https://arxiv.org/abs/2608.16730v1"
     },
     "c40c8f3e0ad09cc5a88c6b3e4b6fa2b2b7d6eb7526f1f3acbdd6ec924ed63f03": {
       "processed_at": "2026-07-01T11:17:56.313113Z",
@@ -17240,6 +17560,16 @@
       "title": "A Controlled Candidate-Set Benchmark for Offline Satellite-Security Plan Decomposition",
       "url": "https://arxiv.org/abs/2607.26371v1"
     },
+    "cbd2cd5e74831e59a505369f8492d78209b6f13e7f3f8187fa8495bbad93589f": {
+      "processed_at": "2026-08-18T08:24:32.370627Z",
+      "published_at": "2026-08-16T06:02:23Z",
+      "score": 5,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Parallel Repetition for Entangled Games with Gap Exponent Three",
+      "url": "https://eprint.iacr.org/2026/1702"
+    },
     "cbda8a6e1c68eb1c8af1dc0e947f62d3dd3c56312798b03a9d34793541faf8fe": {
       "processed_at": "2026-07-23T10:12:14.724635Z",
       "published_at": "2026-07-22T15:28:36Z",
@@ -17620,6 +17950,16 @@
       "title": "Anchor-DKG: Distributed Key Generation with Repeating Parties",
       "url": "https://eprint.iacr.org/2026/1570"
     },
+    "d03e3e46cc27f5e25ab8e9fbc79395d6dc1940dcc9fe456bd022599bd83a0f8e": {
+      "processed_at": "2026-08-18T08:24:32.370601Z",
+      "published_at": "2026-08-16T09:11:09Z",
+      "score": -3,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "A contribution to the critique of blockchain censorship",
+      "url": "https://arxiv.org/abs/2608.15640v1"
+    },
     "d04b4df2ab9e9131e0f102e3359f9244ab08da2346e4901bbed79f10c9584fd2": {
       "processed_at": "2026-07-10T10:45:00.436769Z",
       "published_at": "2026-07-09T09:32:03Z",
@@ -17950,6 +18290,16 @@
       "title": "Weekly Report: Fluentdに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html"
     },
+    "d50fbcc00590c0e0a9856e0be12582e4f33d38ee70da4bf25e507081f733b97b": {
+      "processed_at": "2026-08-18T08:24:32.370377Z",
+      "published_at": "2026-08-17T16:21:18Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis",
+      "url": "https://arxiv.org/abs/2608.16775v1"
+    },
     "d514cbe0cff0ffed747b2f81a4d2dbe6b8e2378d37bc3ec05310b543fc86eb6b": {
       "processed_at": "2026-08-06T10:28:52.639190Z",
       "published_at": "2026-08-05T04:33:26Z",
@@ -18049,6 +18399,16 @@
       "source_id": "arxiv-crypto",
       "title": "Dependency Triad: A Metric to Quantify the Dependencies Between Attributes for Local Differential Privacy",
       "url": "https://arxiv.org/abs/2608.03737v1"
+    },
+    "d6b94e3e45510d7381c9effd047fa159b548befacef8ca87c3992b6c01136513": {
+      "processed_at": "2026-08-18T08:24:32.370547Z",
+      "published_at": "2026-08-17T03:18:51Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval",
+      "url": "https://arxiv.org/abs/2608.16044v1"
     },
     "d6d66773dd86f76ec36056e345981e7e0b9d94cd4b9d7ca9fb75be678f9d6d55": {
       "processed_at": "2026-06-23T10:55:48.540371Z",
@@ -18189,6 +18549,16 @@
       "source_id": "iacr-eprint",
       "title": "Improved Garbled RAM via Garbled Merge",
       "url": "https://eprint.iacr.org/2026/761"
+    },
+    "d87800c7b6e4c5f84dda0b2386f6cc9c1022a6aa3b45099089be47f27493b7f8": {
+      "processed_at": "2026-08-18T08:24:32.370457Z",
+      "published_at": "2026-08-17T12:42:46Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Vantage: Availability-Graded Broadcast for Signature-Free BFT",
+      "url": "https://arxiv.org/abs/2608.16504v1"
     },
     "d88876788d48ac1964b743f9af8cbf25447a6ed07554ab0ff7e496f1b1ea5a7d": {
       "processed_at": "2026-08-14T08:59:20.578289Z",
@@ -18840,6 +19210,16 @@
       "title": "SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response",
       "url": "https://arxiv.org/abs/2607.26791v1"
     },
+    "de8e6104653971e6e476038a45f8eed87eac7fd21904b6bfac7ab81f4d8ffbf6": {
+      "processed_at": "2026-08-18T08:24:32.370472Z",
+      "published_at": "2026-08-17T11:31:03Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "DCI: Dependency Confidence Index for Assessing Open-Source Dependency Trustworthiness",
+      "url": "https://arxiv.org/abs/2608.16430v1"
+    },
     "deb904d5db594d6cb1b9fe8c8a59fb9952540228be828605e147d4e7f1a18084": {
       "processed_at": "2026-08-13T09:03:40.105029Z",
       "published_at": "2026-08-11T23:20:15Z",
@@ -18969,6 +19349,16 @@
       "source_id": "arxiv-crypto",
       "title": "Do (Not) Tell Me About My Insecurities: Assessing the Status Quo of Coordinated Vulnerability Disclosure in Germany Amid New EU Cybersecurity Regulations",
       "url": "https://arxiv.org/abs/2606.25950v1"
+    },
+    "e003461b14f064dbc5199873a4c27cd918309ba0933a1c7432bfb145cad5e033": {
+      "processed_at": "2026-08-18T08:24:32.370558Z",
+      "published_at": "2026-08-17T02:38:32Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "SkillWatermark: An Embedded Skill Watermark of Progressive Privacy Inference via Benign Prompts",
+      "url": "https://arxiv.org/abs/2608.16026v1"
     },
     "e05cc89c6dab044ebcea554b668c57e161ffb231bb835ace03da180898498e08": {
       "processed_at": "2026-07-29T10:33:04.732605Z",
@@ -19400,6 +19790,16 @@
       "title": "Safe2Hail: A Forensic-Driven Post-Trip Tracking Framework for Ride-Hailing Safety in Africa",
       "url": "https://arxiv.org/abs/2607.07271v1"
     },
+    "e5ff1c8c5f69a404c1107aadfcccdbd8b4740ed3b726d520f57ebd74897bf004": {
+      "processed_at": "2026-08-18T08:24:32.370606Z",
+      "published_at": "2026-08-16T09:04:12Z",
+      "score": 8,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "New Attacks on Mersenne Number-Based Cryptosystems: Relaxing Size Constraints",
+      "url": "https://eprint.iacr.org/2026/1705"
+    },
     "e622a29e3d54da5a678d717bd4d958e5dc10d0a579743ad3b1ab70509a3d3bf9": {
       "processed_at": "2026-07-29T10:33:04.732811Z",
       "published_at": "2026-07-16T20:07:47Z",
@@ -19649,6 +20049,16 @@
       "source_id": "arxiv-crypto",
       "title": "A quantum algorithm for one-shot signatures",
       "url": "https://arxiv.org/abs/2606.23612v1"
+    },
+    "ea1180f5c39e9d6aa5024b29757938702092eb30bb9260a998bb29adb538cbc0": {
+      "processed_at": "2026-08-18T08:24:32.370632Z",
+      "published_at": "2026-08-14T04:39:36Z",
+      "score": 19,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Exposing SIMD Parallelism in SQIsign: An AVX-512 Implementation",
+      "url": "https://arxiv.org/abs/2608.13948v2"
     },
     "ea3046d4eb90919a8a4be74770a15b6270fd1f976eb30dcc402124156bf8120d": {
       "processed_at": "2026-08-07T01:31:07.256782Z",
@@ -20760,6 +21170,16 @@
       "title": "Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents",
       "url": "https://arxiv.org/abs/2607.28165v1"
     },
+    "f7c4e3148413044c547dfd6685f43f8c37ae9af9edc948c531f9cab23036a86b": {
+      "processed_at": "2026-08-18T08:24:32.370524Z",
+      "published_at": "2026-08-17T07:09:09Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Securing AI-Generated Code: A Just-in-Time Vulnerability Detection and Remediation Pipeline",
+      "url": "https://arxiv.org/abs/2608.16187v1"
+    },
     "f7d399766d43594d8c597db3165bd3449fc050f5e1040f029ff61b42b2bd017f": {
       "processed_at": "2026-07-20T23:04:02.231349Z",
       "published_at": "2026-07-16T07:31:32Z",
@@ -21090,6 +21510,16 @@
       "title": "Adaptor Signatures Meet BLS: Enabling Efficient Blockchain Applications with Unique Adaptor Signatures",
       "url": "https://eprint.iacr.org/2026/1394"
     },
+    "fb8a525985e821d94d978b75d4658ae24084cc211058c40a0044b4a4e6a2d6dd": {
+      "processed_at": "2026-08-18T08:24:32.370418Z",
+      "published_at": "2026-08-17T13:11:51Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "DSPrompt: Dynamic Soft Prompt Defense Against M-RAG Corruption",
+      "url": "https://arxiv.org/abs/2608.16536v1"
+    },
     "fc0a98d04c5c8be99d00042d4a4054d0c623889e9918886a8a328dec1132377c": {
       "processed_at": "2026-08-03T11:13:23.459766Z",
       "published_at": "2026-07-31T13:09:20Z",
@@ -21379,6 +21809,16 @@
       "source_id": "iacr-eprint",
       "title": "SoK: Hash-Based Polynomial Commitments and Low-Degree Tests: From FRI to Basefold, STIR, and WHIR",
       "url": "https://eprint.iacr.org/2026/1367"
+    },
+    "fec5a3db8c00a9b38de9a1b3a66569491add18d77cab3dd4fd9563ef5c65599e": {
+      "processed_at": "2026-08-18T08:24:32.370563Z",
+      "published_at": "2026-08-16T20:02:12Z",
+      "score": 12,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "arxiv-crypto",
+      "title": "Conjunctive Poisoning in AI Supply-Chain Applications",
+      "url": "https://arxiv.org/abs/2608.15913v1"
     },
     "feff8d9832cc692156af78c05e553242db97fbf88ced2d138cd8c59399fae839": {
       "processed_at": "2026-07-07T10:46:44.765289Z",
