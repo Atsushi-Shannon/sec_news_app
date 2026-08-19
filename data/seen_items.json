@@ -1120,6 +1120,16 @@
       "title": "FiltrumVote: Scalable, Verifiable, and Coercion-Resistant Internet Voting",
       "url": "https://eprint.iacr.org/2026/1435"
     },
+    "0e0036117c39124004551be057ee8075825b4dc4a2a8d8f6b8ae5ed24ba5658f": {
+      "processed_at": "2026-08-19T22:28:11.785027Z",
+      "published_at": "2026-08-19T16:00:28Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers"
+    },
     "0e00e23a5a0db7588025abca23837c1afc87bf154ede5b433c1812d47c305983": {
       "processed_at": "2026-08-10T22:41:28.659060Z",
       "published_at": "2026-08-10T15:00:00Z",
@@ -9719,6 +9729,16 @@
       "source_id": "arxiv-crypto",
       "title": "From Forgeries to Foundation Models: A Systematic Survey of Identity Document Attack and Detection",
       "url": "https://arxiv.org/abs/2607.01442v1"
+    },
+    "6ec38e7338c00635c8877bfd54f3042daea3241b88211cb7d4fb21c077c50901": {
+      "processed_at": "2026-08-19T22:28:11.784984Z",
+      "published_at": "2026-08-19T17:30:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026"
     },
     "6f0730636e234a601c7fe862db2fcffacde4c44dbc228019fc518be1c38987f0": {
       "processed_at": "2026-08-03T11:13:23.459815Z",
