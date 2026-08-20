@@ -19800,6 +19800,16 @@
       "title": "CHARGE: Leveraging CWE Hierarchies for Hardware Security SystemVerilog Assertion Generation",
       "url": "https://arxiv.org/abs/2607.27776v1"
     },
+    "dba78ee1107bfbc50507ebc9e39d9b62c21bc7238d02ff946042f4120fc1467a": {
+      "processed_at": "2026-08-20T22:31:17.029828Z",
+      "published_at": "2026-08-20T17:03:03Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "From all-or-nothing to task-based OAuth consent",
+      "url": "https://blog.cloudflare.com/task-based-oauth-consent"
+    },
     "dbbaf30dc1569bf0b64a75c1ae2efd6262662170e0d62bbb50c27eab18430446": {
       "processed_at": "2026-06-23T10:55:48.540377Z",
       "published_at": "2026-06-22T02:48:27Z",
@@ -21379,6 +21389,16 @@
       "source_id": "arxiv-crypto",
       "title": "Statistical Analysis of Executability and Program Equivalence in Decompilation for IoT Vulnerability Detection",
       "url": "https://arxiv.org/abs/2608.06960v1"
+    },
+    "eed6c981b40c665358c857e49f1c603d043444390feae9c794ee0bb47751fac7": {
+      "processed_at": "2026-08-20T22:31:17.029875Z",
+      "published_at": "2026-08-18T04:36:26Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Matrix Hoeffding and Bernstein Bounds with Sharp Constants for Markov Chains",
+      "url": "https://eprint.iacr.org/2026/1719"
     },
     "eedeeb78674465451d06c1f3c5cbfdd0e081da80e7cf6be629148a59eac1f194": {
       "processed_at": "2026-08-07T01:31:07.256743Z",
