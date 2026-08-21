@@ -2870,6 +2870,16 @@
       "title": "Build your own vulnerability harness",
       "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness"
     },
+    "211f14a66f3f14abd315f2256827bba8605ee957df965bd2e1bc3e3dfce72283": {
+      "processed_at": "2026-08-21T22:28:58.000851Z",
+      "published_at": "2026-08-11T01:18:04Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Verifpal Seven Years Later: Can a Toy Become an Instrument?",
+      "url": "https://eprint.iacr.org/2026/1654"
+    },
     "2171439e24a46fa30f896c6ce4c988ba555c9e33172d61e32042d4ff29ada8bb": {
       "processed_at": "2026-07-14T09:47:39.424472Z",
       "published_at": "2026-07-13T15:40:57Z",
@@ -3169,6 +3179,16 @@
       "source_id": "arxiv-crypto",
       "title": "Four classes of few-weight self-orthogonal codes and their applications for LCD codes and quantum codes",
       "url": "https://arxiv.org/abs/2607.07181v1"
+    },
+    "2494a5102e38db7e9b3866a5084a49d550a6588cf22f6cdb46fb1de78655bdaf": {
+      "processed_at": "2026-08-21T22:28:58.000764Z",
+      "published_at": "2026-08-18T22:01:19Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "New Techniques for Fast and Shallow FHE Bootstrapping and Beyond",
+      "url": "https://eprint.iacr.org/2026/1730"
     },
     "24a0cf01820fcc111479a9ec593312b44e1304dc5605cd0339016032e2dc64f1": {
       "processed_at": "2026-08-10T09:07:59.359910Z",
@@ -4609,6 +4629,16 @@
       "source_id": "arxiv-crypto",
       "title": "Kops: Safely Extending the eBPF Compilation Pipeline with Native Operations",
       "url": "https://arxiv.org/abs/2606.24213v1"
+    },
+    "3275527e00eae86cc089874f6369d704a81e024899bf1c78b0238654716b193c": {
+      "processed_at": "2026-08-21T22:28:58.000679Z",
+      "published_at": "2026-08-19T02:06:42Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "TEE Server-Assisted Aggregated Offline Deployment Scheme for Multiplication Triples",
+      "url": "https://eprint.iacr.org/2026/1733"
     },
     "32797a5a949bb0fcb2d5231603e534ea8abb65bb8c260abaad06dcc344449017": {
       "processed_at": "2026-07-01T23:20:20.299565Z",
@@ -7080,6 +7110,16 @@
       "title": "The next generation of MCP",
       "url": "https://blog.cloudflare.com/mcp-v2"
     },
+    "4d45ba474cc2b7cb3af88d0aed26f6413a4bbf191b0b35f20f91ee40c99ad268": {
+      "processed_at": "2026-08-21T22:28:58.000728Z",
+      "published_at": "2026-08-19T01:45:05Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Indifferentiability of Public-Key Encryption: Theory Meets Practice",
+      "url": "https://eprint.iacr.org/2026/1732"
+    },
     "4d57498178c6f3d84f838e058e68e5fa4ce884dbe09e3594c4c746df52b1eb22": {
       "processed_at": "2026-07-27T11:10:46.287740Z",
       "published_at": "2026-07-24T08:43:16Z",
@@ -7599,6 +7639,16 @@
       "source_id": "arxiv-crypto",
       "title": "HarnessLLM: Rust Verification Harness Generation with Large Language Models",
       "url": "https://arxiv.org/abs/2607.22161v1"
+    },
+    "52f803b5329cefa619a0db9df68620b7c75a84dc9c9b27c4ba7f631650d61e38": {
+      "processed_at": "2026-08-21T22:28:58.000779Z",
+      "published_at": "2026-08-18T19:59:11Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Unified Framework for Contract-Validated Benchmarking of Zero-Knowledge Proving Systems",
+      "url": "https://eprint.iacr.org/2026/1729"
     },
     "530293c0ef96a50e32acf75bc3c8858c8a5b02d043118876865cf30f20756107": {
       "processed_at": "2026-08-05T10:25:49.843406Z",
@@ -8339,6 +8389,16 @@
       "source_id": "cloudflare-blog",
       "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
       "url": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal"
+    },
+    "5c10d8ab49f22b51bf19dbe70740beeae7ad3e5fdd291c834f399706f9ae929b": {
+      "processed_at": "2026-08-21T22:28:58.000796Z",
+      "published_at": "2026-08-18T19:26:01Z",
+      "score": -5,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Controlled Case Study of Design Trade-offs in DeFi Lending Protocols",
+      "url": "https://eprint.iacr.org/2026/1728"
     },
     "5c11cfad0e880e4088bca1600267d30bdf2999efcb7d79224c945add6a886e32": {
       "processed_at": "2026-08-19T08:25:16.713319Z",
@@ -10560,6 +10620,16 @@
       "title": "GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures",
       "url": "https://arxiv.org/abs/2606.29759v1"
     },
+    "74d649db06e7c22cf1ba9bdbdfaf46553e86a2f2cf87ad28265335009e0d4cf0": {
+      "processed_at": "2026-08-21T22:28:58.000811Z",
+      "published_at": "2026-08-18T18:29:51Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Enhancing Capital Efficiency in DeFi Lending and Liquidity Provision",
+      "url": "https://eprint.iacr.org/2026/1727"
+    },
     "752d654ed8434384d67ec075f74ac4dadb59aff812c7f98b0da355f79dad824d": {
       "processed_at": "2026-07-10T10:45:00.436848Z",
       "published_at": "2026-07-09T06:37:52Z",
@@ -11950,6 +12020,16 @@
       "title": "注意喚起: Palo Alto Networks製PAN-OSにおける認証回避の脆弱性（CVE-2026-0265）に関する注意喚起 (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260015.html"
     },
+    "84d59a421cc9640a6d696161aecb85a7b4a67636fb73fc551c586eb8edd8608a": {
+      "processed_at": "2026-08-21T22:28:58.000836Z",
+      "published_at": "2026-08-18T17:29:03Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Proof-of-Uniqueness: Sybil-Resistant Privacy-Preserving Decentralized Identity through Threshold-OPRF and zk-SNARK Registry",
+      "url": "https://eprint.iacr.org/2026/1725"
+    },
     "84d6b023ac2f874ea105414e8e6485acecfe34d72461358040c73a4c9eaf3771": {
       "processed_at": "2026-08-11T08:44:07.675151Z",
       "published_at": "2026-08-10T17:23:42Z",
@@ -12399,6 +12479,16 @@
       "source_id": "arxiv-crypto",
       "title": "DreamGuard: Efficient Runtime Guardrail for LLM Agents via Risk-Aware World Model",
       "url": "https://arxiv.org/abs/2608.05695v1"
+    },
+    "89da4018c1c5b29264618d628fe5a39cb5d0096bff8787cb16f33a72030aa78d": {
+      "processed_at": "2026-08-21T22:28:58.000824Z",
+      "published_at": "2026-08-18T17:42:28Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Jacobi Signatures, Revisited",
+      "url": "https://eprint.iacr.org/2026/1726"
     },
     "89dd8a9d3c6504fe354b214d9e8cb2c5378db34f19d5a06e8378948294368684": {
       "processed_at": "2026-07-01T11:17:56.313071Z",
@@ -21319,6 +21409,16 @@
       "source_id": "arxiv-crypto",
       "title": "Verifying Intent and Harm: A Unified Defense Against LLM-Generated Threats",
       "url": "https://arxiv.org/abs/2606.26377v1"
+    },
+    "ea81211b75722734bda9730d01179945dd40496b5c155a0957b1e35461d569e4": {
+      "processed_at": "2026-08-21T22:28:58.000748Z",
+      "published_at": "2026-08-19T00:50:10Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Generic Ring-Signature Transforms for Fiat-Shamir with Aborts and Hash-and-Sign with Retry",
+      "url": "https://eprint.iacr.org/2026/1731"
     },
     "ea86cd0e68330e8f561d905d697ad1b87881850e6a616e726f7148c9a0c8e20f": {
       "processed_at": "2026-07-28T10:25:49.978567Z",
