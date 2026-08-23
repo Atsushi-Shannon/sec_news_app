@@ -22230,6 +22230,16 @@
       "title": "CodeSentinel: A Three-Layer Defense Against Indirect Prompt Injection in Code Contexts",
       "url": "https://arxiv.org/abs/2606.19235v1"
     },
+    "f0cb6dbf3548b34eba50ab1bef213e9a6d44271cedaaea5ebcc2340af6d2844e": {
+      "processed_at": "2026-08-23T22:26:28.211348Z",
+      "published_at": "2026-08-12T11:52:32Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Degree-Sum-Freedom Is Not EA Invariant: Exact Profiles in a 4-Uniform Permutation Family",
+      "url": "https://eprint.iacr.org/2026/1662"
+    },
     "f0efb008b053d21777b8e63d47fddd2e718e014b28d4e76fdbc1ee546873a309": {
       "processed_at": "2026-07-23T10:12:14.724692Z",
       "published_at": "2026-07-22T08:43:43Z",
