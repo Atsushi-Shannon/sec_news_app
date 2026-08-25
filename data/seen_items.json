@@ -830,6 +830,16 @@
       "title": "TRIP: Thresholding in Regression with Input Privacy",
       "url": "https://eprint.iacr.org/2026/1302"
     },
+    "096797a561adffa6a4f7462413baa764356aa24cfbf184947df5249db1917d57": {
+      "processed_at": "2026-08-25T08:30:43.399176Z",
+      "published_at": "2026-07-12T06:43:24Z",
+      "score": 23,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "CMALU: Compact Fault-Tolerant Modular Arithmetic Logic Unit for Post-Quantum Cryptography",
+      "url": "https://eprint.iacr.org/2026/1423"
+    },
     "098a75f2ae6b6a49acba63193d9c3c4bc4a75cb822cf12316a88480bd74edcdc": {
       "processed_at": "2026-07-31T10:29:20.196132Z",
       "published_at": "2026-07-31T09:00:00Z",
@@ -6620,6 +6630,16 @@
       "title": "Signing It Twice: Mitigating the Effects of State Reuse for Stateful Signatures",
       "url": "https://eprint.iacr.org/2026/1321"
     },
+    "44edb64cca35c721f411eb1614bdc525c857c63b57d9c33b1d1165f2558587c7": {
+      "processed_at": "2026-08-25T08:30:43.399188Z",
+      "published_at": "2026-06-15T14:07:49Z",
+      "score": -5,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Beyond Anonymity Sets: A Security Model for Distributed Shuffling in Adversarial Environments",
+      "url": "https://eprint.iacr.org/2026/1258"
+    },
     "44f28b1ced589e05bff1c33453034716934db3751dcf6af2c09c60bb14425e33": {
       "processed_at": "2026-07-29T10:33:04.732561Z",
       "published_at": "2026-07-28T15:42:53Z",
@@ -7519,6 +7539,16 @@
       "source_id": "iacr-eprint",
       "title": "Improved Quantum Circuits for Information Set Decoding with Application to Code-Based Cryptography",
       "url": "https://eprint.iacr.org/2026/1411"
+    },
+    "4f338d1d46d808826031431eee4fbf0e1b89d6a161651e891179946f377c6e8f": {
+      "processed_at": "2026-08-25T08:30:43.399138Z",
+      "published_at": "2026-07-29T04:37:08Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Revisiting the Wedge Attack on UOV problem",
+      "url": "https://eprint.iacr.org/2026/1548"
     },
     "4f4c8e5f4feacfa6560852e3f80515dbe7037c6b31f48292e2d76ef2caef8570": {
       "processed_at": "2026-07-30T23:11:58.394623Z",
@@ -19469,6 +19499,16 @@
       "source_id": "iacr-eprint",
       "title": "LUNA+: More Succinct Post-Quantum ZK-SNARKs from Computational Privacy",
       "url": "https://eprint.iacr.org/2026/1639"
+    },
+    "ccace5642991f9bb34070702b2fdfb74031785ea4ccd45e491011284b5025a77": {
+      "processed_at": "2026-08-25T08:30:43.399197Z",
+      "published_at": "2026-06-07T23:07:05Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Grand Danois: Succinct Multilinear Polynomial Commitments over Lattices",
+      "url": "https://eprint.iacr.org/2026/1196"
     },
     "ccb1c4ec1ffbfc2ce4343c8a3cb83d96f9dfd0d68750f3c08d7d879637a8d338": {
       "processed_at": "2026-06-18T07:18:35.071262Z",
