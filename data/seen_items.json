@@ -14270,6 +14270,16 @@
       "title": "Open Problems in List Decoding and Correlated Agreement",
       "url": "https://eprint.iacr.org/2026/680"
     },
+    "90db83d8578c2b691e315279771ceea99abc9858b9c2e3adcf417c2e0e3b69b2": {
+      "processed_at": "2026-08-27T18:38:16.118378Z",
+      "published_at": "2026-08-27T17:02:35Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111"
+    },
     "90dfecaeb4bd1a4c36d75289d9460e2955fb011057a0b5461f0f78229557bd03": {
       "processed_at": "2026-08-20T08:26:33.181008Z",
       "published_at": "2026-08-06T23:15:56Z",
@@ -17989,6 +17999,16 @@
       "source_id": "cloudflare-blog",
       "title": "Improving Smart Tiered Cache for Public Cloud Regions",
       "url": "https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds"
+    },
+    "b51a0d831e03854821d225dd3160108d9ec691a15e996608c7dbad985a350f7d": {
+      "processed_at": "2026-08-27T18:38:16.118424Z",
+      "published_at": "2026-08-27T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "​​​​​​What’s new in Microsoft Security: August 2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026"
     },
     "b533d69b4d31a9ab7061667e74e246c66ad5de0f2a74f4c7deb774747734b549": {
       "processed_at": "2026-07-14T09:47:39.424641Z",
