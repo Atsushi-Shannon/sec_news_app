@@ -7350,6 +7350,16 @@
       "title": "Lower Bounds on Black-Box Constructions of Pseudorandom Functions",
       "url": "https://arxiv.org/abs/2608.14501v1"
     },
+    "46ce8cd65464d5bd5595b3f9d69ce0a33507aa7218dbd87ebc8c0759c4056e37": {
+      "processed_at": "2026-08-29T13:28:56.498169Z",
+      "published_at": "2026-08-29T03:43:27Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion"
+    },
     "46e0508bf5488e66e3f0d1094774286c4e9452bc93849b70c9706c2d84d7589a": {
       "processed_at": "2026-07-14T09:47:39.424576Z",
       "published_at": "2026-07-12T20:40:37Z",
