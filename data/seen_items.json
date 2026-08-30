@@ -4740,6 +4740,16 @@
       "title": "Robocalls: A Worldwide or US-only Problem? Analyzing Spam and Fraud in International Phone Calls",
       "url": "https://arxiv.org/abs/2606.31790v1"
     },
+    "2df7c4778b551c23e76345ad7be2a489c7c51866744324c2776ba10dd6bc8afb": {
+      "processed_at": "2026-08-30T13:25:24.696179Z",
+      "published_at": "2026-08-28T15:14:10Z",
+      "score": -4,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "AVXPoS: Reducing Consensus Verification Cost in the Ethereum Proof-of-Stake Client",
+      "url": "https://eprint.iacr.org/2026/1827"
+    },
     "2e20d63526741f069186b0afe8acd6939b343ca43b8a2c3e397deb7c4597b99f": {
       "processed_at": "2026-07-16T09:58:06.612444Z",
       "published_at": "2026-07-14T18:53:14Z",
@@ -6240,6 +6250,16 @@
       "title": "Updatable Oblivious Key Value Stores with Access Control and Application to Multi Key Searchable Encryption",
       "url": "https://eprint.iacr.org/2026/1590"
     },
+    "3d94169712faf69ba9b5b5980e43d564b2b71ea526e2317ea72973692c15b40f": {
+      "processed_at": "2026-08-30T13:25:24.696150Z",
+      "published_at": "2026-08-29T06:19:36Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "The Extended Wedge Attack",
+      "url": "https://eprint.iacr.org/2026/1830"
+    },
     "3d9f39d68a80609ac04ad2281e24788727babacf3cac41032e4c39206ae25461": {
       "processed_at": "2026-08-10T09:07:59.359804Z",
       "published_at": "2026-08-07T11:00:33Z",
@@ -6339,6 +6359,16 @@
       "source_id": "iacr-eprint",
       "title": "On the Communication Complexity of Sleepy Consensus",
       "url": "https://eprint.iacr.org/2026/960"
+    },
+    "3e6fce1e96f472f2630334cbeb311d424468bcf373b9354230a376f31282423e": {
+      "processed_at": "2026-08-30T13:25:24.696209Z",
+      "published_at": "2026-08-28T09:53:36Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Comparing Privacy-Preserving Revocation for the EUDI Wallet",
+      "url": "https://eprint.iacr.org/2026/1824"
     },
     "3e719ba2de55107ca145c4509c9d2a09a07a02823dfabf072cd830e766eed444": {
       "processed_at": "2026-06-25T10:35:22.791369Z",
@@ -8629,6 +8659,16 @@
       "source_id": "arxiv-crypto",
       "title": "Masking Is Not Enough: Generative Restoration for Multimodal De-Identification in Medical AI",
       "url": "https://arxiv.org/abs/2608.21133v1"
+    },
+    "542ce2f4bf129c6843023433c677e8198444eab0baf193b650d954d61102d7b5": {
+      "processed_at": "2026-08-30T13:25:24.696160Z",
+      "published_at": "2026-08-28T20:46:06Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Decomposed LWE is Equivalent to Succinct LWE",
+      "url": "https://eprint.iacr.org/2026/1829"
     },
     "546f8e223853c4150f5473637e288bc24303e932afcf3eb6e4ed048904c610a4": {
       "processed_at": "2026-07-27T11:10:46.287771Z",
@@ -13310,6 +13350,16 @@
       "title": "LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs",
       "url": "https://arxiv.org/abs/2608.04907v1"
     },
+    "8357672fc621785694295b4226b4b967c12409e1f4e2cd48e6e424f7f793568a": {
+      "processed_at": "2026-08-30T13:25:24.696170Z",
+      "published_at": "2026-08-28T15:26:02Z",
+      "score": 18,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "WeaveTLS: High-Throughput Cross-Connection ML-DSA Authentication in Mutual TLS",
+      "url": "https://eprint.iacr.org/2026/1828"
+    },
     "83646e12f384629fffb4111a805e8b87383c24b6ed26540f055f74b1087d5d47": {
       "processed_at": "2026-08-06T10:28:52.639283Z",
       "published_at": "2026-08-04T19:51:15Z",
@@ -16540,6 +16590,16 @@
       "title": "SoK: From Generation to Consumption of Privacy Documents in Software Systems",
       "url": "https://arxiv.org/abs/2608.12511v1"
     },
+    "a3cb6ba1b6f4e33dd9d5c3120f1077fd85664cd97341350509eb47410423733f": {
+      "processed_at": "2026-08-30T13:25:24.696069Z",
+      "published_at": "2026-08-29T16:48:09Z",
+      "score": 21,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "On the Fault Injection Security of White-box Ciphers",
+      "url": "https://eprint.iacr.org/2026/1833"
+    },
     "a3f2266740bc1719a09a0572eb55d0bc207bd4f480396af84a57b85aa47d48ff": {
       "processed_at": "2026-06-29T12:24:06.392798Z",
       "published_at": "2026-06-26T12:03:27Z",
@@ -17249,6 +17309,16 @@
       "source_id": "arxiv-crypto",
       "title": "COMIC: Reference-Aware Safety Gating for Multimodal Large Language Models",
       "url": "https://arxiv.org/abs/2608.17234v1"
+    },
+    "aa9b14013c88636062be22a38d7bf9823c1d8403df45a1fd8b803131b00f9f3e": {
+      "processed_at": "2026-08-30T13:25:24.696123Z",
+      "published_at": "2026-08-29T08:53:38Z",
+      "score": 15,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Universally Composable Hybrid PAKE Secure Against Harvest-Now-Decrypt-Later Attacks",
+      "url": "https://eprint.iacr.org/2026/1832"
     },
     "aac52f9a6205ea35b037109f1287afba7be7bf924e6a841f6e066d7c17ce747f": {
       "processed_at": "2026-07-30T23:11:58.394830Z",
@@ -18459,6 +18529,16 @@
       "source_id": "iacr-eprint",
       "title": "Slipway: Accessing Finite Subspace Trails in Poseidon",
       "url": "https://eprint.iacr.org/2026/1579"
+    },
+    "b55e6a3979966d633fa1c4a174277ca8bfab0c2d1f8fe41b081905475c973811": {
+      "processed_at": "2026-08-30T13:25:24.696189Z",
+      "published_at": "2026-08-28T15:04:44Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Threshold Encryption with Internally Motivated Corruptions",
+      "url": "https://eprint.iacr.org/2026/1826"
     },
     "b58b96fe76d2487161f9beaf8845107d4ad1d59efb5c6fae3d0c589da3b36d55": {
       "processed_at": "2026-08-21T08:28:10.376450Z",
@@ -22870,6 +22950,16 @@
       "title": "Wireless Backdoor Attack and Defense for Semantic Communications over Multiple Access Channel",
       "url": "https://arxiv.org/abs/2606.30595v1"
     },
+    "dd517841e3190087fc4dc3e0ac1c15d55fa3d3e82c3b3dcc49abdd816e1cd9cb": {
+      "processed_at": "2026-08-30T13:25:24.696139Z",
+      "published_at": "2026-08-29T08:03:59Z",
+      "score": 20,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Silent-Share: Decoupling Hidden Threshold Matching from Pairing Operations via Group-Valued Oblivious Key-Value Stores",
+      "url": "https://eprint.iacr.org/2026/1831"
+    },
     "dd590cea339725738b309fd29ada83616e33b6f37d29c2f396361768522747b9": {
       "processed_at": "2026-08-18T22:27:33.221451Z",
       "published_at": "2026-08-18T15:21:32Z",
@@ -24379,6 +24469,16 @@
       "source_id": "arxiv-crypto",
       "title": "Breaking ACDGV MinRank Gabidulin encryption schemes over matrix codes",
       "url": "https://arxiv.org/abs/2608.03328v1"
+    },
+    "ee2806f9a639ff934bca13604db8db176ed4a8d45659ec09d916aa3ede7e83ec": {
+      "processed_at": "2026-08-30T13:25:24.696198Z",
+      "published_at": "2026-08-28T14:17:31Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Enhanced Differential-linear Cryptanalysis of Forr\\'{o} with MILP",
+      "url": "https://eprint.iacr.org/2026/1825"
     },
     "ee6276258f55a2f5ab7fa0dcbf17cf8d8daba12804edf8a2b4a228e013cbdce6": {
       "processed_at": "2026-07-28T10:25:49.978552Z",
