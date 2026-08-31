@@ -6790,6 +6790,16 @@
       "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access"
     },
+    "418ab48200c56ce0660d5c3438afadcfde39ce0d24740c7efce0e19bbf5ede69": {
+      "processed_at": "2026-08-31T00:18:32.774422Z",
+      "published_at": "2026-05-25T15:12:27Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Full Key Recovery of Masked PRESENT on an Out-of-Order RISC-V Processor: A First Reported Case Study",
+      "url": "https://eprint.iacr.org/2026/1052"
+    },
     "419142f3b17870a8dbbedce08b5500b42ba0de40961db71d0c053a22175092f7": {
       "processed_at": "2026-06-24T10:41:50.825091Z",
       "published_at": "2026-06-23T16:36:40Z",
