@@ -750,6 +750,16 @@
       "title": "The Trust-Free Aggregation Layer of the Unicity Infrastructure",
       "url": "https://arxiv.org/abs/2608.05316v1"
     },
+    "077b3520ac1d36b0c9f489323f21afa5745e1b6fb3633268e12976332fc86ef6": {
+      "processed_at": "2026-09-01T23:53:16.366812Z",
+      "published_at": "2026-08-31T02:02:32Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Quasar: A Field-Agnostic Polynomial Commitment Scheme with Polylogarithmic Verification from Quasi-Abelian Codes",
+      "url": "https://eprint.iacr.org/2026/1839"
+    },
     "078e152932c46908575b8bc64ec8bbc0414b391030c7a33efeeb7831f1beb956": {
       "processed_at": "2026-06-23T10:55:48.540359Z",
       "published_at": "2026-06-22T04:20:30Z",
@@ -1659,6 +1669,16 @@
       "source_id": "arxiv-crypto",
       "title": "Adversarial Prompting Framework for AI Safety Assessment",
       "url": "https://arxiv.org/abs/2607.13453v1"
+    },
+    "1154625d8c62afd22d11795b079bd012c7b8215506817385c54645379c61cfdc": {
+      "processed_at": "2026-09-01T23:53:16.366799Z",
+      "published_at": "2026-08-31T04:53:50Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Avoiding Product-Denominator Blowup in Lattice-Folding Extraction",
+      "url": "https://eprint.iacr.org/2026/1841"
     },
     "116f59d76675267266299de9eb353ceb6fc49e9f495d0f98052d73e3af88d0da": {
       "processed_at": "2026-09-01T01:07:22.589262Z",
@@ -8440,6 +8460,16 @@
       "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
       "url": "https://arxiv.org/abs/2608.31142v1"
     },
+    "4d827fb2c88904d89bf00772a43b706a0818ab5cd3998a5320ce419dede7eb77": {
+      "processed_at": "2026-09-01T23:53:16.366831Z",
+      "published_at": "2026-08-30T08:44:31Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Improved Conversion for Gao-Zheng FHE Scheme with $O(1)$ Bootstrapping",
+      "url": "https://eprint.iacr.org/2026/1836"
+    },
     "4d8c1467fd4dd4ac45a1f8040ca848e9a6b0597302e703a9d9f696c2e44c8f20": {
       "processed_at": "2026-08-13T09:03:40.105071Z",
       "published_at": "2026-08-11T20:42:56Z",
@@ -9049,6 +9079,16 @@
       "source_id": "arxiv-crypto",
       "title": "Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence",
       "url": "https://arxiv.org/abs/2608.06778v1"
+    },
+    "53bd1701f47d1052d7188b0b803a6f4795afe689bab7b7693cbb574b753d0c8b": {
+      "processed_at": "2026-09-01T23:53:16.366761Z",
+      "published_at": "2026-09-01T12:59:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding"
     },
     "53f1e9c65e6f0efa1fb167a105402b6584a52765f95487760b5207d854027a8a": {
       "processed_at": "2026-08-27T03:01:12.356978Z",
@@ -12250,6 +12290,16 @@
       "title": "Weekly Report: Wiresharkに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html"
     },
+    "730318ef7ce289a6f854fd5333e38bc5dba1fb0fd052a7f4e1c418b607caccde": {
+      "processed_at": "2026-09-01T23:53:16.366838Z",
+      "published_at": "2026-08-30T07:55:48Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Wagner's $k$-Tree Revisited: Memory-Time Costs of Preimage Attacks on Incremental Hashes",
+      "url": "https://eprint.iacr.org/2026/1835"
+    },
     "73100ed3d6b99ab796bca88dc37b796ba9c6c7d6352c434ec6231ff5e536ea76": {
       "processed_at": "2026-08-12T22:46:02.165637Z",
       "published_at": "2026-08-11T17:45:59Z",
@@ -12639,6 +12689,16 @@
       "source_id": "arxiv-crypto",
       "title": "NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms",
       "url": "https://arxiv.org/abs/2606.20408v3"
+    },
+    "7662410c8f509ad37c505ae92b841a27e5857590b4f72a521a1b36695fb45e7a": {
+      "processed_at": "2026-09-01T23:53:16.366773Z",
+      "published_at": "2026-08-31T16:35:17Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Lattice-based NIKE with optimal tightness",
+      "url": "https://eprint.iacr.org/2026/1845"
     },
     "76a08b51855f9aca6d190bf7606b7700a546c25903d567837da99886fa06ac2f": {
       "processed_at": "2026-08-06T10:28:52.639329Z",
@@ -14120,6 +14180,16 @@
       "title": "A Bird's-Eye View on Security Considerations in RFCs",
       "url": "https://arxiv.org/abs/2608.09865v1"
     },
+    "84e35948eb57967772984e602440e5abc6ae1b8dbec49d08fd99c8fba4e501f9": {
+      "processed_at": "2026-09-01T23:53:16.366779Z",
+      "published_at": "2026-08-31T16:22:17Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Discrete Gaussian Sampling Meets BDGL Decoding: Solving the Shortest Vector Problem in $2^{0.5596n+o(n)}$ Time",
+      "url": "https://eprint.iacr.org/2026/1844"
+    },
     "84fce02616c77e97421ca63b68661dd6fb9fbff272daf35bdad49ec080c5bb8d": {
       "processed_at": "2026-06-18T07:18:35.071749Z",
       "published_at": "2026-06-14T10:19:23Z",
@@ -14159,6 +14229,16 @@
       "source_id": "microsoft-security-blog",
       "title": "Enhancing AI security through global AI red teaming",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming"
+    },
+    "852dc35dd28b34b3883efec96d0ffb1efe51ae7419108e9031ebe7ca3a77348a": {
+      "processed_at": "2026-09-01T23:53:16.366805Z",
+      "published_at": "2026-08-31T02:58:40Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Arithmetic-to-Boolean Conversion in ALU with O(1) Bootstrapping via Overflow Cancellation",
+      "url": "https://eprint.iacr.org/2026/1840"
     },
     "8542f138989b68844638da9c3aeb3a6bc13459eb55525048bb8c92165d3f1b79": {
       "processed_at": "2026-07-10T10:45:00.436805Z",
@@ -15660,6 +15740,16 @@
       "title": "Full-Key Recovery and Forgery from One MQOM v2.1 Signature",
       "url": "https://arxiv.org/abs/2608.09699v2"
     },
+    "93e8a8c507797b453433ee990922614560f70b2684ffd2c47a56d18fe43016da": {
+      "processed_at": "2026-09-01T23:53:16.366752Z",
+      "published_at": "2026-09-01T18:55:35Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Cybersecurity IR Workshop: The workshop you shouldn’t miss",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss"
+    },
     "93f2773a443e0216a728916c87bde72132e50f90be8113b306683f2e3d615fed": {
       "processed_at": "2026-07-08T10:08:21.464867Z",
       "published_at": "2026-07-07T09:39:58Z",
@@ -16240,6 +16330,16 @@
       "title": "Efficient and Privacy Aware Edge Cloud Collaborative Inference for Large Language Models",
       "url": "https://arxiv.org/abs/2607.13093v2"
     },
+    "99fba008b41cc33d4f96b1a8215230605471a711caab0729e8e8fb35b02fd6cf": {
+      "processed_at": "2026-09-01T23:53:16.366844Z",
+      "published_at": "2026-08-30T00:54:12Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Quantum Pessiland",
+      "url": "https://eprint.iacr.org/2026/1834"
+    },
     "9a20950451fa5e136cc17a3c5afbbe3a8a25fa81e9a0c3772aa7a1647f4a61a7": {
       "processed_at": "2026-08-28T19:47:31.123784Z",
       "published_at": "2026-08-27T11:50:22Z",
@@ -16369,6 +16469,16 @@
       "source_id": "jpcert-cc",
       "title": "注意喚起: MetabaseのSQLインジェクションの脆弱性（CVE-2026-72898）に関する注意喚起 (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260023.html"
+    },
+    "9b5ffa7af732fd0a33c0e789141ea89513474bec5922871272e1bff0190e921b": {
+      "processed_at": "2026-09-01T23:53:16.366768Z",
+      "published_at": "2026-08-31T16:36:43Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Covert Federated Learning under Regulation based on Threshold Anamorphic Encryption",
+      "url": "https://eprint.iacr.org/2026/1846"
     },
     "9b62364c2b7ef09c2257b63628ef0dda34f1b7c3c9546f90fec81df096cfc0cc": {
       "processed_at": "2026-07-30T23:11:58.394666Z",
@@ -17009,6 +17119,16 @@
       "source_id": "arxiv-crypto",
       "title": "Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring",
       "url": "https://arxiv.org/abs/2608.11802v1"
+    },
+    "a1078de5abf55aa4c843efebdd6fcfe1fa8060700f1e187cf700df09b40e3bdd": {
+      "processed_at": "2026-09-01T23:53:16.366824Z",
+      "published_at": "2026-08-30T14:04:34Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Enhanced Differential-Linear Cryptanalysis of ChaCha Based on Bit Puncturing",
+      "url": "https://eprint.iacr.org/2026/1837"
     },
     "a123b18f5cc869cefa79314ed10554da8c8bfda0c2c7ea1354cb7a3c3d1594d0": {
       "processed_at": "2026-06-25T10:35:22.791657Z",
@@ -19939,6 +20059,16 @@
       "source_id": "iacr-eprint",
       "title": "LetoPIR: Fast Keyword Private Information Retrieval with Logarithmic Communication",
       "url": "https://eprint.iacr.org/2026/1814"
+    },
+    "badea86ffd37111e658b54b82bcbc334ea02788df46b81bfc7f79d7c0707e166": {
+      "processed_at": "2026-09-01T23:53:16.366818Z",
+      "published_at": "2026-08-31T00:43:36Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "How to prove more false statements: Fiat–Shamir limitations on (generated) R1CS",
+      "url": "https://eprint.iacr.org/2026/1838"
     },
     "baf5a48d8e5d87c92faf7859ef546ce8ab52410d121963443da17239cece8bd7": {
       "processed_at": "2026-08-19T08:25:16.713340Z",
@@ -25100,6 +25230,16 @@
       "title": "Towards the Impossibility of Imperfectly Complete Key Agreement in the QROM",
       "url": "https://arxiv.org/abs/2608.17610v1"
     },
+    "eaa66ae3ad9c16ca35a6ca5b2ed2f0f06f0a9c1de6b1d2fb51d856a011226f2b": {
+      "processed_at": "2026-09-01T23:53:16.366716Z",
+      "published_at": "2026-09-01T22:48:28Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign"
+    },
     "eabffcc342f4ba5f55db69bb33bd50d6760388daf630b9aa634423529664ffa1": {
       "processed_at": "2026-08-10T09:07:59.359821Z",
       "published_at": "2026-08-07T10:13:13Z",
@@ -25759,6 +25899,16 @@
       "source_id": "iacr-eprint",
       "title": "Statistically Undetectable Backdoors in Deep Neural Networks",
       "url": "https://eprint.iacr.org/2026/1408"
+    },
+    "f1ca820fcb94a34348679ca807d8418421db5b771d905ee9b0e8a66f42261490": {
+      "processed_at": "2026-09-01T23:53:16.366793Z",
+      "published_at": "2026-08-31T09:57:34Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Arion: Arithmetization-Oriented Hashing for Zero-Knowledge Proof Systems",
+      "url": "https://eprint.iacr.org/2026/1842"
     },
     "f1df9d50b708ec7866fb6fa97150703df97fd60762280ee387a8896db3605b5a": {
       "processed_at": "2026-08-20T08:26:33.180705Z",
@@ -26839,6 +26989,16 @@
       "source_id": "iacr-eprint",
       "title": "Adaptor Signatures Meet BLS: Enabling Efficient Blockchain Applications with Unique Adaptor Signatures",
       "url": "https://eprint.iacr.org/2026/1394"
+    },
+    "fb79f95887b32592f098a4858a5be149a4526b7d61dd4ffd60136d48a58b1558": {
+      "processed_at": "2026-09-01T23:53:16.366786Z",
+      "published_at": "2026-08-31T10:06:29Z",
+      "score": 27,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "APEX: AFS-based Permutation family for Efficiency and eXtensibility (feat. the APEX Suite)",
+      "url": "https://eprint.iacr.org/2026/1843"
     },
     "fb8a525985e821d94d978b75d4658ae24084cc211058c40a0044b4a4e6a2d6dd": {
       "processed_at": "2026-08-18T08:24:32.370418Z",
