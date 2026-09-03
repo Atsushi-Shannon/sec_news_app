@@ -6290,6 +6290,16 @@
       "title": "Adaptive Security at the Edge for 6G-Enabled Healthcare IoT",
       "url": "https://arxiv.org/abs/2607.27858v1"
     },
+    "385f50a550cca1735addb94ce296134b943b82a9d1cb5742541a78e4f7b2c3b4": {
+      "processed_at": "2026-09-03T23:52:04.619637Z",
+      "published_at": "2026-09-03T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion"
+    },
     "3870e5445198d7fb32f850ad14c4ce1a227e0c81a9b3da712464d75834d3e3c7": {
       "processed_at": "2026-07-08T10:08:21.465013Z",
       "published_at": "2026-06-23T07:31:03Z",
@@ -8969,6 +8979,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: 複数のアドビ製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
+    },
+    "4fdc93ad71da16e49bc90d4b86c21a38bfe3cabc14135a7a11a2b218383e137e": {
+      "processed_at": "2026-09-03T23:52:04.619595Z",
+      "published_at": "2026-09-03T21:03:02Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation"
     },
     "4ff2066bbf862d885d220df0fb51fe42fa7117c86db043a48ea882c1e9b10fdb": {
       "processed_at": "2026-08-21T08:28:10.376499Z",
@@ -13829,6 +13849,16 @@
       "source_id": "arxiv-crypto",
       "title": "ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents",
       "url": "https://arxiv.org/abs/2607.07774v1"
+    },
+    "7c7113984b7b9cefd3163bf14fe9de9bee1ff843ecf172215508928a687d73af": {
+      "processed_at": "2026-09-03T23:52:04.619670Z",
+      "published_at": "2026-09-02T05:37:23Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "(Im)possibility of Asynchronous MPC with Honest Majority over Blockchains",
+      "url": "https://eprint.iacr.org/2026/1860"
     },
     "7c9bbd7d9b5f0e29aba4eccf18b44ccc67c170951b38c17a75baa8f3ca3bea0f": {
       "processed_at": "2026-06-30T10:49:24.831352Z",
@@ -20500,6 +20530,16 @@
       "title": "Privacy-Preserving Identity Management and Software Bill of Materials Vulnerability Detection: Practical Use Cases from the PRIVIDEMA Project",
       "url": "https://eprint.iacr.org/2026/1536"
     },
+    "b8195fa19742ac91dfdd9494972a95366af091dc3ab750b2d8787612d1ef44e0": {
+      "processed_at": "2026-09-03T23:52:04.619683Z",
+      "published_at": "2026-09-02T02:32:07Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Finding a Shortest Vector and More in $2^{n/2+o(n)}$ Time using $q$-ary Coset Difference Tree",
+      "url": "https://eprint.iacr.org/2026/1859"
+    },
     "b84578f20ee9f271b269ae586f683f3f95ff066e4af50af646ce2edfd855c32e": {
       "processed_at": "2026-08-19T08:25:16.712947Z",
       "published_at": "2026-08-19T00:08:00Z",
@@ -26399,6 +26439,16 @@
       "source_id": "arxiv-crypto",
       "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
       "url": "https://arxiv.org/abs/2607.16175v1"
+    },
+    "ecc96f5f12aa6c17134da1e790858dacee083f34143dee2755a57f11125456c2": {
+      "processed_at": "2026-09-03T23:52:04.619656Z",
+      "published_at": "2026-09-02T08:26:54Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Anonymous Attribute-Based Signcryption: Definitions, Constructions, and Applications",
+      "url": "https://eprint.iacr.org/2026/1861"
     },
     "ecced4ff9efb9579f3524663e110b28060444eff616989504d0250fea1a0f376": {
       "processed_at": "2026-06-25T10:35:22.791493Z",
