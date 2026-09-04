@@ -13430,6 +13430,16 @@
       "title": "Weekly Report: 制御システムセキュリティカンファレンス2027講演募集",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html"
     },
+    "76e773d532714a8b8977741b46568bee18c6a18b995f38745afa4990ae608a5b": {
+      "processed_at": "2026-09-04T23:49:32.725273Z",
+      "published_at": "2026-09-04T19:10:10Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "How to secure edge AI in customer-owned environments",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments"
+    },
     "77081c98793a9d966f9e08d73d573b329bb09a28f959f1abd6dcf555bd2e2d5b": {
       "processed_at": "2026-08-13T09:03:40.105186Z",
       "published_at": "2026-08-09T20:42:19Z",
