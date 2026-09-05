@@ -8660,6 +8660,16 @@
       "title": "The Agent Access Model",
       "url": "https://blog.cloudflare.com/the-agent-access-model"
     },
+    "4b2ff5b2efdaaa5ec680087c74cb5ba0f8fae2bc8f2f12e3049af9c9da0a2bbe": {
+      "processed_at": "2026-09-05T11:29:12.027295Z",
+      "published_at": "2026-08-12T13:14:27Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Average-Case Matrix Code Conjugacy in Arbitrary Dimension",
+      "url": "https://eprint.iacr.org/2026/1664"
+    },
     "4b3c3367088a8ad3c603f78f58d24b76b9b628888af06a3e0571869e7714c471": {
       "processed_at": "2026-07-10T23:01:50.799817Z",
       "published_at": "2026-07-07T21:15:19Z",
