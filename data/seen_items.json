@@ -5620,6 +5620,16 @@
       "title": "StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection",
       "url": "https://arxiv.org/abs/2608.06477v1"
     },
+    "30a8f5f8d8117361e4cd3fbbd74c4f51ae26d945aca23637a66a9731bac566da": {
+      "processed_at": "2026-09-06T23:37:53.468116Z",
+      "published_at": "2026-09-02T10:47:56Z",
+      "score": 19,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Polytopic Sieving: Practical Low-Data Key-Recovery Attacks on Reduced-Round AES",
+      "url": "https://eprint.iacr.org/2026/1865"
+    },
     "30b4bdbc022e58d3237fd389deb7de6d1de8aaa7d9ccaf76652bca01701bcc82": {
       "processed_at": "2026-07-16T09:58:06.612333Z",
       "published_at": "2026-07-15T06:20:37Z",
@@ -8320,6 +8330,16 @@
       "title": "The MDS or NMDS for Modified GRS codes with flexible hull dimensions and lengths",
       "url": "https://arxiv.org/abs/2606.25662v1"
     },
+    "4833963d0eb508371efb280e2a693349fbb8176177f0214b4eb122d8d2395f3f": {
+      "processed_at": "2026-09-06T23:37:53.468070Z",
+      "published_at": "2026-09-02T17:24:33Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Terrazzo: Memory-Aware GPU Framework for Private Transformer Inference",
+      "url": "https://eprint.iacr.org/2026/1870"
+    },
     "486243ad173b5d7cedb681a1316600d2ffd1277242855e7ba3733aa074ead9d1": {
       "processed_at": "2026-07-14T09:47:39.424529Z",
       "published_at": "2026-07-13T12:21:08Z",
@@ -9099,6 +9119,16 @@
       "source_id": "iacr-eprint",
       "title": "Conditional-Affine Redundant Clauses for SHA-256 Differential SAT",
       "url": "https://eprint.iacr.org/2026/1505"
+    },
+    "4f6cef69d876d86367da232ab271f136508543e8510b51ddbc060e869525b302": {
+      "processed_at": "2026-09-06T23:37:53.468043Z",
+      "published_at": "2026-09-02T18:45:41Z",
+      "score": -5,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Fully Fluctuating Sleepy Consensus from Minimal Assumptions",
+      "url": "https://eprint.iacr.org/2026/1873"
     },
     "4f80e50baf88e5969e5f5a5faaaa92acfa5267c9c47fe50bb67c5cadb862dcee": {
       "processed_at": "2026-09-04T12:22:54.684682Z",
@@ -11430,6 +11460,16 @@
       "title": "Weekly Report: 複数のSAP製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html"
     },
+    "6552a23229ddaa32786e75f535d541a33e750bcb0805e0300d9caae0b466822a": {
+      "processed_at": "2026-09-06T23:37:53.468080Z",
+      "published_at": "2026-09-02T16:05:45Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "High-Precision Homomorphic ALU over Arbitrary Moduli with $O(1)$ Bootstrapping",
+      "url": "https://eprint.iacr.org/2026/1869"
+    },
     "655ff3fcbe181388bd7a2ce1030eac5d3bb82bdfd1701f43ccd198d88b5d80dd": {
       "processed_at": "2026-06-25T10:35:22.791560Z",
       "published_at": "2026-06-24T09:16:13Z",
@@ -13730,6 +13770,16 @@
       "title": "HACC: A Scalable Hierarchical Accumulator with Sublinear Cost for Large Dynamic Sets",
       "url": "https://eprint.iacr.org/2026/1407"
     },
+    "79e95bf0f9b19d6dd08f6a61ea1c8d69e9ebf622f1825908019907b7bd092223": {
+      "processed_at": "2026-09-06T23:37:53.468107Z",
+      "published_at": "2026-09-02T13:00:30Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Peeling Nonlinear Layers: Algebraic Cryptanalysis of Full-Round Iasta",
+      "url": "https://eprint.iacr.org/2026/1866"
+    },
     "7a0283a052715b9c018d6cf726159120c7a0b2d97f053887b4f81d85c1186dde": {
       "processed_at": "2026-06-18T07:18:35.071901Z",
       "published_at": "2026-06-04T04:10:58Z",
@@ -14610,6 +14660,16 @@
       "title": "GNSS Spoofing Threat for V2X communications",
       "url": "https://arxiv.org/abs/2606.20215v1"
     },
+    "80ced1984dd5948d52c859587c806d6ce3448caa2863d618749fb8aa2dd70434": {
+      "processed_at": "2026-09-06T23:37:53.468089Z",
+      "published_at": "2026-09-02T14:43:12Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Zero-Knowledge PCPs of Quasilinear Size via Locally Simulatable Sheaf Codes",
+      "url": "https://eprint.iacr.org/2026/1868"
+    },
     "80db9e4325b4378eb75d8f5f7001c57ff77998e588b5a0ab24743dbba93ab492": {
       "processed_at": "2026-07-09T10:51:22.421504Z",
       "published_at": "2026-07-08T06:40:01Z",
@@ -14769,6 +14829,16 @@
       "source_id": "arxiv-crypto",
       "title": "QUBO Modeling of Module Learning With Errors: Stability and Scaling in Post-Quantum Cryptography",
       "url": "https://arxiv.org/abs/2607.05973v1"
+    },
+    "8237b5ebf9a50132d4afe155a792efbb9f21b8d58c9db0999295bdbd790c745c": {
+      "processed_at": "2026-09-06T23:37:53.468053Z",
+      "published_at": "2026-09-02T17:54:49Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "DNSPIR: Private Information Retrieval Optimized for Privacy-Preserving DNS Lookups",
+      "url": "https://eprint.iacr.org/2026/1872"
     },
     "82585b47031a9d98261f6aecd67ae729e2e052df00704f8460cd3b45e4c8bbed": {
       "processed_at": "2026-07-22T10:15:50.564246Z",
@@ -15320,6 +15390,16 @@
       "title": "Memory Provenance Laundering in LLM Agents: A Non-Amplification Firewall for Persistent Memory",
       "url": "https://arxiv.org/abs/2607.29167v1"
     },
+    "87b4d4e18cd09d34d7b548a684cd6a17efa31500ff5ff2398e8f691b54327757": {
+      "processed_at": "2026-09-06T23:37:53.467979Z",
+      "published_at": "2026-09-03T02:53:02Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Equivalence Classes of BOGI-Based Ciphers for Differential and Linear Cryptanalysis",
+      "url": "https://eprint.iacr.org/2026/1875"
+    },
     "87be204a229cf74ffb7e895905ae2ff7156b2a711bb2c09611926587749af6f4": {
       "processed_at": "2026-06-30T10:49:24.831393Z",
       "published_at": "2026-06-29T14:34:43Z",
@@ -15869,6 +15949,16 @@
       "source_id": "microsoft-security-blog",
       "title": "Rethinking security for the age of AI",
       "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai"
+    },
+    "8c82986ea7c61c0e0730afee26fa7465a6dc5a46c65f2a610553d68285b1107d": {
+      "processed_at": "2026-09-06T23:37:53.468098Z",
+      "published_at": "2026-09-02T14:25:26Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Simple Compiler for CCA2-Secure Pseudorandom Codes in the Standard Model",
+      "url": "https://eprint.iacr.org/2026/1867"
     },
     "8cb140798881b987853e2d34431708bfa194dc471a461ea1a2ffd5268526dc60": {
       "processed_at": "2026-08-25T22:31:57.460828Z",
@@ -21330,6 +21420,16 @@
       "title": "Information-Theoretic SFE and PFE with Reduced Communication",
       "url": "https://eprint.iacr.org/2026/1647"
     },
+    "bd2b230f1e816dccd2761d13dd57dd40de1e71f03d6017dfec25ced00c75907d": {
+      "processed_at": "2026-09-06T23:37:53.468028Z",
+      "published_at": "2026-09-02T22:43:08Z",
+      "score": 16,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Collusion-Resistant Constrained PRFs for Compute-&-Compare Predicates from LWE",
+      "url": "https://eprint.iacr.org/2026/1874"
+    },
     "bd2d204b5e206aadbffbc0e1fdc86e92fbc02e576c8f938ce293291c956227cb": {
       "processed_at": "2026-08-11T08:44:07.675206Z",
       "published_at": "2026-08-10T14:22:46Z",
@@ -26419,6 +26519,16 @@
       "source_id": "arxiv-crypto",
       "title": "Measuring Healthcare Data Leaks and Security Flaws at Internet Scale",
       "url": "https://arxiv.org/abs/2607.04965v1"
+    },
+    "e92ac481c7a11de0a002e012f9b8aae032df061e7c5d03dcd99bd6ec62a869cc": {
+      "processed_at": "2026-09-06T23:37:53.468062Z",
+      "published_at": "2026-09-02T17:37:18Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "PEEV: Parse Encrypt Execute Verify - A Verifiable FHE Framework",
+      "url": "https://eprint.iacr.org/2026/1871"
     },
     "e952d8cf8960cb53f4b698961dcc3f49f9cccca03f9fe56181c4962d47725e60": {
       "processed_at": "2026-06-18T07:18:35.071695Z",
