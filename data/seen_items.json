@@ -7570,6 +7570,16 @@
       "title": "A New Characteristic-Uniform Model for Elliptic Curves -- Theory, Arithmetic, and Applications",
       "url": "https://arxiv.org/abs/2608.01675v4"
     },
+    "413fd17c48cdf3fa1f9d29c7ca492f1d3aea28d9f468da2f52ed60b73aff0db4": {
+      "processed_at": "2026-09-08T23:56:30.463646Z",
+      "published_at": "2026-09-08T13:10:00Z",
+      "score": 16,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins"
+    },
     "4144d3f17cbf6e004e5362bd77873d6d7aa5dbb04ffe36ea0d4645618cdf2fa3": {
       "processed_at": "2026-06-26T10:44:46.362529Z",
       "published_at": "2026-06-25T05:44:18Z",
