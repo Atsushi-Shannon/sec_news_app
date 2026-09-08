@@ -13290,6 +13290,16 @@
       "title": "Statistically-Secure Bit Commitment and Coin Flipping Protocols Based on Quantum Hardware Assumptions",
       "url": "https://arxiv.org/abs/2608.11187v1"
     },
+    "732a9c1442e722052dcc6cfdfb1f6574d5bcce928be1df15fb48f00a29c41abb": {
+      "processed_at": "2026-09-08T12:24:06.287800Z",
+      "published_at": "2026-09-04T18:34:05Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Dynasaurs: Efficient Universal Dynamic zkSNARKs from Sparse Linear Arguments",
+      "url": "https://eprint.iacr.org/2026/1892"
+    },
     "7336b16b20d1a4e6cd12b9196a5822ae59ff2be03decf28509a6bf1bc8f300c7": {
       "processed_at": "2026-09-02T12:24:06.862868Z",
       "published_at": "2026-09-01T14:53:41Z",
