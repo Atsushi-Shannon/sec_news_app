@@ -1970,6 +1970,16 @@
       "title": "Pushing the boundaries of group-based aggregation with zero-evading generators of low additive complexity",
       "url": "https://eprint.iacr.org/2026/1148"
     },
+    "11f7661997dacdcbe49f46bad5f5ac26a06d0d05916bc86772eaaf1c08d9def8": {
+      "processed_at": "2026-09-09T23:56:04.137779Z",
+      "published_at": "2026-09-09T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs"
+    },
     "1210ae3c9c8672850087f14e8e777f4b22f2504f4e65847e741a4be08fe0b1c8": {
       "processed_at": "2026-06-30T10:49:24.831465Z",
       "published_at": "2026-06-29T10:51:13Z",
@@ -3299,6 +3309,16 @@
       "source_id": "arxiv-crypto",
       "title": "zQR: A Verifiable QR-Driven zkSNARK Proof Verification Framework for Mobile Platforms",
       "url": "https://arxiv.org/abs/2606.27092v1"
+    },
+    "1d3134719d1755ef50090d7937bfc30a2ade01bd16fd008f7ccadefdf8ba8019": {
+      "processed_at": "2026-09-09T23:56:04.137760Z",
+      "published_at": "2026-09-09T17:41:18Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise"
     },
     "1d76acf1c1bc839cb1a06f58b769db2234c37d58e0b57a93dedc613fdf053692": {
       "processed_at": "2026-07-13T10:50:50.528629Z",
@@ -11430,6 +11450,16 @@
       "title": "A Note on Single-Server QPIR from One-Way Functions",
       "url": "https://eprint.iacr.org/2026/1524"
     },
+    "605957d91bd85f05374745149b6c0b8d03cf3f2dd096e4363f0d3b1b2e0481a1": {
+      "processed_at": "2026-09-09T23:56:04.137698Z",
+      "published_at": "2026-09-09T21:30:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Threat Matrix: Mapping threats across cloud web applications",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications"
+    },
     "608ee7d0249dd96364d19311b305f41c461b7e5cdf37c326c8de5804ef129703": {
       "processed_at": "2026-08-06T10:28:52.639074Z",
       "published_at": "2026-08-05T10:57:00Z",
@@ -14159,6 +14189,16 @@
       "source_id": "arxiv-crypto",
       "title": "LLM-Based Penetration Testing in the Presence of Honeypots",
       "url": "https://arxiv.org/abs/2609.08093v1"
+    },
+    "783224bc78a82624086003a663e5464d05fae3c83fed40301237b3f4171fffab": {
+      "processed_at": "2026-09-09T23:56:04.137794Z",
+      "published_at": "2026-08-19T17:27:02Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "One Proof to Rule Them All: Practical, Sublinear Verification for Actively Secure MPC on $\\mathbb{Z}_{2^k}$ with Dishonest Majority and a Dealer (Full Version)",
+      "url": "https://eprint.iacr.org/2026/1741"
     },
     "785e4fbbfc1f83412c4d9729bfddfecf07888312fae3627f22ed3f2efd0d744b": {
       "processed_at": "2026-07-23T10:12:14.724707Z",
