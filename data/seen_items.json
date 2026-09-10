@@ -60,6 +60,16 @@
       "title": "Privacy-Preserving Counterfactual Explanations for Federated AI",
       "url": "https://eprint.iacr.org/2026/1488"
     },
+    "00c3ac0f10eb0e7b9365ced288299b5559a1df3a6c09f23dbf46213df5c166af": {
+      "processed_at": "2026-09-10T23:51:28.299597Z",
+      "published_at": "2026-08-11T15:54:32Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Transaction Traceability for Auditable Privacy-Preserving Ledgers",
+      "url": "https://eprint.iacr.org/2026/1659"
+    },
     "00cd1da12b3b89d44f64c35dcb84f82525224430d6f173312f7c40e0feafa98d": {
       "processed_at": "2026-07-02T23:12:42.116511Z",
       "published_at": "2026-06-29T14:45:25Z",
@@ -13230,6 +13240,16 @@
       "title": "Find Before You Fine-Tune: A Diagnostic Study of Small LLMs for Cybersecurity QA",
       "url": "https://arxiv.org/abs/2607.18725v1"
     },
+    "6e294b4bc2343443dbe8d49b71d389db71dbc99a909897fddb7b41dae8a7c79c": {
+      "processed_at": "2026-09-10T23:51:28.299586Z",
+      "published_at": "2026-09-07T15:50:44Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "AIPA: Anonymous Image Provenance Authentication in Online Social Networks via Unlinkable Pseudonym Certificates and zk-SNARKs",
+      "url": "https://eprint.iacr.org/2026/1914"
+    },
     "6e2f010b60990cc1ce154f198edcd8ffa73f2f5051749de23cf132eef6bfdfcb": {
       "processed_at": "2026-08-28T06:02:03.415280Z",
       "published_at": "2026-08-26T14:03:24Z",
@@ -15430,6 +15450,16 @@
       "title": "S12X Patch Diffing with QBinDiff",
       "url": "https://arxiv.org/abs/2608.05350v1"
     },
+    "7fb46dd4507212a0bae53d218d33245d828bfacb876e9089c847e612001eb370": {
+      "processed_at": "2026-09-10T23:51:28.299489Z",
+      "published_at": "2026-09-10T17:23:05Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud"
+    },
     "7fbb756366a7a1d0556040e4e71d8a2cea8d33fb5fd6c45eced9b20cd9a97555": {
       "processed_at": "2026-07-01T23:20:20.299519Z",
       "published_at": "2026-05-05T11:00:00Z",
@@ -17529,6 +17559,16 @@
       "source_id": "arxiv-crypto",
       "title": "HijackKV: New Threat in Position-Independent KV Cache Reuse",
       "url": "https://arxiv.org/abs/2607.19957v2"
+    },
+    "91fc2d5b5674ada084b7d7216063b74860ee9e637f09b43ac397e3fdb0c20583": {
+      "processed_at": "2026-09-10T23:51:28.299573Z",
+      "published_at": "2026-09-10T13:00:00Z",
+      "score": 16,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111"
     },
     "920d54acbec6c174033c2a373a30de04e0ad6100d80e460e4a625ff7cbfefa35": {
       "processed_at": "2026-07-16T09:58:06.612459Z",
@@ -19749,6 +19789,16 @@
       "source_id": "arxiv-crypto",
       "title": "Adversarial Entropy Inflation Against Gumbel-Based Inference Verification",
       "url": "https://arxiv.org/abs/2608.23375v1"
+    },
+    "a5621ce9268f7a7950287588adc7e763f87f4ce8f0755dfbc24ec67df7042399": {
+      "processed_at": "2026-09-10T23:51:28.299555Z",
+      "published_at": "2026-09-10T16:00:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender"
     },
     "a5751f9da29398275926734cbcba4bf16be2abc6fd1ccfca2f33df073072cd80": {
       "processed_at": "2026-08-24T08:37:00.979656Z",
