@@ -10370,6 +10370,16 @@
       "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
       "url": "https://blog.cloudflare.com/cache-transcoding"
     },
+    "53c7f7ec54b1d15e5ff937c10beb7a1302ac5b3caf5850053d6da31a37fcd8dc": {
+      "processed_at": "2026-09-12T23:52:11.996423Z",
+      "published_at": "2026-05-27T13:56:26Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Proactive Secret Sharing without Erasures",
+      "url": "https://eprint.iacr.org/2026/1072"
+    },
     "53f1e9c65e6f0efa1fb167a105402b6584a52765f95487760b5207d854027a8a": {
       "processed_at": "2026-08-27T03:01:12.356978Z",
       "published_at": "2026-08-26T17:38:45Z",
