@@ -23730,6 +23730,16 @@
       "title": "Weekly Report: Veeam Backup & Replicationにリモートコード実行につながる脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
     },
+    "c176eb7a004f4eaebc9d5ee6197aff1b1b906dc137d17ce70650c830754e5112": {
+      "processed_at": "2026-09-13T12:57:19.079989Z",
+      "published_at": "2026-08-23T08:53:29Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Bootstrapping via Ring Switching without Slot Recovery",
+      "url": "https://eprint.iacr.org/2026/1779"
+    },
     "c1a61d4fabb43faec126cd570e995871d4c55bd8fa45d10991c1c02f21f6c3df": {
       "processed_at": "2026-08-24T08:37:00.979421Z",
       "published_at": "2026-08-23T09:49:47Z",
@@ -24349,6 +24359,16 @@
       "source_id": "iacr-eprint",
       "title": "Principles for pRHL Proofs of Cryptographic Protocols: How to Convince EasyCrypt that your Protocol is Secure",
       "url": "https://eprint.iacr.org/2026/1334"
+    },
+    "c6644856c6d5d2461718c8759edf4921ebc1200268d2d10b654541f5e133b6b4": {
+      "processed_at": "2026-09-13T12:57:19.080048Z",
+      "published_at": "2026-05-13T18:21:25Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Formalizing PQC Signature Transition: Case of PoW Blockchain Against On-Spend Attack",
+      "url": "https://eprint.iacr.org/2026/952"
     },
     "c6724fb9b5ece1baf01e0a8488f94eaad89c0b794ab6a021c4fe16d619ff32d6": {
       "processed_at": "2026-07-03T10:27:28.895316Z",
@@ -27519,6 +27539,16 @@
       "source_id": "arxiv-crypto",
       "title": "Labels Are Not Endpoints: Treatment Leakage and Construct Validity in MCP Agent Security Evaluation",
       "url": "https://arxiv.org/abs/2608.12880v1"
+    },
+    "df046ffc89d611428ed5df20162afef197c06ced26a09a3def43ff3fc08e2f25": {
+      "processed_at": "2026-09-13T12:57:19.080033Z",
+      "published_at": "2026-06-03T11:02:05Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Simple and Unified Approach for Proving Knowledge of Isogenies between Abelian Varieties",
+      "url": "https://eprint.iacr.org/2026/1157"
     },
     "df082fd11fc2bc6e166ae2e149bff04fc41a3e3a4c2424f5046375e03139ce01": {
       "processed_at": "2026-09-09T12:35:12.464886Z",
