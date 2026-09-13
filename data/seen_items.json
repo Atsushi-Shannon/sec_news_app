@@ -1070,6 +1070,16 @@
       "title": "Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees",
       "url": "https://arxiv.org/abs/2608.10521v1"
     },
+    "08649ee307e8ed2600419b030b2d9c60411d3cd2e235ce06ed039900bb854570": {
+      "processed_at": "2026-09-13T23:58:19.107760Z",
+      "published_at": "2026-05-24T15:25:42Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Round-Optimal Subversion-Resilient UC PAKE from Malleable Trapdoor Smooth Projective Hash Functions",
+      "url": "https://eprint.iacr.org/2026/1047"
+    },
     "08683c90354db7fece3b9a433774017804b99685d7ef622e3543027ccd02a6c0": {
       "processed_at": "2026-08-27T03:01:12.357043Z",
       "published_at": "2026-08-26T16:52:06Z",
@@ -4149,6 +4159,16 @@
       "source_id": "iacr-eprint",
       "title": "The Small-Field Turn in Succinct Proofs: A Systematization of Finite-Field Choice in Modern SNARKs and STARKs",
       "url": "https://eprint.iacr.org/2026/1371"
+    },
+    "23158a0229a6c9baca01fff163c41af7523a195e66f3371469ddefb58b12ba8a": {
+      "processed_at": "2026-09-13T23:58:19.107586Z",
+      "published_at": "2026-09-11T16:03:03Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Akita: A High-Performance Lattice-Based Polynomial Commitment Scheme",
+      "url": "https://eprint.iacr.org/2026/1983"
     },
     "232b59938eef1e19d61ec2caa3fc4b12887e81aa688c8a8e2ac643dd94f9bb39": {
       "processed_at": "2026-07-08T10:08:21.464765Z",
@@ -8300,6 +8320,16 @@
       "title": "An $n^{n+o(n)}$-Time Algorithm for the Lattice Isomorphism Problem",
       "url": "https://eprint.iacr.org/2026/1406"
     },
+    "42eafa2167838d4bd146b075ffd5003ce5dbb704b042e7b0b2553d714db8fa78": {
+      "processed_at": "2026-09-13T23:58:19.107695Z",
+      "published_at": "2026-09-11T11:15:51Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Succinct Two-Round Two-Party Signing from PCFs",
+      "url": "https://eprint.iacr.org/2026/1978"
+    },
     "430db05f2e723de5de9e65174518a59734e6e3ddfbdef42bfbd15a8a81a7a297": {
       "processed_at": "2026-08-14T08:59:20.578370Z",
       "published_at": "2026-08-13T12:58:36Z",
@@ -8829,6 +8859,16 @@
       "source_id": "arxiv-crypto",
       "title": "ECO-ID: Event-Camera based Optical System for Secure Multi-User Ultra-Low Latency Identification",
       "url": "https://arxiv.org/abs/2608.16858v1"
+    },
+    "4702c29a353355628284bfad059b037ae981ac87ea19e868196b4d4a4b7d10e6": {
+      "processed_at": "2026-09-13T23:58:19.107738Z",
+      "published_at": "2026-09-11T01:24:12Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Exact-Coset Response Existence in SQIsign-like Protocols: Beyond Additive Hom Geometry",
+      "url": "https://eprint.iacr.org/2026/1974"
     },
     "470d1885d225179909a81b4b9f41acd062bf904857881fec7c2248ff6bd143da": {
       "processed_at": "2026-09-11T12:27:26.927931Z",
@@ -11979,6 +12019,16 @@
       "source_id": "arxiv-crypto",
       "title": "Resource-Aware Intrusion Detection in Infrastructure Networks: A Game-Theoretic Approach",
       "url": "https://arxiv.org/abs/2608.06655v1"
+    },
+    "614fcb6756025b112d0feb16f2978f8146709c21890e48c193afd6a5fbbb1eb1": {
+      "processed_at": "2026-09-13T23:58:19.107658Z",
+      "published_at": "2026-09-11T13:56:33Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Parallelized Authenticated Encryption with Tag Combiners",
+      "url": "https://eprint.iacr.org/2026/1981"
     },
     "6168fbb1733aae569140ea0f6caeb3d6c02579d9d2ac13f489d84c8582550e84": {
       "processed_at": "2026-07-17T09:48:04.843005Z",
@@ -15560,6 +15610,16 @@
       "title": "Trustworthy mobile edge caching: a blockchain approach to mitigate malicious nodes and incentivize cache sharing",
       "url": "https://arxiv.org/abs/2608.20145v1"
     },
+    "7e454d2a4136fc326d789437ec083fe7abf6a07b37efa6af2208c2e5b42b9377": {
+      "processed_at": "2026-09-13T23:58:19.107728Z",
+      "published_at": "2026-09-11T02:14:00Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Oblivious Signaling",
+      "url": "https://eprint.iacr.org/2026/1975"
+    },
     "7e51c18633fbcde8d667ab28bcb182d1ea54f6ca791b326f287a229dfa23ceb8": {
       "processed_at": "2026-06-18T07:18:35.071436Z",
       "published_at": "2026-06-17T12:17:02Z",
@@ -17359,6 +17419,16 @@
       "source_id": "arxiv-crypto",
       "title": "CyberLLM: A Multi-Agent LLM Framework for Autonomous Detection and Guarded Response in Automotive Cybersecurity",
       "url": "https://arxiv.org/abs/2608.06651v1"
+    },
+    "8d3a55840238f64f3c25991aa07ffb32cd7bb69d919048cfa43e7426cb9b97d8": {
+      "processed_at": "2026-09-13T23:58:19.107716Z",
+      "published_at": "2026-09-11T04:52:09Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Properties of the Me Operation and Me-Scalar Multiplication on Elliptic Curves over Finite Fields",
+      "url": "https://eprint.iacr.org/2026/1976"
     },
     "8d3eb200c3b5ce7faa126668c43984ec7441baa3d71cbbd00ad7a26533cfbce1": {
       "processed_at": "2026-06-24T10:41:50.825342Z",
@@ -25650,6 +25720,16 @@
       "title": "Agentic Settlement Protocol: An Application Profile for Refundable, Delayed-Fulfilment Agent Commerce on Stablecoin Rails",
       "url": "https://arxiv.org/abs/2609.02208v1"
     },
+    "cfe8b13693f94d04fddd0ac113a230537163797c578592b31d2c5f1206c0014e": {
+      "processed_at": "2026-09-13T23:58:19.107705Z",
+      "published_at": "2026-09-11T09:22:12Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Lattice-based Secret-Key Functional Encryption for Constant-Degree Polynomials",
+      "url": "https://eprint.iacr.org/2026/1977"
+    },
     "d00735fff3c804b4baa74fb1bdee09944490868f8dfc1fd47d07b3d960db8fe6": {
       "processed_at": "2026-08-03T11:13:23.459894Z",
       "published_at": "2026-07-31T06:07:11Z",
@@ -27410,6 +27490,16 @@
       "title": "A Lightweight Fault-Detection Scheme for Barrett Modular Multiplication Using Multiple Conditional Reduction Paths",
       "url": "https://arxiv.org/abs/2608.10736v1"
     },
+    "ddb7c7ab45e4fc12faad0f88c81badfa79a84133252f36ef729a13469be9846e": {
+      "processed_at": "2026-09-13T23:58:19.107640Z",
+      "published_at": "2026-09-11T14:30:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Cryptanalysis of the Alternative Mod-2/Mod-3 Weak PRF",
+      "url": "https://eprint.iacr.org/2026/1982"
+    },
     "ddc0be12a6ee2c417e2bfe3d1bbb915b90dbdde37366c566e1b0e4dcefcbfaa0": {
       "processed_at": "2026-09-04T12:22:54.684672Z",
       "published_at": "2026-09-03T08:47:05Z",
@@ -27799,6 +27889,16 @@
       "source_id": "iacr-eprint",
       "title": "MinMandate: Private Task-Scoped Payment Authorization for Adaptive Agent Workflows",
       "url": "https://eprint.iacr.org/2026/1674"
+    },
+    "e16fdc9b668585371c855fcb78a271735f0a976e70ba802ef9c445f6d262df31": {
+      "processed_at": "2026-09-13T23:58:19.107683Z",
+      "published_at": "2026-09-11T11:52:32Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "From Specs to Apps: Verifying and Monitoring Models of Signal and WhatsApp",
+      "url": "https://eprint.iacr.org/2026/1979"
     },
     "e170754a31e99d7e5226499b23f76cff51b00d4a7141c118403627377d44e958": {
       "processed_at": "2026-08-28T06:02:03.415182Z",
@@ -29700,6 +29800,16 @@
       "title": "HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety",
       "url": "https://arxiv.org/abs/2608.17597v1"
     },
+    "f2e51659832c6e39113076731c8577545aa799e9a5823ba6cb8a0672b3be4d00": {
+      "processed_at": "2026-09-13T23:58:19.107672Z",
+      "published_at": "2026-09-11T13:38:23Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Better Security Proofs for X3DH and XHMQV",
+      "url": "https://eprint.iacr.org/2026/1980"
+    },
     "f2f0947bd0283d6c89d7680338093c1fba14b02b20c0f00107b52549e7a0ffcb": {
       "processed_at": "2026-07-09T10:51:22.421580Z",
       "published_at": "2026-06-24T16:57:49Z",
@@ -30089,6 +30199,16 @@
       "source_id": "arxiv-crypto",
       "title": "Correct Is Not Governed: Provenance Integrity in Agentic Workflows",
       "url": "https://arxiv.org/abs/2608.12761v1"
+    },
+    "f68dc1448d45b12e9137c683cf68e621f681522ee50b9ea66e90180b6b42d94f": {
+      "processed_at": "2026-09-13T23:58:19.107749Z",
+      "published_at": "2026-09-11T01:00:19Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Addition-Efficient MDS Matrices from Superconcentrators (Full Version)",
+      "url": "https://eprint.iacr.org/2026/1973"
     },
     "f690b4ed66697780cf90c2bcf5b25ad3eab35d6f86c03c603ae9f5e762474584": {
       "processed_at": "2026-08-27T03:01:12.357034Z",
