@@ -5970,6 +5970,16 @@
       "title": "Context-to-Execution Integrity for LLM Agents",
       "url": "https://arxiv.org/abs/2607.06000v1"
     },
+    "2fb59e11eb974d987524a42a190288eab5a8c6c144669ab59a777aac6ac5db5e": {
+      "processed_at": "2026-09-15T12:59:49.781346Z",
+      "published_at": "2026-09-15T06:42:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "注意喚起: Cisco Secure Email GatewayにおけるSQLインジェクションの脆弱性（CVE-2026-76461）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260027.html"
+    },
     "2fc393b79f7ee35ce083792c1990f51c973f1d672d86f7815bdeef6924c74563": {
       "processed_at": "2026-08-31T15:40:58.291084Z",
       "published_at": "2026-08-28T04:41:39Z",
@@ -7479,6 +7489,16 @@
       "source_id": "arxiv-crypto",
       "title": "Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs",
       "url": "https://arxiv.org/abs/2608.16391v1"
+    },
+    "3d16bd7bd761c014d3d2359694f499e229a862fbad6996a523cac9c31d9ddc69": {
+      "processed_at": "2026-09-15T12:59:49.781374Z",
+      "published_at": "2026-09-09T04:43:34Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Efficient Pseudorandom Correlation Generators over Binary Extension Fields and More",
+      "url": "https://eprint.iacr.org/2026/1940"
     },
     "3d1b6c6d0b37b68cf0e873a32b2a130cdeed66cc1c3ab619a833d62161b41d36": {
       "processed_at": "2026-08-05T10:25:49.843493Z",
@@ -16620,6 +16640,16 @@
       "title": "An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios",
       "url": "https://arxiv.org/abs/2606.29602v1"
     },
+    "8571c96d36805de9519da87fb583f5386932ee70a0848375e3cf941ee15a4775": {
+      "processed_at": "2026-09-15T12:59:49.781385Z",
+      "published_at": "2026-05-05T20:46:56Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Formalizing and Strengthening the Security Proof of NTOR",
+      "url": "https://eprint.iacr.org/2026/884"
+    },
     "85795a2fde31f2a890e028d180c603ec4ad89ceaec765f739a0870f87d6a7896": {
       "processed_at": "2026-07-25T09:28:33.271045Z",
       "published_at": "2026-07-22T08:46:06Z",
@@ -25470,6 +25500,16 @@
       "title": "Grand Danois: Succinct Multilinear Polynomial Commitments over Lattices",
       "url": "https://eprint.iacr.org/2026/1196"
     },
+    "ccafa89ea1ed1014a784c388a5ca84b82bb7ad914bacc763ffee0f92200842b8": {
+      "processed_at": "2026-09-15T12:59:49.781362Z",
+      "published_at": "2026-09-12T03:23:46Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Wasp: Succinct Non-Interactive Zero-Knowledge Proofs from VOLE",
+      "url": "https://eprint.iacr.org/2026/1988"
+    },
     "ccb1c4ec1ffbfc2ce4343c8a3cb83d96f9dfd0d68750f3c08d7d879637a8d338": {
       "processed_at": "2026-06-18T07:18:35.071262Z",
       "published_at": "2026-06-17T23:11:43Z",
@@ -29189,6 +29229,16 @@
       "source_id": "iacr-eprint",
       "title": "Quantum Discrete Logarithms on Elliptic Curves with $5n/2+o(n)$ Logical Qubits and $\\widetilde O(n^2)$ Toffoli Gates",
       "url": "https://eprint.iacr.org/2026/2014"
+    },
+    "eafe39f0cf3e7b8969ceec56e5795f720c0030694b553557b601272808d21dd1": {
+      "processed_at": "2026-09-15T12:59:49.781302Z",
+      "published_at": "2026-09-15T11:00:00Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "trail-of-bits-blog",
+      "title": "1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading"
     },
     "eb0a6ee89acaac69646404977d54e0a06d5193c0ba0b228ecec1f32750622ebd": {
       "processed_at": "2026-06-18T07:18:35.071548Z",
