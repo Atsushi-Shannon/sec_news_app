@@ -11850,6 +11850,16 @@
       "title": "On the Security of Rotational (Non-)linearity in Sbox",
       "url": "https://eprint.iacr.org/2026/1566"
     },
+    "5ef86bde20faa383d12ea2e1d7f7d98c97574f6f7085f87f6b8c5f5489438de4": {
+      "processed_at": "2026-09-15T00:24:31.030824Z",
+      "published_at": "2026-09-10T15:26:04Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "The Closest-Vector Problem over Cyclotomics and its Application to Homomorphic Encryption",
+      "url": "https://eprint.iacr.org/2026/1968"
+    },
     "5f0c139e6eeb4365cc591f55f976b8a9b7915f058ea7be6c52a623d8b532dfbe": {
       "processed_at": "2026-09-01T01:07:22.589291Z",
       "published_at": "2026-08-21T02:02:00Z",
@@ -22939,6 +22949,16 @@
       "source_id": "arxiv-crypto",
       "title": "EchoCoT: Extracting Hidden Chain-of-Thought from Large Reasoning Models",
       "url": "https://arxiv.org/abs/2608.20055v1"
+    },
+    "b8cfa4834f8cce27dadd73dbba7e07c30023ef3028e3ad2fd5f15a36b2687f48": {
+      "processed_at": "2026-09-15T00:24:31.030850Z",
+      "published_at": "2026-05-12T10:16:25Z",
+      "score": 21,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Storing Less in-the-Head: An Area-Efficient Hardware Architecture for SDitH-v2",
+      "url": "https://eprint.iacr.org/2026/938"
     },
     "b8e6db8cde8e96193b2a419240357646a263600e793b6da9bfa88b2373405406": {
       "processed_at": "2026-07-16T09:58:06.612370Z",
