@@ -3000,6 +3000,16 @@
       "title": "SxSSD: A Secure and Extensible Software-defined Solid State Drive",
       "url": "https://arxiv.org/abs/2608.23365v1"
     },
+    "18f8ba2dd2eb6e2e713c502b1a74236aec0ede5de1c2fe635ad16e00f66538fd": {
+      "processed_at": "2026-09-17T00:13:23.272626Z",
+      "published_at": "2026-09-16T20:06:17Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+      "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns"
+    },
     "190c84a1b0dc2aa5f107bb3edb4bc229125aaa1539542509981f82b74663a59c": {
       "processed_at": "2026-07-01T11:17:56.313056Z",
       "published_at": "2026-06-30T02:53:16Z",
@@ -5009,6 +5019,16 @@
       "source_id": "microsoft-security-blog",
       "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
       "url": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592"
+    },
+    "287607a758f5ff52ba6f4bd3e9854f7c9fb2f1e61fead194efa1b972cc97d5de": {
+      "processed_at": "2026-09-17T00:13:23.272694Z",
+      "published_at": "2026-09-14T15:57:22Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "It's Not Just a Phase: Understanding Function Dependence in MPC Preprocessing",
+      "url": "https://eprint.iacr.org/2026/2029"
     },
     "287a40daef8caf33837d6b9240ade82c47b1d7643b6243ec1752b1a3825d1bc1": {
       "processed_at": "2026-09-10T12:30:22.712443Z",
@@ -14670,6 +14690,16 @@
       "title": "Cheap Verifiers, Large Blind Spots: Measuring the Reliability Cost of Cost-Saving Cascades",
       "url": "https://arxiv.org/abs/2609.01345v2"
     },
+    "727cc148512b976701a2ff37c42fc9a708c0174568be6d869f54d4d709e80ed7": {
+      "processed_at": "2026-09-17T00:13:23.272736Z",
+      "published_at": "2026-09-14T13:55:13Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A unified reduction from RLWE to MP-LWE",
+      "url": "https://eprint.iacr.org/2026/2026"
+    },
     "7283f9c5e00170b1b7d7400965be0cb8db5f3269e6a887c7631bce37ed893ee4": {
       "processed_at": "2026-07-09T10:51:22.421526Z",
       "published_at": "2026-07-08T03:40:26Z",
@@ -18859,6 +18889,16 @@
       "source_id": "iacr-eprint",
       "title": "Physics-Aware Temporal Feature Engineering for Eavesdropping Detection in BBM92 Quantum Key Distribution",
       "url": "https://eprint.iacr.org/2026/1282"
+    },
+    "93916b7cc431cf3ac0ec60f868e2c4ad8d0c8d041de0f783af02879d86758c48": {
+      "processed_at": "2026-09-17T00:13:23.272676Z",
+      "published_at": "2026-09-14T16:12:52Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "New Pseudorandom Correlation Functions and Exponent VRFs from DCR",
+      "url": "https://eprint.iacr.org/2026/2030"
     },
     "93c16ee412e689508acdfb8bada07fa8027610603aea72f82e2f693915a51c46": {
       "processed_at": "2026-09-16T00:03:35.798512Z",
@@ -23150,6 +23190,16 @@
       "title": "FinRED: An Expert-Guided Benchmark Generation and Evaluation Framework for Financial LLM Red-Teaming",
       "url": "https://arxiv.org/abs/2606.19887v2"
     },
+    "b555fb282ec021b5ab90703fbc4de425bbcb332661925bf6404a635bb3d80e71": {
+      "processed_at": "2026-09-17T00:13:23.272723Z",
+      "published_at": "2026-09-14T14:02:18Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Leopard: A High-Performance Framework for Updatable Private Set Intersection",
+      "url": "https://eprint.iacr.org/2026/2027"
+    },
     "b55c17572b5260f60bde65deed5b6bfc4bdcb456d1527dc25b064956723fc957": {
       "processed_at": "2026-08-03T11:13:23.459604Z",
       "published_at": "2026-08-02T13:31:35Z",
@@ -24139,6 +24189,16 @@
       "source_id": "iacr-eprint",
       "title": "Information-Theoretic SFE and PFE with Reduced Communication",
       "url": "https://eprint.iacr.org/2026/1647"
+    },
+    "bd0778589b9da53f5316a3b6a212e949c6790760709cc68b5f925e6479cb9f12": {
+      "processed_at": "2026-09-17T00:13:23.272708Z",
+      "published_at": "2026-09-14T15:39:24Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Dimension Reduction for Theta Series of Ideal Lattices",
+      "url": "https://eprint.iacr.org/2026/2028"
     },
     "bd18e4abc88791c277093ca0705c339e17b0730dbbec4715fb05d8627ac34bc1": {
       "processed_at": "2026-09-16T00:03:35.798392Z",
