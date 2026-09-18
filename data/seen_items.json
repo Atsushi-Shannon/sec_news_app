@@ -880,6 +880,16 @@
       "title": "Weekly Report: 独立行政法人情報処理推進機構（IPA）が「ランサムウェア被害から学ぶ教訓集 経営者のためのランサムウェア対策ハンドブック」を公開",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html"
     },
+    "06b8b45dd984b0a85e9aa28af45137a77ff44671e59278d7912500855186209c": {
+      "processed_at": "2026-09-18T00:00:41.792759Z",
+      "published_at": "2026-09-15T15:38:57Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Linear list size bounds for Reed-Solomon beyond the Johnson radius",
+      "url": "https://eprint.iacr.org/2026/2048"
+    },
     "06ecd02bc6cc961de2b3ad0d269e725afb029be042060e9e7aceb9fba3593bb8": {
       "processed_at": "2026-09-01T12:53:45.427688Z",
       "published_at": "2026-08-31T11:26:12Z",
@@ -2599,6 +2609,16 @@
       "source_id": "arxiv-crypto",
       "title": "Chypothermia: Clock Freezing for Static Side-channel Attacks",
       "url": "https://arxiv.org/abs/2609.11442v1"
+    },
+    "14e5c62e456f5619235162994aa6fa073eee2dcf4e670b4c5cec028df9873f5c": {
+      "processed_at": "2026-09-18T00:00:41.792701Z",
+      "published_at": "2026-09-15T20:14:59Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "One Scalar to Fold Them All, and in the Commitment Bind Them: Reduced Logarithmic ElGamal Shuffle Proofs",
+      "url": "https://eprint.iacr.org/2026/2052"
     },
     "1512d65f53ab9436565457b39f79919d369b188f93c478dd18572ebf0510f54b": {
       "processed_at": "2026-08-31T15:40:58.291031Z",
@@ -4390,6 +4410,16 @@
       "title": "Rotational-Quasidifferential Framework - A Geometric Approach to Rotational-XOR Cryptanalysis",
       "url": "https://eprint.iacr.org/2026/1633"
     },
+    "2343ae5f403d0596274341ff7923973117614518bfe8539ee9b78ca768af9996": {
+      "processed_at": "2026-09-18T00:00:41.792595Z",
+      "published_at": "2026-09-16T02:08:49Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Low-Space Quantum Discrete Logarithms on Genus-Two Jacobians",
+      "url": "https://eprint.iacr.org/2026/2057"
+    },
     "234cafa8e0283f4cc026d9e914710eea2263ee34cb06106bbd03c4868ca6ad49": {
       "processed_at": "2026-06-18T07:18:35.071792Z",
       "published_at": "2026-06-11T19:32:05Z",
@@ -6060,6 +6090,16 @@
       "title": "MergeLLL: A Hierarchical Divide-and-Conquer Framework for LLL-Based Lattice Reduction",
       "url": "https://arxiv.org/abs/2606.26784v1"
     },
+    "2ec68ae8a9f28b248390afce418471bf93e84f5a808997a1f3da088eec0743e6": {
+      "processed_at": "2026-09-18T00:00:41.792651Z",
+      "published_at": "2026-09-16T01:54:15Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Locality-Sensitive Hashing Framework for Reducing Bounded Distance Decoding to EDCP",
+      "url": "https://eprint.iacr.org/2026/2055"
+    },
     "2ee3d845a9aeff6f2dcf6c6c9ece487e5dd70a32879b12be7a279a860ecd04e7": {
       "processed_at": "2026-08-25T22:31:57.460843Z",
       "published_at": "2026-08-24T12:33:02Z",
@@ -7570,6 +7610,16 @@
       "title": "SoK: AI Secure Code Generation: Progress, Pitfalls, and Paths Forward",
       "url": "https://arxiv.org/abs/2606.25195v1"
     },
+    "3b3ea6bfa344cc991dc97b56bd0ae7fcea48a2b045961375715d4d8a8e109999": {
+      "processed_at": "2026-09-18T00:00:41.792773Z",
+      "published_at": "2026-09-15T11:40:39Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Practical Key Recovery Attacks on Full DuX and Reduced-Round YuX",
+      "url": "https://eprint.iacr.org/2026/2045"
+    },
     "3b5edc25c5871458fcec54bf7e6acf2cc18d112556583f2387a1ab226868b999": {
       "processed_at": "2026-08-28T06:02:03.415273Z",
       "published_at": "2026-08-26T15:00:51Z",
@@ -8320,6 +8370,16 @@
       "title": "Separating Disclosure from Authorization: Field-Tier Minimization for Agent Action Mediation",
       "url": "https://arxiv.org/abs/2608.25474v1"
     },
+    "405a9dc2bdb6322c114c56db362f6a1fa67832840a75e4ec5cf371f88a01abbe": {
+      "processed_at": "2026-09-18T00:00:41.792632Z",
+      "published_at": "2026-09-16T02:05:33Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Reed-Solomon Codes Beyond Johnson: Efficient Decoding and Smaller Cryptographic Proofs",
+      "url": "https://eprint.iacr.org/2026/2056"
+    },
     "4070a157b0f056e3e3b4714a9af7bba5e5ac6b683923ef7f72b3b31f2106c7f8": {
       "processed_at": "2026-08-25T22:31:57.460950Z",
       "published_at": "2026-08-24T02:13:55Z",
@@ -8929,6 +8989,16 @@
       "source_id": "arxiv-crypto",
       "title": "AdaptoNet: Modular Foundation-Adaptive Neural Networks for Cyber-Physical Attack Detection in Power Grids",
       "url": "https://arxiv.org/abs/2608.01375v1"
+    },
+    "44bc682a113df606c30008a8e8359f80f90bc35505156abe0c5eed02a04047a7": {
+      "processed_at": "2026-09-18T00:00:41.792687Z",
+      "published_at": "2026-09-15T21:02:08Z",
+      "score": -5,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Weighted Batch Threshold Encryption with Efficient DKG",
+      "url": "https://eprint.iacr.org/2026/2053"
     },
     "44beb2d9a3c04070fdbc4f2ec6414d558a62b2b6fb211e25be0e74ef71f7668a": {
       "processed_at": "2026-08-14T08:59:20.578306Z",
@@ -10889,6 +10959,16 @@
       "source_id": "arxiv-crypto",
       "title": "Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence",
       "url": "https://arxiv.org/abs/2608.06778v1"
+    },
+    "53b0d677a703921d81a7e8b8674c1a6ffdddb9dfdea9f181835a78437b3272a8": {
+      "processed_at": "2026-09-18T00:00:41.792670Z",
+      "published_at": "2026-09-16T00:59:56Z",
+      "score": 19,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Lemur+: Compact Post-Quantum Synchronized Multi-Signatures and Multi-Hop Aggregation",
+      "url": "https://eprint.iacr.org/2026/2054"
     },
     "53bd1701f47d1052d7188b0b803a6f4795afe689bab7b7693cbb574b753d0c8b": {
       "processed_at": "2026-09-01T23:53:16.366761Z",
@@ -19050,6 +19130,16 @@
       "title": "Not to Break, but to Attest: Adversarial Probes for Privacy-Preserving LLM Verification",
       "url": "https://arxiv.org/abs/2608.27954v2"
     },
+    "92d82eb65d6e50dd03b328eb52130195a8c1fed4e00a6a383c2446839d8be7a2": {
+      "processed_at": "2026-09-18T00:00:41.792575Z",
+      "published_at": "2026-09-17T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Improving email security outcomes with real-world Microsoft Defender insights",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights"
+    },
     "92de41d67b9da1189d312c256fbae8adf8fa6cfae75377da8a2c332d41dda52d": {
       "processed_at": "2026-07-30T10:13:19.348298Z",
       "published_at": "2026-02-25T15:17:00Z",
@@ -19880,6 +19970,16 @@
       "title": "Post-quantum authentication to origins is now supported",
       "url": "https://blog.cloudflare.com/post-quantum-authentication-to-origins"
     },
+    "997ad783812d226b297a16b40948d1e01fc8f98b6bd544a442d247932d4f5f8f": {
+      "processed_at": "2026-09-18T00:00:41.792730Z",
+      "published_at": "2026-09-15T18:20:45Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "A Polynomial-Time Attack on the McEliece Cryptosystem on Elliptic Codes with Arbitrary Divisors",
+      "url": "https://eprint.iacr.org/2026/2050"
+    },
     "9997e9cbe847a22aafbc91e8777ef5cbee8703bd23920def69086b16a04c6a6f": {
       "processed_at": "2026-06-29T12:24:06.392937Z",
       "published_at": "2026-06-26T03:41:58Z",
@@ -20569,6 +20669,16 @@
       "source_id": "arxiv-crypto",
       "title": "PolicyGuard: Prompt-Configurable Semantic DLP for LLM Coding Agents",
       "url": "https://arxiv.org/abs/2608.02687v3"
+    },
+    "9e9de16780d020e47205ce2dd0ee74c9e21fc2a2f84cd93b3cf4a823f8d37b54": {
+      "processed_at": "2026-09-18T00:00:41.792745Z",
+      "published_at": "2026-09-15T15:53:04Z",
+      "score": 17,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Tighter and Friendlier Integer Bounds for Quaternion Algorithms - Application to SQIsign",
+      "url": "https://eprint.iacr.org/2026/2049"
     },
     "9ea71859a51e51b6b7600951bbd72240071df217fe401a1bdcf45c96f419cf75": {
       "processed_at": "2026-09-03T12:22:00.124927Z",
@@ -27410,6 +27520,16 @@
       "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
       "url": "https://arxiv.org/abs/2607.15434v2"
     },
+    "d1ce0d2ae58e18c58896e4a0a8d6bf4f3def49cfe03883ccf3fe81fefd7bc6a3": {
+      "processed_at": "2026-09-18T00:00:41.792528Z",
+      "published_at": "2026-09-17T17:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "From guidance to action: Security fundamentals that materially reduce risk",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk"
+    },
     "d1d2d25b57a938bedfd15e27554b712727a88eb4fbb9384d773c421a656ffbd2": {
       "processed_at": "2026-09-03T12:22:00.124651Z",
       "published_at": "2026-09-02T09:08:00Z",
@@ -29750,6 +29870,16 @@
       "title": "Federated Attack Campaign Detection via Contrastive Encoding of Threat Indicators in Gradient Updates",
       "url": "https://arxiv.org/abs/2609.04815v1"
     },
+    "e3225b025ecca728985b10fa74dc65b70f4ba922b33525141e09478188bf846c": {
+      "processed_at": "2026-09-18T00:00:41.792716Z",
+      "published_at": "2026-09-15T20:09:44Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "PyuQuMuQu: Attacks on MQ-Based Linkable Ring Signatures and a New 5-Pass Construction",
+      "url": "https://eprint.iacr.org/2026/2051"
+    },
     "e33578caddb08ab53e9277ab6e32c7e15e9b9afc6f4f3ab37da63653dbc793f5": {
       "processed_at": "2026-07-28T10:25:49.978461Z",
       "published_at": "2026-07-27T12:27:17Z",
@@ -31419,6 +31549,16 @@
       "source_id": "arxiv-crypto",
       "title": "Verifiable quantum advantage in extremely low depth",
       "url": "https://arxiv.org/abs/2609.01448v1"
+    },
+    "f1c833d8e6eb0bf135ee7cab0498f806bd0ee2e27ca01de09faaf5a9dd68cc57": {
+      "processed_at": "2026-09-18T00:00:41.792787Z",
+      "published_at": "2026-09-14T17:38:59Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Mind Small Integers in MDS Matrix: Collision Attacks on Round-Reduced Reinforced Concrete",
+      "url": "https://eprint.iacr.org/2026/2031"
     },
     "f1ca820fcb94a34348679ca807d8418421db5b771d905ee9b0e8a66f42261490": {
       "processed_at": "2026-09-01T23:53:16.366793Z",
