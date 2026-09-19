@@ -4250,6 +4250,16 @@
       "title": "Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning",
       "url": "https://arxiv.org/abs/2608.20580v1"
     },
+    "215d6b23598d3ec863f967d69e66fef9fcbaf0837f583c34117df24d44cd02e2": {
+      "processed_at": "2026-09-19T23:58:08.610882Z",
+      "published_at": "2026-09-17T16:36:27Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Sunshine Systems: Enabling Privacy-Preserving Compliance with Freedom of Information Laws",
+      "url": "https://eprint.iacr.org/2026/2072"
+    },
     "2171439e24a46fa30f896c6ce4c988ba555c9e33172d61e32042d4ff29ada8bb": {
       "processed_at": "2026-07-14T09:47:39.424472Z",
       "published_at": "2026-07-13T15:40:57Z",
@@ -4329,6 +4339,16 @@
       "source_id": "iacr-eprint",
       "title": "Lightweight Hardware Accelerator for the UOV Signature Scheme with Oil Space Blinding",
       "url": "https://eprint.iacr.org/2026/1451"
+    },
+    "22677073ea7ac22bbef9c2f816ec3a4fdb96971a41c4c15d9c8d013964e38c41": {
+      "processed_at": "2026-09-19T23:58:08.610758Z",
+      "published_at": "2026-09-18T07:54:06Z",
+      "score": 15,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Radical Ring-LWR: Efficient Key Encapsulation and Signatures from Structured Rounding",
+      "url": "https://eprint.iacr.org/2026/2078"
     },
     "2282046ee59d0dce99de09ec9197395e93cb6e4983ff9cac32ed86b66ced1166": {
       "processed_at": "2026-07-06T23:12:31.232290Z",
@@ -10740,6 +10760,16 @@
       "title": "Decisive Margins in Differentially Private Voting",
       "url": "https://arxiv.org/abs/2608.18772v1"
     },
+    "50fbe151a74f9d9e76861ed09b2fe2c4cce92ec1b4b3ff4d08ab1e52757111c9": {
+      "processed_at": "2026-09-19T23:58:08.610781Z",
+      "published_at": "2026-09-18T07:23:51Z",
+      "score": 10,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Practical Group Signatures from Tag-Based NTRU Sampler",
+      "url": "https://eprint.iacr.org/2026/2077"
+    },
     "50ff29d01728761341969c5daf48bb577892af48bdae76ba6e436645d0e33b29": {
       "processed_at": "2026-06-30T10:49:24.831432Z",
       "published_at": "2026-06-29T13:09:25Z",
@@ -16730,6 +16760,16 @@
       "title": "FIDA: Feature Instability-Driven Attack on Self-Supervised Facial Representation",
       "url": "https://arxiv.org/abs/2608.26861v1"
     },
+    "7e1cae38ea6f05fe71d742f5b5904294559ed95e3f24e7df4d4566807a45e786": {
+      "processed_at": "2026-09-19T23:58:08.610673Z",
+      "published_at": "2026-09-18T08:50:45Z",
+      "score": 26,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Lightweight Cryptography for Secure UAV Data Integrity Using Ascon-XOF128 and SHAKE128",
+      "url": "https://eprint.iacr.org/2026/2080"
+    },
     "7e282a25d4d6d309bfb65574a2579876784a0e8831c461768c770abd7ce4f33c": {
       "processed_at": "2026-09-11T12:27:26.927945Z",
       "published_at": "2026-09-10T08:03:02Z",
@@ -17329,6 +17369,16 @@
       "source_id": "iacr-eprint",
       "title": "DNSPIR: Private Information Retrieval Optimized for Privacy-Preserving DNS Lookups",
       "url": "https://eprint.iacr.org/2026/1872"
+    },
+    "824fdb532f8d25cfdd166a0f75b7b13beb675d5952fb3da015dd9b3580214827": {
+      "processed_at": "2026-09-19T23:58:08.610826Z",
+      "published_at": "2026-09-17T18:16:43Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Bounding the Excess Risk for Linear Models Trained on Marginal-Preserving, Differentially-Private, Synthetic Data",
+      "url": "https://eprint.iacr.org/2026/2075"
     },
     "82585b47031a9d98261f6aecd67ae729e2e052df00704f8460cd3b45e4c8bbed": {
       "processed_at": "2026-07-22T10:15:50.564246Z",
@@ -18139,6 +18189,16 @@
       "source_id": "arxiv-crypto",
       "title": "From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions",
       "url": "https://arxiv.org/abs/2609.11596v1"
+    },
+    "894e0c63195c9009551b6d6888563800d734214bc2b72a3a5200f16d23517259": {
+      "processed_at": "2026-09-19T23:58:08.610863Z",
+      "published_at": "2026-09-17T17:50:10Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms",
+      "url": "https://eprint.iacr.org/2026/2073"
     },
     "8955b3f5b51caa0d7d89e19d96b0d7f35c85788e64d33ea2b60298563ad4f43e": {
       "processed_at": "2026-07-25T09:28:33.270945Z",
@@ -23520,6 +23580,16 @@
       "title": "The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents",
       "url": "https://arxiv.org/abs/2609.18411v1"
     },
+    "b276c66eb03b9462f6df871eb8efd653ddb5efe1584a8a82e111191d49001e45": {
+      "processed_at": "2026-09-19T23:58:08.610845Z",
+      "published_at": "2026-09-17T17:50:11Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Revisiting Malicious Private Aggregation: Formalization, Weaknesses, and Enhancements",
+      "url": "https://eprint.iacr.org/2026/2074"
+    },
     "b2818c9f23eadf974579ea239e196b328932cb2b86810df55d06b11db967ad50": {
       "processed_at": "2026-07-02T23:12:42.116525Z",
       "published_at": "2026-06-29T13:11:50Z",
@@ -25220,6 +25290,16 @@
       "title": "Taming the Security-Energy Paradox: A Green AI Approach to Optimized Android Malware Detection",
       "url": "https://arxiv.org/abs/2607.20003v1"
     },
+    "bf025c43bba0a1cb202319466232c1e2a58037a02df07276c0f3e33d96324dde": {
+      "processed_at": "2026-09-19T23:58:08.610901Z",
+      "published_at": "2026-09-16T20:26:01Z",
+      "score": 26,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Area-Time Efficient NTRU Prime Decapsulation: ASIC Evaluation of the First Five-Way Char-3 Multiplier",
+      "url": "https://eprint.iacr.org/2026/2064"
+    },
     "bf0f13a0ed71df539ea2bb65dfd322bc78a0d845a842aaa667c0e69b94cee3c0": {
       "processed_at": "2026-07-29T10:33:04.732483Z",
       "published_at": "2026-07-29T00:04:00Z",
@@ -25919,6 +25999,16 @@
       "source_id": "iacr-eprint",
       "title": "From Toy to Instrument: Seven Years of Verifpal",
       "url": "https://eprint.iacr.org/2026/1654"
+    },
+    "c3fe4e5d9e2b38e30e839d33732b2a07a8f791665b34b7fe64c1c239c35a1173": {
+      "processed_at": "2026-09-19T23:58:08.610729Z",
+      "published_at": "2026-09-18T08:20:21Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Period-Aligned Secure Cosine Evaluation Based on Two-Party Computation",
+      "url": "https://eprint.iacr.org/2026/2079"
     },
     "c400de3cd468abd2312d3949a44aabffcfc352e74b64494006f83265658339b8": {
       "processed_at": "2026-09-16T12:57:11.411531Z",
@@ -27899,6 +27989,16 @@
       "source_id": "arxiv-crypto",
       "title": "Functional and Secure Code Generation with Task Vectors",
       "url": "https://arxiv.org/abs/2607.07881v1"
+    },
+    "d180538fdf1fc607120d83c2c8c94b9dbe0f10d6cc7dc33f82d95ddcac297796": {
+      "processed_at": "2026-09-19T23:58:08.610803Z",
+      "published_at": "2026-09-17T20:25:21Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Symmetry-Graded Digit Extraction Framework for Faster BGV Bootstrapping",
+      "url": "https://eprint.iacr.org/2026/2076"
     },
     "d1afcca3184d4cea224d0513bcb5c84bdf9665ff6769a9edfc08dfc9259f87e0": {
       "processed_at": "2026-09-04T12:22:54.684796Z",
