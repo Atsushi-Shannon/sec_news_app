@@ -17180,6 +17180,16 @@
       "title": "Weekly Report: Kerasにパストラバーサルの脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
     },
+    "8145829f2cc7abae3272818bde748bc14b42ed2e370c42e532a0ca93bf8aa328": {
+      "processed_at": "2026-09-19T00:00:16.268780Z",
+      "published_at": "2026-09-18T17:23:58Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math"
+    },
     "814c47062ca4094d0e89cfa2090df4722ac777c9893f1929cab46281766c1793": {
       "processed_at": "2026-08-28T06:02:03.415218Z",
       "published_at": "2026-08-27T05:47:06Z",
