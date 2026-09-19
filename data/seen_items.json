@@ -26600,6 +26600,16 @@
       "title": "Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data",
       "url": "https://arxiv.org/abs/2607.07471v2"
     },
+    "c9432a73d7167826f8f61adac7cbe4ca98d49a172f01526e36e3b489990ea74f": {
+      "processed_at": "2026-09-19T12:09:39.373439Z",
+      "published_at": "2026-08-27T18:37:12Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "FlyBlind: Cross-Slice Timeliness Attacks on UAV Situational Awareness over 5G",
+      "url": "https://arxiv.org/abs/2608.27604v2"
+    },
     "c94345eb3b158272970de7ff1707a412916c55c5eb56d9c5c985d9431ec3625e": {
       "processed_at": "2026-07-07T10:46:44.765313Z",
       "published_at": "2026-07-06T14:45:17Z",
