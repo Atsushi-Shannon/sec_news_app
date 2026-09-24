@@ -20970,6 +20970,16 @@
       "title": "The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing",
       "url": "https://arxiv.org/abs/2606.23969v1"
     },
+    "9705da3a43a72ed4174ce0e40dcb30b26aba45a6724b0b48b5b5d4abf40c4577": {
+      "processed_at": "2026-09-24T00:18:43.544825Z",
+      "published_at": "2026-09-23T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender"
+    },
     "971a442454878988d36764f50abccb7b715fdf0762d0590e062b427c9414f8a4": {
       "processed_at": "2026-08-25T22:31:57.460998Z",
       "published_at": "2026-08-24T02:05:26Z",
