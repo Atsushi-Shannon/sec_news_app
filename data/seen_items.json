@@ -7120,6 +7120,16 @@
       "title": "How we built saga rollbacks for Cloudflare Workflows",
       "url": "https://blog.cloudflare.com/rollbacks-for-workflows"
     },
+    "332875dc65a642923b0bd9d0e4409ba9acd444a90f32d926e3e679f627d953c2": {
+      "processed_at": "2026-09-25T00:21:31.095007Z",
+      "published_at": "2026-09-24T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments"
+    },
     "33308eee698fbaf474836352fc698bd015c7cca3f3d8ee6133e4110df8cff42b": {
       "processed_at": "2026-08-20T08:26:33.180989Z",
       "published_at": "2026-08-18T07:20:09Z",
@@ -13399,6 +13409,16 @@
       "source_id": "arxiv-crypto",
       "title": "Bootstrapping Mutual Attestation with Kleene's Second Recursion Theorem",
       "url": "https://arxiv.org/abs/2608.20671v2"
+    },
+    "5f1f0196e388daee924d59d872fc775742030adeb30b361bfccf44e6e1a82153": {
+      "processed_at": "2026-09-25T00:21:31.095042Z",
+      "published_at": "2026-09-24T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "​​​​​​​​What’s new in Microsoft Security: September 2026​​",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026"
     },
     "5f2e19a89e57718dbe3ebb0e3761e566ebdb56f61b95a5447b0bd428d9514446": {
       "processed_at": "2026-06-23T10:55:48.540249Z",
@@ -26679,6 +26699,16 @@
       "source_id": "arxiv-crypto",
       "title": "From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability",
       "url": "https://arxiv.org/abs/2606.07150v3"
+    },
+    "bc963952c79b0675ed95dea144f979990785bda86d0e6b8208d8bbeabea763cf": {
+      "processed_at": "2026-09-25T00:21:31.095050Z",
+      "published_at": "2026-09-24T15:00:00Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability"
     },
     "bcd4c6698f4764f423c6b801465913669d731d8c0239749bef5ea37954ab98d4": {
       "processed_at": "2026-07-10T10:45:00.436722Z",
