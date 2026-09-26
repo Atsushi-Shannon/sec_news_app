@@ -27850,6 +27850,16 @@
       "title": "The Missing Boundary: How Autonomous Agents Lose Control",
       "url": "https://arxiv.org/abs/2609.11024v1"
     },
+    "c2533de7a640683d878e4ac4029cb86a8c587a8953dab16610b4b6572edc1e07": {
+      "processed_at": "2026-09-26T00:26:48.627231Z",
+      "published_at": "2026-09-18T15:44:23Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "End-to-End Hard-Label Cryptanalytic Model Extraction Using Efficient Sign Recovery",
+      "url": "https://eprint.iacr.org/2026/2097"
+    },
     "c27cadb43904f0bb2131e854303a37fbbd5e96e75a43c717e540d88e90964817": {
       "processed_at": "2026-08-22T08:18:01.274796Z",
       "published_at": "2026-08-21T04:30:40Z",
@@ -30769,6 +30779,16 @@
       "source_id": "arxiv-crypto",
       "title": "EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems",
       "url": "https://arxiv.org/abs/2609.07865v1"
+    },
+    "d6332aa2e61f0a886ddb1703fa2b4da66c9ac57ce359ce8dedc6e34a4988ff15": {
+      "processed_at": "2026-09-26T00:26:48.627191Z",
+      "published_at": "2026-09-25T15:35:08Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals"
     },
     "d636d86b268e4df35c7fb7867edc0ca54048f815d8f35e2580d6614008814d2f": {
       "processed_at": "2026-08-22T08:18:01.274860Z",
