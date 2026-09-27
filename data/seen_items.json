@@ -2910,6 +2910,16 @@
       "title": "LeanDY: Type-Based and Trace-Based Symbolic Protocol Verification in Lean",
       "url": "https://arxiv.org/abs/2607.03406v2"
     },
+    "155a6eeea6fff8cb17f04691be81bd01d0b22faf7e55cda587bc8defe24c1180": {
+      "processed_at": "2026-09-27T00:21:35.925552Z",
+      "published_at": "2026-09-23T20:53:02Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Distribution-Aware Encryption with Optimal Recovery and Semantic Security",
+      "url": "https://eprint.iacr.org/2026/2192"
+    },
     "15707d408b026ec10a0830b90c9f087bcda71c68c1baff3496c6bff6655165d4": {
       "processed_at": "2026-08-06T10:28:52.639307Z",
       "published_at": "2026-08-04T16:20:04Z",
@@ -6790,6 +6800,16 @@
       "title": "注意喚起: Cisco Secure Email GatewayにおけるSQLインジェクションの脆弱性（CVE-2026-76461）に関する注意喚起 (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260027.html"
     },
+    "2fb695a80631f5f5b037d4f34fe5ad55a1c84c85cce689b4b8ae6e45913f3b41": {
+      "processed_at": "2026-09-27T00:21:35.925426Z",
+      "published_at": "2026-09-24T05:26:31Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Lifting Symmetries for Dimension Reduction in Module-LIP: rank 2 and rank 4",
+      "url": "https://eprint.iacr.org/2026/2198"
+    },
     "2fc393b79f7ee35ce083792c1990f51c973f1d672d86f7815bdeef6924c74563": {
       "processed_at": "2026-08-31T15:40:58.291084Z",
       "published_at": "2026-08-28T04:41:39Z",
@@ -9479,6 +9499,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: Next.jsに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260729.html"
+    },
+    "42c00459e4da0c29f2f22fe84591e2bd4c276bcf80629190bb849f9cefc2f5e1": {
+      "processed_at": "2026-09-27T00:21:35.925507Z",
+      "published_at": "2026-09-23T23:45:25Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Multi-Key FHE Almost as Fast as Single-Key FHE",
+      "url": "https://eprint.iacr.org/2026/2195"
     },
     "42c1b411730f119d947f2b8e7f9d73412864c77d19543e86b1ea1fd2e52f4231": {
       "processed_at": "2026-09-22T12:57:02.566363Z",
@@ -13320,6 +13350,16 @@
       "title": "Hybrid Topological Data Analysis and LSTM Networks for Enhanced Network Intrusion Detection Using CIC-IDS2017 Dataset",
       "url": "https://arxiv.org/abs/2606.31619v1"
     },
+    "5cf989a91fca59727d6ed878c4c454a301631838b0091f52e96c7818bf72357b": {
+      "processed_at": "2026-09-27T00:21:35.925581Z",
+      "published_at": "2026-09-23T20:05:26Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Stay in Your Lane: Fast Arithmetic over Large Finite Rings with CKKS",
+      "url": "https://eprint.iacr.org/2026/2190"
+    },
     "5d25ef7395a85611c1f964e9057d7c664d0935fddfa85ea21f8f2dd3f79d496d": {
       "processed_at": "2026-09-07T13:48:30.772330Z",
       "published_at": "2026-09-04T08:36:21Z",
@@ -13749,6 +13789,16 @@
       "source_id": "arxiv-crypto",
       "title": "Blockchain-Enabled Secure Logging for Fiscal Electronic Mechanisms: Evaluation of the Greek eSEND and myDATA Tax Systems",
       "url": "https://arxiv.org/abs/2609.04356v1"
+    },
+    "5ff66df7fcb3afc69474d9ac541d8e5b68f3200b443f207894760c3a5be9cf33": {
+      "processed_at": "2026-09-27T00:21:35.925596Z",
+      "published_at": "2026-09-23T16:55:28Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "SafeCast: End-to-End Security for Ultra-High-Bitrate Broadcast Media",
+      "url": "https://eprint.iacr.org/2026/2189"
     },
     "5ffba46665a1b8487883d16463ac31c9bac8cee4e3708f97f78e0bac8d7641be": {
       "processed_at": "2026-07-22T10:15:50.564432Z",
@@ -15120,6 +15170,16 @@
       "title": "How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement",
       "url": "https://arxiv.org/abs/2607.13718v1"
     },
+    "6a96f4f67e468f49da4a2a1822e7e25e3edc21e8f6046702a2603f93535272fe": {
+      "processed_at": "2026-09-27T00:21:35.925611Z",
+      "published_at": "2026-09-23T16:47:49Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "SPRUCE: Scalable Multiparty Private Set Union in Constant Rounds",
+      "url": "https://eprint.iacr.org/2026/2188"
+    },
     "6a995c2fe098a7e1dc8c77c8696fe81936dc072c43427060ffe16fd6f6e04b4b": {
       "processed_at": "2026-09-14T14:35:14.953963Z",
       "published_at": "2026-09-10T03:29:30Z",
@@ -15639,6 +15699,16 @@
       "source_id": "arxiv-crypto",
       "title": "Agentic AI-Powered Re-Identification: An Emerging, Scalable Threat to Mobility Microdata Privacy",
       "url": "https://arxiv.org/abs/2606.27936v1"
+    },
+    "6dca7143dbf746103c229eef3e3695e80343d9e005c8caf85ac20dcbdc9be42b": {
+      "processed_at": "2026-09-27T00:21:35.925491Z",
+      "published_at": "2026-09-24T00:27:35Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "Revisiting Fuzzy Password-Authenticated Key Exchange: Unified Leakage and Improved Efficiency",
+      "url": "https://eprint.iacr.org/2026/2196"
     },
     "6ddce8a013d88c410e958bc9ba3b587dadce93677443fdd87ae0c5445f37648e": {
       "processed_at": "2026-08-28T06:02:03.415292Z",
@@ -16789,6 +16859,16 @@
       "source_id": "iacr-eprint",
       "title": "Splitting Bilinear Groups: New Translations from Composite- to Prime-Order with Applications to Batch Arguments for NP",
       "url": "https://eprint.iacr.org/2026/1564"
+    },
+    "755209337dc85710f68b8bc4727c2fae4f93fd412e9185f7c5998e55983f4364": {
+      "processed_at": "2026-09-27T00:21:35.925469Z",
+      "published_at": "2026-09-24T01:56:11Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "MultLA: A Framework of Fast Correlation Attack Exploiting Multiple Linear Approximations and Its Application to SNOW 5G",
+      "url": "https://eprint.iacr.org/2026/2197"
     },
     "7572afa05f1e2bd05d03f2045354e3fea2a3bcea230487b2f22a40805eb1a57e": {
       "processed_at": "2026-07-14T09:47:39.424485Z",
@@ -28110,6 +28190,16 @@
       "title": "i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler",
       "url": "https://arxiv.org/abs/2607.05888v1"
     },
+    "c3e3da28644cb432382f8f4cd3d71984e8813bdd9897cd50b373dc72e257f430": {
+      "processed_at": "2026-09-27T00:21:35.925567Z",
+      "published_at": "2026-09-23T20:35:10Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Building Quantum Circuits with Qarton",
+      "url": "https://eprint.iacr.org/2026/2191"
+    },
     "c3f686966779df126b2ed259702a6ae072623971834cb7454d68e7b8717557d4": {
       "processed_at": "2026-08-27T03:01:12.357373Z",
       "published_at": "2026-08-11T01:18:04Z",
@@ -29149,6 +29239,16 @@
       "source_id": "arxiv-crypto",
       "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents",
       "url": "https://arxiv.org/abs/2609.19587v1"
+    },
+    "cae1d96071d512cdeb4808a5c9fcd03e70bef607d5849ab551dfa2c8dccc5756": {
+      "processed_at": "2026-09-27T00:21:35.925537Z",
+      "published_at": "2026-09-23T21:44:41Z",
+      "score": 5,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "iacr-eprint",
+      "title": "Square-Root Log-Rank Standard Deviations for the Higher-Rank Kadison–Singer Problem: Polynomial-Time Algorithms via Schatten-Norm Potentials",
+      "url": "https://eprint.iacr.org/2026/2193"
     },
     "caf1185a434288089672581528fdc966a59005f8f1b5e907f1c7f67f20b6932f": {
       "processed_at": "2026-09-16T12:57:11.411561Z",
@@ -33209,6 +33309,16 @@
       "source_id": "arxiv-crypto",
       "title": "Semantic Leakage and Privacy Preservation in Relay-Assisted Semantic Communications",
       "url": "https://arxiv.org/abs/2606.31973v1"
+    },
+    "e73ae4da9c111214fc2d0d390949c079b14aafaba82819b14b7d40855ba18c2d": {
+      "processed_at": "2026-09-27T00:21:35.925522Z",
+      "published_at": "2026-09-23T22:56:00Z",
+      "score": 14,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "iacr-eprint",
+      "title": "A Black-Box Impossibility Result for Threshold Signing Standard Hash-Based Signatures",
+      "url": "https://eprint.iacr.org/2026/2194"
     },
     "e74be18fd6fb0a386f4b5c827390bc2fcdbbc6a6370ae8352ce2aee2a553f874": {
       "processed_at": "2026-07-01T23:20:20.299496Z",
