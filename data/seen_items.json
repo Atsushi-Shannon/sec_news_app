@@ -710,6 +710,16 @@
       "title": "LoRango: It Takes Two LoRAs to Unlock Hidden Behaviors in Diffusion Models",
       "url": "https://arxiv.org/abs/2609.25884v1"
     },
+    "057d8b69b93af4594a6415aecc974b65ef3afd66ec1c17fc6308121d3182eca7": {
+      "processed_at": "2026-09-28T16:15:55.271683Z",
+      "published_at": "2025-10-28T17:01:00Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "HTTPS by default",
+      "url": "http://security.googleblog.com/2025/10/https-by-default.html"
+    },
     "05934532c7454760d0f3f8ac2894941a2de88aadbd15a9664cbdc0816bc8f773": {
       "processed_at": "2026-07-07T10:46:44.765559Z",
       "published_at": "2026-06-15T07:50:00Z",
@@ -1100,6 +1110,16 @@
       "title": "External Sinkhole Attack Detection in Large-Scale WSNs Using Metaheuristic Feature Selection",
       "url": "https://arxiv.org/abs/2608.15274v2"
     },
+    "07a8a8d705bfdc2f54aa6317c44bc691dca80e0c7730c122e2fcdd5cbebf8d95": {
+      "processed_at": "2026-09-28T16:15:55.271409Z",
+      "published_at": "2026-09-28T14:51:57Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+      "url": "https://blog.cloudflare.com/vinext-nextjs-on-vite"
+    },
     "07c4f2e7a9f186d0b11e021c04817465e8df312af72d0b610aa9854bba2d3809": {
       "processed_at": "2026-07-08T10:08:21.464798Z",
       "published_at": "2026-07-07T17:27:30Z",
@@ -1339,6 +1359,16 @@
       "source_id": "arxiv-crypto",
       "title": "Battlefield 5G: Dual-PKI and TPM-Based UE Attestation for Tactical 5G Standalone Networks",
       "url": "https://arxiv.org/abs/2608.11293v1"
+    },
+    "095eee4017e9a92ee29a3db87b5678c6aaf06f0d52b0c68b8f22f2c54cae1abe": {
+      "processed_at": "2026-09-28T16:15:55.271707Z",
+      "published_at": "2025-09-15T17:01:00Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Supporting Rowhammer research to protect the DRAM ecosystem",
+      "url": "http://security.googleblog.com/2025/09/supporting-rowhammer-research-to.html"
     },
     "0965f578713cb2860d0ddf9f97e2de107b99df84881889b37c1b25987b5df61e": {
       "processed_at": "2026-06-24T23:09:00.727027Z",
@@ -1759,6 +1789,16 @@
       "source_id": "arxiv-crypto",
       "title": "Certified in Theory, Broken in Practice: Assumption Gaps in Cryptographic Model Certification",
       "url": "https://arxiv.org/abs/2607.21839v1"
+    },
+    "0c8b60e8ba8e832bb7388da45d41e769a857c598be0edaf2bbf75988eb7f251c": {
+      "processed_at": "2026-09-28T16:15:55.271430Z",
+      "published_at": "2026-09-28T14:50:37Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch"
     },
     "0c8f6065311da3f077aaa94a2d14d61a4d85ba69960e50acd4a5f54a2ac4b455": {
       "processed_at": "2026-08-28T19:47:31.123627Z",
@@ -2330,6 +2370,16 @@
       "title": "Evaluating Deep-Search Agents under Hierarchical Web Evidence Poisoning",
       "url": "https://arxiv.org/abs/2609.06027v2"
     },
+    "1148c03953948ac6bc48b7c9c704c21bcec9a8a28a80e320941734051ac62cfb": {
+      "processed_at": "2026-09-28T16:15:55.271561Z",
+      "published_at": "2026-09-28T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
+      "url": "https://blog.cloudflare.com/rust-workers-emscripten-target"
+    },
     "1154625d8c62afd22d11795b079bd012c7b8215506817385c54645379c61cfdc": {
       "processed_at": "2026-09-01T23:53:16.366799Z",
       "published_at": "2026-08-31T04:53:50Z",
@@ -2779,6 +2829,16 @@
       "source_id": "arxiv-crypto",
       "title": "Entropy Bootstrapping for Wireless Embedded Systems",
       "url": "https://arxiv.org/abs/2607.08865v1"
+    },
+    "1424fe0270325eab74695886df0b38aa1080768c73627c38bbada87fbb3f2ea9": {
+      "processed_at": "2026-09-28T16:15:55.271610Z",
+      "published_at": "2025-12-09T17:00:00Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Further Hardening Android GPUs",
+      "url": "http://security.googleblog.com/2025/12/further-hardening-android-gpus.html"
     },
     "1433ed4793526c3d5b2152fd942d9172e5c5a0bd5debeadcc411c2cad051d3e0": {
       "processed_at": "2026-08-17T08:32:26.288193Z",
@@ -5089,6 +5149,16 @@
       "source_id": "arxiv-crypto",
       "title": "All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme",
       "url": "https://arxiv.org/abs/2607.01209v1"
+    },
+    "25121dab7b42f03ab5845a27dfdb2629d1369c215664dde47935aa914e150e82": {
+      "processed_at": "2026-09-28T16:15:55.271536Z",
+      "published_at": "2026-09-28T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
+      "url": "https://blog.cloudflare.com/introducing-the-cold-start"
     },
     "251a141d0b1f7cefba642e6371f5582d9de78db2d1d49c54bc7ef19a6983063c": {
       "processed_at": "2026-07-11T09:17:53.883266Z",
@@ -8990,6 +9060,16 @@
       "title": "Security for the Quantum Era: Implementing Post-Quantum Cryptography in Android",
       "url": "http://security.googleblog.com/2026/03/post-quantum-cryptography-in-android.html"
     },
+    "3f2426f738b6a0524142f62fac18c9ba396c70eea126992bd8212efe1ce1281e": {
+      "processed_at": "2026-09-28T16:15:55.271495Z",
+      "published_at": "2026-09-28T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
+      "url": "https://blog.cloudflare.com/voidzero-update"
+    },
     "3f32f04036c0d19fcd4685c518f72622b427cc2f69f184f4314adb6d64f37225": {
       "processed_at": "2026-07-27T11:10:46.287856Z",
       "published_at": "2026-07-24T01:31:24Z",
@@ -9419,6 +9499,16 @@
       "source_id": "arxiv-crypto",
       "title": "Burnyard: Future of Malware Analysis",
       "url": "https://arxiv.org/abs/2606.24778v1"
+    },
+    "41b3594f6285643d8e1c93e4607c82ec62f8cddc48365b8c92052de7e47e1daf": {
+      "processed_at": "2026-09-28T16:15:55.271585Z",
+      "published_at": "2026-01-27T16:59:00Z",
+      "score": 2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "New Android Theft Protection Feature Updates: Smarter, Stronger",
+      "url": "http://security.googleblog.com/2026/01/android-theft-protection-feature-updates.html"
     },
     "41c74c0d3b929c186b93d61511328cd9d5a6bb417aaed3984f5a0dced77519c8": {
       "processed_at": "2026-07-16T09:58:06.612423Z",
@@ -11150,6 +11240,16 @@
       "title": "Unconditional Unclonable Encryption",
       "url": "https://eprint.iacr.org/2026/1511"
     },
+    "4c920f0bc3543b9201d9a0c61740a8b3b021d628b3eefda7fb01f10bef4b8efe": {
+      "processed_at": "2026-09-28T16:15:55.271622Z",
+      "published_at": "2025-12-08T18:03:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Architecting Security for Agentic Capabilities in Chrome",
+      "url": "http://security.googleblog.com/2025/12/architecting-security-for-agentic.html"
+    },
     "4cdd3b56eec01fea1fa2d3cd957fa26bc08e70d808c9cf116e672bf4b3f356ae": {
       "processed_at": "2026-08-10T09:07:59.360048Z",
       "published_at": "2026-08-07T05:26:31Z",
@@ -11279,6 +11379,16 @@
       "source_id": "arxiv-crypto",
       "title": "Hydrozoan: Latency-Adaptive DAG Consensus under Mixed Byzantine and Crash Faults",
       "url": "https://arxiv.org/abs/2609.25918v1"
+    },
+    "4ddc56fdf0cb06164e0cb8c78e22d9cc1a77163f8d760c9746dc263971a14d7e": {
+      "processed_at": "2026-09-28T16:15:55.271731Z",
+      "published_at": "2025-08-12T16:00:00Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Android’s pKVM Becomes First Globally Certified Software to Achieve Prestigious SESIP Level 5 Security Certification",
+      "url": "http://security.googleblog.com/2025/08/Android-pKVM-Certified-SESIP-Level-5.html"
     },
     "4def5419cf65d30533ffd4dd19e437a44de4acde782f9bb69d2bfe78bf095771": {
       "processed_at": "2026-09-02T12:24:06.863051Z",
@@ -11830,6 +11940,16 @@
       "title": "Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity",
       "url": "https://arxiv.org/abs/2606.18541v1"
     },
+    "5183abce8cefc3a2435fcd16c0e25d01803ade74893647d0e0b3e219d8cacaff": {
+      "processed_at": "2026-09-28T16:15:55.271507Z",
+      "published_at": "2026-09-28T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+      "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline"
+    },
     "518c31c30a13aa05886eaf6bf398302af9f4b613170990b566c747eb8d44c0f0": {
       "processed_at": "2026-08-19T08:25:16.713186Z",
       "published_at": "2026-08-18T09:19:22Z",
@@ -11999,6 +12119,16 @@
       "source_id": "arxiv-crypto",
       "title": "Meme Coin Factories: Uncovering Large-Scale Manipulations on pump.fun",
       "url": "https://arxiv.org/abs/2609.10246v1"
+    },
+    "52a605c3246de15a3e9d8dfa62dcf67de65ea9d3651d2b1508bc26e7646a65a0": {
+      "processed_at": "2026-09-28T16:15:55.271598Z",
+      "published_at": "2025-12-10T20:00:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "HTTPS certificate industry phasing out less secure domain validation methods",
+      "url": "http://security.googleblog.com/2025/12/https-certificate-industry-phasing-out.html"
     },
     "52a9d6ff8360e30f6de08d244051d366a9600e624bd4920218e54bdbdb3c9467": {
       "processed_at": "2026-09-01T01:07:22.589179Z",
@@ -14609,6 +14739,26 @@
       "source_id": "arxiv-crypto",
       "title": "Are You Still the Agent I Authorized? Earned Authority under a Fixed Ceiling for Evolving Agents",
       "url": "https://arxiv.org/abs/2607.23586v1"
+    },
+    "64ba1b1f0f2e05f6cbc55481c5a13aa4bd5512862534418ce23db0db2de28170": {
+      "processed_at": "2026-09-28T16:15:55.271644Z",
+      "published_at": "2025-11-20T17:00:00Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Android Quick Share Support for AirDrop: A Secure Approach to Cross-Platform File Sharing",
+      "url": "http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html"
+    },
+    "64cfc6f97aae44261a09329cc347bddc1592c2b7df11076fbed9f1d5b3d107da": {
+      "processed_at": "2026-09-28T16:15:55.271720Z",
+      "published_at": "2025-09-10T15:59:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "How Pixel and Android are bringing a new level of trust to your images with C2PA Content Credentials",
+      "url": "http://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html"
     },
     "64e71528a26db2eff7e7be5e979bb4137fce8c5ac9ff214b10f1521f594a83a6": {
       "processed_at": "2026-09-16T00:03:35.798502Z",
@@ -20270,6 +20420,16 @@
       "title": "Weak Keys Break the BUFF Security of HAWK",
       "url": "https://eprint.iacr.org/2026/1298"
     },
+    "8be16eb043af5441be5ad55a4e177295ee53ac3f586620b2503de8127f641653": {
+      "processed_at": "2026-09-28T16:15:55.271479Z",
+      "published_at": "2026-09-28T14:43:05Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+      "url": "https://blog.cloudflare.com/how-fast-is-the-web"
+    },
     "8be5dbdb65099fbb276f76b395ed709cc0dcc57fb2c23f4c64b6b0975602f896": {
       "processed_at": "2026-08-24T08:37:00.979649Z",
       "published_at": "2026-08-21T02:16:39Z",
@@ -21980,6 +22140,16 @@
       "title": "Highly Efficient Consistent Broadcast Encryption",
       "url": "https://eprint.iacr.org/2026/1428"
     },
+    "97819e308995203f7de8a2ecc95e0e825e4c7195a109303fdeabb9839ebd67a6": {
+      "processed_at": "2026-09-28T16:15:55.271695Z",
+      "published_at": "2025-09-24T18:42:00Z",
+      "score": 2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Accelerating adoption of AI for cybersecurity at DEF CON 33",
+      "url": "http://security.googleblog.com/2025/09/accelerating-adoption-of-ai-for.html"
+    },
     "979cd896c1b1bb7164abca3847110a809682381dc4816246bd7b7a8d168bdd00": {
       "processed_at": "2026-08-13T09:03:40.105053Z",
       "published_at": "2026-08-11T22:14:57Z",
@@ -22439,6 +22609,16 @@
       "source_id": "iacr-eprint",
       "title": "Recursive Common Information for Group-Characterizable Random Variables",
       "url": "https://eprint.iacr.org/2026/1644"
+    },
+    "9ad5040b646b9544fc30547f862c6109212a8d72fdbc38b64d5ecb4489e05f04": {
+      "processed_at": "2026-09-28T16:15:55.271672Z",
+      "published_at": "2025-10-30T16:59:00Z",
+      "score": 2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "How Android provides the most effective protection to keep you safe from mobile scams",
+      "url": "http://security.googleblog.com/2025/10/how-android-protects-you-from-scams.html"
     },
     "9aec4da7c994361fffec133c4faf9398264da166af48e519406b5380b73b313c": {
       "processed_at": "2026-08-05T10:25:49.843515Z",
@@ -24090,6 +24270,16 @@
       "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
       "url": "https://arxiv.org/abs/2608.16824v2"
     },
+    "a635c9a73c402f6cc0dfcae1e5fd115850daade2e78db2c179182c2b5dc07a5f": {
+      "processed_at": "2026-09-28T16:15:55.271372Z",
+      "published_at": "2026-09-28T15:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations"
+    },
     "a63b630a68bdc574fdc5e56dc1188ddf3c698c57e1ac689d05c4dc9a002b507d": {
       "processed_at": "2026-07-08T10:08:21.464738Z",
       "published_at": "2026-07-08T00:21:00Z",
@@ -25670,6 +25860,16 @@
       "title": "Atom: Single-Server Private Information Retrieval with Low Communication and Fast Computation",
       "url": "https://eprint.iacr.org/2026/1813"
     },
+    "b12d4946bafc88caff224eb090ba504afabe02fad7d92e99e13736a809603ea8": {
+      "processed_at": "2026-09-28T16:15:55.271633Z",
+      "published_at": "2025-12-03T16:59:00Z",
+      "score": 2,
+      "sent_to_notion": false,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Android expands pilot for in-call scam protection for financial apps",
+      "url": "http://security.googleblog.com/2025/12/android-expands-pilot-in-call-scam-protection-financial-apps.html"
+    },
     "b1496b59114ddc86e562a5e29c2f1252320f18a59b4397c23da28f35a4602a82": {
       "processed_at": "2026-06-30T10:49:24.831574Z",
       "published_at": "2026-06-28T19:14:16Z",
@@ -27049,6 +27249,16 @@
       "source_id": "arxiv-crypto",
       "title": "Injected and Leaked: Actively Inducing Side-Channel Leakage Using Electromagnetic Injection and Hardware Nonlinearity",
       "url": "https://arxiv.org/abs/2609.04785v1"
+    },
+    "ba7fc2be240fc582b555814b6f87db88d487b4afe99b54ce139b120be79a9ad3": {
+      "processed_at": "2026-09-28T16:15:55.271655Z",
+      "published_at": "2025-11-13T16:59:00Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "google-security-blog",
+      "title": "Rust in Android: move fast and fix things",
+      "url": "http://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html"
     },
     "ba8a2c0c854a6406530ec1a3ae33406fbc192b06ed91b294f65474589361f55e": {
       "processed_at": "2026-08-12T22:46:02.165912Z",
@@ -30210,6 +30420,16 @@
       "title": "RAD: Rule-Augmented Relational Anomaly Detection",
       "url": "https://arxiv.org/abs/2608.23468v1"
     },
+    "cf7b8f4b33dad616e728a78ee7bf5f6b9490279e786235aefce6cabc745bdaf7": {
+      "processed_at": "2026-09-28T16:15:55.271520Z",
+      "published_at": "2026-09-28T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "The road to the agentic browser: A Kitesurf update",
+      "url": "https://blog.cloudflare.com/kitesurf-update"
+    },
     "cf7c9604208234baee5245c26a25353e0f738995ec5ded1e45213feede146172": {
       "processed_at": "2026-06-30T10:49:24.831495Z",
       "published_at": "2026-06-29T08:38:48Z",
@@ -31279,6 +31499,16 @@
       "source_id": "iacr-eprint",
       "title": "LiftWHIR: A Prover-Efficient Polynomial Commitment with Short Proofs",
       "url": "https://eprint.iacr.org/2026/1561"
+    },
+    "d6ecd5d77d559673fbd756c1df54c4f16dd3db130749a3d708e0df203c95f026": {
+      "processed_at": "2026-09-28T16:15:55.271573Z",
+      "published_at": "2026-09-28T08:09:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起 (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260029.html"
     },
     "d702fa3bef9ffcc284e896e0583a2ac03380b6c3539eb4777ff3b4dee5138ec2": {
       "processed_at": "2026-09-24T13:02:04.766158Z",
@@ -34809,6 +35039,16 @@
       "source_id": "arxiv-crypto",
       "title": "Delphi Scanner: efficient and interpretable static malware detection via API sequence modeling",
       "url": "https://arxiv.org/abs/2609.19900v1"
+    },
+    "f0c184c35a7936a305f9ed0000fbef63fee52c1f098d210e781a6edd71c4a355": {
+      "processed_at": "2026-09-28T16:15:55.271549Z",
+      "published_at": "2026-09-28T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "cloudflare-blog",
+      "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+      "url": "https://blog.cloudflare.com/emdash-cms-plugin-registry"
     },
     "f0cb6dbf3548b34eba50ab1bef213e9a6d44271cedaaea5ebcc2340af6d2844e": {
       "processed_at": "2026-08-23T22:26:28.211348Z",
