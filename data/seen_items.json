@@ -4530,6 +4530,16 @@
       "title": "Practical Anonymous Two-Party Gradient Boosting Decision Tree",
       "url": "https://arxiv.org/abs/2605.26903v2"
     },
+    "20fdbf9564f45fbe0b84cb1c55dad16d351719599c6dbdb86b3904c868e79bb1": {
+      "processed_at": "2026-09-28T00:25:42.016006Z",
+      "published_at": "2026-09-09T16:00:49Z",
+      "score": 4,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "Construction of Multi-sequences With High Nonlinear Complexity via Narrow Ray Class Fields",
+      "url": "https://arxiv.org/abs/2609.10369v4"
+    },
     "2109ad6fe8723433ed87cde04fed70387e3e5bf02d91b047048ba0b2a5ebadd7": {
       "processed_at": "2026-06-18T23:48:45.742906Z",
       "published_at": "2026-06-18T17:59:40Z",
@@ -6100,6 +6110,16 @@
       "title": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment",
       "url": "https://arxiv.org/abs/2609.02786v1"
     },
+    "2b9fe2b9c509db3381b3eabb17569e2b2f0c36a1849bdb099301bf4383d922a1": {
+      "processed_at": "2026-09-28T00:25:42.016019Z",
+      "published_at": "2026-09-07T11:27:24Z",
+      "score": 4,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "arxiv-crypto",
+      "title": "Scanning the Harness: A Repository Study of Configuration Exposures in AI Coding Agents",
+      "url": "https://arxiv.org/abs/2609.07360v2"
+    },
     "2ba2cc676a4ce7400d0480a43d2c26f9b59a7d6c210be7eba7175dd3edbaf0f5": {
       "processed_at": "2026-07-13T10:50:50.528743Z",
       "published_at": "2026-07-10T00:28:34Z",
@@ -6919,6 +6939,16 @@
       "source_id": "arxiv-crypto",
       "title": "Know Thy Neighbor: Cross-TEE Mutual Attestation",
       "url": "https://arxiv.org/abs/2607.00695v1"
+    },
+    "2ffa158149bb8ee3f0eb5de6ecb7bd7d64acf68c021f41c54c3b5141bc5d8b36": {
+      "processed_at": "2026-09-28T00:25:42.015960Z",
+      "published_at": "2026-09-27T17:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare’s 2026 Annual Founders’ Letter",
+      "url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter"
     },
     "2ffb362b42a47baa5047e92286a305face0bfff77e59b530a1effd3632a7dfbf": {
       "processed_at": "2026-06-24T10:41:50.825105Z",
