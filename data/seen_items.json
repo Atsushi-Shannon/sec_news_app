@@ -9770,6 +9770,16 @@
       "title": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
       "url": "https://arxiv.org/abs/2606.26627v1"
     },
+    "41465614da7c2953f720340b8b70eb7a6f5bda7e3c6127df27f767b56f276d9d": {
+      "processed_at": "2026-09-30T01:09:48.175099Z",
+      "published_at": "2026-09-29T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "​​Beyond source code: A path to the keys to the kingdom",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom"
+    },
     "414f8e0702a44cd89a5565c3bd45a91abd80d638e30e7ed1cdcf4a40925b39c0": {
       "processed_at": "2026-07-16T09:58:06.612480Z",
       "published_at": "2026-07-09T21:19:25Z",
@@ -13040,6 +13050,16 @@
       "title": "Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?",
       "url": "https://arxiv.org/abs/2607.17986v1"
     },
+    "56664ee97236234f45ba715343efca92b57b317c6138c60b6b649c0cc7024974": {
+      "processed_at": "2026-09-30T01:09:48.175052Z",
+      "published_at": "2026-09-29T21:39:27Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Phishing Abuses RMM Tools for Persistent Access",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access"
+    },
     "5668e3e368b16171926150446a026d11aa8b13b01a46001b5368195f81ca12a7": {
       "processed_at": "2026-07-24T23:04:45.546313Z",
       "published_at": "2026-07-22T11:52:43Z",
@@ -14509,6 +14529,16 @@
       "source_id": "arxiv-crypto",
       "title": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
       "url": "https://arxiv.org/abs/2608.21230v1"
+    },
+    "5fc57da61c60cc21a46ed722b75fb4d7682207871e383b7df53ea54b727b8d1c": {
+      "processed_at": "2026-09-30T01:09:48.175116Z",
+      "published_at": "2026-09-29T15:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique"
     },
     "5fe4a23d54a54b4ca56170c581af3bbad3cd3140b76ed1b97feb801cad683874": {
       "processed_at": "2026-09-01T01:07:22.589079Z",
