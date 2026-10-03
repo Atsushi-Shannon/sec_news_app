@@ -2570,6 +2570,16 @@
       "title": "QuantumScouter: Reinforcement Learning-Based Optimization of Variational Quantum Circuits for Differential Cryptanalysis",
       "url": "https://eprint.iacr.org/2026/1456"
     },
+    "10be1a4124a54fde11ff3700e488f65a8226cb31274f38cc10783c0f7d5ee6da": {
+      "processed_at": "2026-10-03T01:00:05.155261Z",
+      "published_at": "2026-10-02T16:13:45Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+      "url": "https://blog.cloudflare.com/streamline"
+    },
     "10d1bb9e28c2591fedd058ee42dedaaee8e8761d87bb6d22bd54b084951a10e6": {
       "processed_at": "2026-09-27T13:24:52.941212Z",
       "published_at": "2026-09-25T06:12:08Z",
