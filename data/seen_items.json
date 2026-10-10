@@ -28760,6 +28760,16 @@
       "title": "VeriChat: An Agentic Conversational AI Assistant for Hardware Security Verification",
       "url": "https://arxiv.org/abs/2607.01668v1"
     },
+    "a9fa2529647852b48be7f3b9d1a371bbd479f0215f352e4369bd15ecc213f358": {
+      "processed_at": "2026-10-10T01:34:42.311830Z",
+      "published_at": "2026-10-09T18:27:34Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+      "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal"
+    },
     "a9fa29b353b3dc0de2c166ea7952805ac3e88b2566b75ef3d7cbee0f1fee1ca5": {
       "processed_at": "2026-08-03T11:13:23.459827Z",
       "published_at": "2026-07-31T10:02:35Z",
