@@ -20210,6 +20210,16 @@
       "title": "Lattice-based NIKE with optimal tightness",
       "url": "https://eprint.iacr.org/2026/1845"
     },
+    "76988ba317bc82cbe835e43fff3b2c25a3a605a8c2c9934db536cc17f0108dca": {
+      "processed_at": "2026-10-12T01:05:45.642511Z",
+      "published_at": "2025-06-13T16:03:00Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "google-security-blog",
+      "title": "Mitigating prompt injection attacks with a layered defense strategy",
+      "url": "http://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html"
+    },
     "76a08b51855f9aca6d190bf7606b7700a546c25903d567837da99886fa06ac2f": {
       "processed_at": "2026-08-06T10:28:52.639329Z",
       "published_at": "2026-08-04T12:20:09Z",
@@ -36740,6 +36750,16 @@
       "title": "Improved Garbled RAM via Garbled Merge",
       "url": "https://eprint.iacr.org/2026/761"
     },
+    "d8661b4a960428bf0cac957ae816a11491a19d48ad4e86055421de6b8fb4ff8a": {
+      "processed_at": "2026-10-12T01:05:45.642500Z",
+      "published_at": "2025-07-08T17:36:00Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "google-security-blog",
+      "title": "Advancing Protection in Chrome on Android",
+      "url": "http://security.googleblog.com/2025/07/advancing-protection-in-chrome-on.html"
+    },
     "d87800c7b6e4c5f84dda0b2386f6cc9c1022a6aa3b45099089be47f27493b7f8": {
       "processed_at": "2026-08-18T08:24:32.370457Z",
       "published_at": "2026-08-17T12:42:46Z",
@@ -42569,6 +42589,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: 複数のMozilla製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html"
+    },
+    "fcab2c1d288626f9bb71539db69d0bd4bb1478931ea19c95b99d2835c534beb6": {
+      "processed_at": "2026-10-12T01:05:45.642466Z",
+      "published_at": "2025-07-21T21:34:00Z",
+      "score": 6,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "google-security-blog",
+      "title": "Introducing OSS Rebuild: Open Source, Rebuilt to Last",
+      "url": "http://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html"
     },
     "fcb32a3edf694143f021b3bbe4d63e26ef5dac182e6e8384fc9a75414b2816c1": {
       "processed_at": "2026-07-14T09:47:39.424500Z",
