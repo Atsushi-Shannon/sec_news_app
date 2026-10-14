@@ -12430,6 +12430,16 @@
       "title": "Noise-limited secret key agreement with twin optical physically unclonable functions",
       "url": "https://arxiv.org/abs/2607.04936v1"
     },
+    "4768959a354a65e8adf34bf31b177c0fd76300e0f5ca6c0c7c888522d15b67f7": {
+      "processed_at": "2026-10-14T00:59:23.027350Z",
+      "published_at": "2026-10-13T15:51:41Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Rewinding the exponential: How we keep hardware usage down",
+      "url": "https://blog.cloudflare.com/rewinding-the-exponential"
+    },
     "476ecde25e7dedde13334767bc5c93babd754cea4f8bb20d38511c18aeaff9af": {
       "processed_at": "2026-09-30T14:25:53.998292Z",
       "published_at": "2026-09-29T15:28:31Z",
@@ -37459,6 +37469,16 @@
       "source_id": "arxiv-crypto",
       "title": "One Click to Leak: Characterizing the Real-World Usage and Threat Impact of MNO-based Single Sign-On Websites",
       "url": "https://arxiv.org/abs/2609.12037v2"
+    },
+    "da6302049ee8c71482795da5de05e45ef702d792ca03b4ac2512d9d4b63fdce7": {
+      "processed_at": "2026-10-14T00:59:23.027304Z",
+      "published_at": "2026-10-13T16:20:18Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+      "url": "https://blog.cloudflare.com/d1-control-plane"
     },
     "da6c0800e29268462db4c59e349527891939db9966956b64552a9c864eefde45": {
       "processed_at": "2026-08-12T22:46:02.165955Z",
