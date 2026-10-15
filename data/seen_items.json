@@ -32600,6 +32600,16 @@
       "title": "Federated Bayesian Surveillance of Mechanical Thrombectomy Adverse Events: A Population Risk Layer for Surgical Digital Twins",
       "url": "https://arxiv.org/abs/2610.08464v1"
     },
+    "bd489d1569502a569bc043947797725ea161619dc532412355f6a6aef814d4fe": {
+      "processed_at": "2026-10-15T00:21:12.576219Z",
+      "published_at": "2026-10-14T20:24:19Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+      "url": "https://blog.cloudflare.com/yandex-outage"
+    },
     "bd5af5997dc4bf8fee742492982ab0be2615dc8f6f1aaf20c1740d3203112783": {
       "processed_at": "2026-10-08T15:04:00.560146Z",
       "published_at": "2026-10-03T17:53:29Z",
@@ -39629,6 +39639,16 @@
       "source_id": "iacr-eprint",
       "title": "Bit Operation Cost of ``Holdout'' Key-Recovery Attacks Against Classic McEliece",
       "url": "https://eprint.iacr.org/2026/1786"
+    },
+    "e4aab67a7364b138ed6ca91e5e2d68d7776529145d1283b9ad9bc7a70a04f041": {
+      "processed_at": "2026-10-15T00:21:12.576260Z",
+      "published_at": "2026-10-14T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime"
     },
     "e4b64da4e5fce261a7914f6bf79f0c4fe29877b36746b6446d3a05d0f6bd3d78": {
       "processed_at": "2026-07-08T10:08:21.464781Z",
