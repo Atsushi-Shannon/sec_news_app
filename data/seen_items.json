@@ -22160,6 +22160,16 @@
       "title": "Agent Skills Matter: Inferring Proprietary Skills from Execution Trajectories",
       "url": "https://arxiv.org/abs/2607.25560v2"
     },
+    "7ddc522178bb864c439cc416e9ce1cec5e6b0fe06321772a234e99670ec35dae": {
+      "processed_at": "2026-10-16T00:09:23.592532Z",
+      "published_at": "2026-10-15T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
+      "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web"
+    },
     "7de89d372a790a11b40d06e0f52cc599addfeec357e66aeaea375f0c7f724cc9": {
       "processed_at": "2026-09-09T12:35:12.464717Z",
       "published_at": "2026-09-08T14:01:22Z",
@@ -30419,6 +30429,16 @@
       "source_id": "arxiv-crypto",
       "title": "A Cyber Range Evaluation of Autonomous Network Incident Response Agents",
       "url": "https://arxiv.org/abs/2609.16541v1"
+    },
+    "adc5e5e6982b8b2d10ed70a161834735c441de4e51eeaeac4c5726215624852e": {
+      "processed_at": "2026-10-16T00:09:23.592479Z",
+      "published_at": "2026-10-15T14:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Deploy with Void",
+      "url": "https://blog.cloudflare.com/deploy-with-void"
     },
     "adc82c7867f7edbe8bbcd3765137f517893339a046ca2d06a70dd1d684bb8f20": {
       "processed_at": "2026-10-15T12:57:56.248917Z",
@@ -39479,6 +39499,16 @@
       "source_id": "arxiv-crypto",
       "title": "Onions in the ATmosphere: Decentralizing Trust in Identity",
       "url": "https://arxiv.org/abs/2610.12764v1"
+    },
+    "e04ad677ee621eda940530f0148b8d3f949660efde88242d9b86f9bce3c972ba": {
+      "processed_at": "2026-10-16T00:09:23.592438Z",
+      "published_at": "2026-10-15T17:11:12Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "A fully programmable secure web gateway",
+      "url": "https://blog.cloudflare.com/programmable-gateway-dlp"
     },
     "e05cc89c6dab044ebcea554b668c57e161ffb231bb835ace03da180898498e08": {
       "processed_at": "2026-07-29T10:33:04.732605Z",
