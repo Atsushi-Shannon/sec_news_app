@@ -9390,6 +9390,16 @@
       "title": "Digital White Spaces: A Cyberpsychology-Informed Framework to Mobile Phone Addiction",
       "url": "https://arxiv.org/abs/2606.08472v4"
     },
+    "348edc48c23ca13d47b33b56c5584e66ae7c62869daa831a586398fdeb6110a3": {
+      "processed_at": "2026-10-17T00:13:05.499570Z",
+      "published_at": "2026-10-16T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Continuous accountability for Verified bots",
+      "url": "https://blog.cloudflare.com/verified-bots-accountability"
+    },
     "3498acccd2c1c2bf4cf0f20983258a374bc22a6d6e421011c3a6d00c9e9021ec": {
       "processed_at": "2026-09-10T12:30:22.712074Z",
       "published_at": "2026-09-09T14:43:56Z",
@@ -40769,6 +40779,16 @@
       "source_id": "arxiv-crypto",
       "title": "RMCW: A Deletion-Robust Watermark Based on Reed--Muller Codes for Language Models",
       "url": "https://arxiv.org/abs/2610.02817v1"
+    },
+    "e6d8ef677abec56522de4686e282b024d57ff072860008e6621de8e34fb725af": {
+      "processed_at": "2026-10-17T00:13:05.499526Z",
+      "published_at": "2026-10-16T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments"
     },
     "e6e65b5c9bc27de6448a76c816dced01032125bda7f67068bdfc012b240af001": {
       "processed_at": "2026-09-07T13:48:30.772374Z",
