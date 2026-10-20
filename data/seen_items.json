@@ -6740,6 +6740,16 @@
       "title": "OptChain: Achieving Optimal Throughput of Permissionless Blockchains",
       "url": "https://arxiv.org/abs/2606.23405v1"
     },
+    "27452a26eeb6c8ce486bbf95a8efa0169f58a403f3ac1a79697e130997cc61ca": {
+      "processed_at": "2026-10-20T00:58:14.574285Z",
+      "published_at": "2026-10-19T17:48:26Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing Clairic, a new System One class of extraction models",
+      "url": "https://blog.cloudflare.com/clairic-extraction-model"
+    },
     "274d22615a154802db7e28321148f13e14527e78a2c01c8f724cddb86c33c6f9": {
       "processed_at": "2026-08-28T06:02:03.415286Z",
       "published_at": "2026-08-26T11:25:04Z",
@@ -17339,6 +17349,16 @@
       "source_id": "microsoft-security-blog",
       "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique"
+    },
+    "5fc8af78a2c3c91812efe744e60b51bd68c93fec63a6c912d1c910959f8f4a97": {
+      "processed_at": "2026-10-20T00:58:14.574227Z",
+      "published_at": "2026-10-19T19:12:53Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization"
     },
     "5fe4a23d54a54b4ca56170c581af3bbad3cd3140b76ed1b97feb801cad683874": {
       "processed_at": "2026-09-01T01:07:22.589079Z",
