@@ -35640,6 +35640,16 @@
       "title": "RainHash2.0: Hardware- and Arithmetization-friendly Hash Function",
       "url": "https://eprint.iacr.org/2026/1441"
     },
+    "c8b54e41660ceca773084eb5b74e3bd302e8f279b23b385a1c899c238374cbc2": {
+      "processed_at": "2026-10-20T13:08:45.801125Z",
+      "published_at": "2026-10-20T13:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing tsrs: a Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port"
+    },
     "c8bfc4dcfb15c7c0eb55ec9e08dfb3da6854b1d172b58cf06da77ddd720618a5": {
       "processed_at": "2026-07-01T23:20:20.299489Z",
       "published_at": "2026-05-28T21:04:21Z",
