@@ -9730,6 +9730,16 @@
       "title": "NeuroGraph: An AI Graph-Driven Neuro-Symbolic Framework for Explainable Threat Reasoning in Advanced Manufacturing",
       "url": "https://arxiv.org/abs/2609.00604v2"
     },
+    "3478fb0b7b46d05e5fb492f41f8dea8933ea5a876179806d4b7c625557b67e3d": {
+      "processed_at": "2026-10-22T00:30:16.395694Z",
+      "published_at": "2026-10-21T15:00:00Z",
+      "score": 8,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "trail-of-bits-blog",
+      "title": "Your AI agent fixed the bug, but what else did it change?",
+      "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change"
+    },
     "348153c2d62d554c375e81c0b899604233e1f8526817f3de85cd77e28b1d56de": {
       "processed_at": "2026-09-21T14:42:06.712066Z",
       "published_at": "2026-09-13T19:16:44Z",
@@ -26730,6 +26740,16 @@
       "title": "Elliptic Extraction and Pushable Hints for Higher-Dimensional SQIsign",
       "url": "https://eprint.iacr.org/2026/1337"
     },
+    "9220fe93e70a1d37ec91f428edbb44a384a5f7f44edb53bc74887123e114523e": {
+      "processed_at": "2026-10-22T00:30:16.395729Z",
+      "published_at": "2026-10-21T14:10:42Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Introducing full transaction detection for Cloudflare WAF",
+      "url": "https://blog.cloudflare.com/full-transaction-waf"
+    },
     "9248971059c954b7b5637dafb9c2e4a86d9ae9835d767cb3cca70ce7bd6b18d7": {
       "processed_at": "2026-09-23T13:08:14.741133Z",
       "published_at": "2026-09-22T08:48:08Z",
@@ -27859,6 +27879,16 @@
       "source_id": "iacr-eprint",
       "title": "`ANSA-IBKEM`: Practical Quantum-Safe Identity-Based Key Encapsulation via Annular NTRU Trapdoors and Standardized PQC Arithmetic Reuse",
       "url": "https://eprint.iacr.org/2026/1449"
+    },
+    "98fd637283f50b03d1ba89daaa4b307a92a800f73802d7025e5d2dff583d0db3": {
+      "processed_at": "2026-10-22T00:30:16.395740Z",
+      "published_at": "2026-10-21T13:56:45Z",
+      "score": 9,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection"
     },
     "98ff6c7bffe9e0c0417b8277cf5b486682097160ae0902d84fe90c6a223b3549": {
       "processed_at": "2026-07-23T10:12:14.724440Z",
