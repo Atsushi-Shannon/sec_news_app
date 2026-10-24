@@ -1440,6 +1440,16 @@
       "title": "Compiling Sparse Keys for Bootstrapping FHEs: Algorithms, Hardware Acceleration, and Beyond",
       "url": "https://eprint.iacr.org/2026/1783"
     },
+    "07f90789066434adeb7ee8f0e8af752cc2b3984cd090e737521e28d596d3144a": {
+      "processed_at": "2026-10-24T00:23:21.139094Z",
+      "published_at": "2026-10-23T18:12:19Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks"
+    },
     "07faa59652369173f9795b80b89ea4f10b8a2307a70da8487b57c68d2953ff1f": {
       "processed_at": "2026-09-16T12:57:11.411405Z",
       "published_at": "2026-09-16T00:06:00Z",
@@ -40170,6 +40180,16 @@
       "title": "Weekly Report: OpenSSLに複数の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html"
     },
+    "d8bea58faf3b8a9e12d01ae755094e4f020bc52b1a1cb76d663457b160500382": {
+      "processed_at": "2026-10-24T00:23:21.139049Z",
+      "published_at": "2026-10-23T18:22:59Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Origin Range Requests: Serving large files without range-request tuning",
+      "url": "https://blog.cloudflare.com/origin-range-requests"
+    },
     "d8cafa255fe3ff954d0b330e0493f29919876816fe2a6dabea6b94edbb039c33": {
       "processed_at": "2026-08-13T09:03:40.105163Z",
       "published_at": "2026-08-10T23:10:53Z",
@@ -44879,6 +44899,16 @@
       "source_id": "iacr-eprint",
       "title": "Pilaf: Fully Tight Two-Round Threshold Signatures with Adaptive Corruptions",
       "url": "https://eprint.iacr.org/2026/1762"
+    },
+    "f2bac5f0e2cc0b0cccdab89a739b2c0790cdb6f31370231c16aa292139999b5a": {
+      "processed_at": "2026-10-24T00:23:21.139111Z",
+      "published_at": "2026-10-23T18:06:56Z",
+      "score": 13,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Bringing post-quantum cryptography to geographically fenced key management",
+      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager"
     },
     "f2caedfb5f0cb61cfba31b939c9ecf7a679b1245abf282e1f6756f72fc158079": {
       "processed_at": "2026-07-02T23:12:42.116534Z",
