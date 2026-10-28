@@ -260,6 +260,16 @@
       "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware"
     },
+    "0184777a53d9e89340c6e7b94655c31a187d23015312edff645ce22bce256f3d": {
+      "processed_at": "2026-10-28T01:02:57.684573Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
+    },
     "018918457598d183baf0b7d465b08f2295212bf163f9acbcdb0f8acd14bbe2bb": {
       "processed_at": "2026-06-24T23:09:00.727036Z",
       "published_at": "2026-06-22T20:05:16Z",
@@ -8370,6 +8380,16 @@
       "title": "​​Better security starts with better questions",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions"
     },
+    "2c51803b1614c5e82ea53a9b2e6cd861a8cf44df999f622ea3bd7df6650cd0e6": {
+      "processed_at": "2026-10-28T01:02:57.684668Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: JPCERT/CCが2026年7月から9月分の「JPCERT/CC 四半期レポート」を公開",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
+    },
     "2c5e27cbc8c3dc096c30256e2ee708ae392d9562107c3cd5eed55c5f5eb2d97c": {
       "processed_at": "2026-07-16T09:58:06.612005Z",
       "published_at": "2026-07-16T01:36:21Z",
@@ -10750,6 +10770,16 @@
       "title": "Approval Integrity and Recovery in LLM Answer Publication",
       "url": "https://arxiv.org/abs/2609.15576v1"
     },
+    "389fd0257687044179e7fa067270a8d0f4b33ef3b490b461c4ddcf224d4515da": {
+      "processed_at": "2026-10-28T01:02:57.684518Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
+    },
     "38afe5c16601c730591f09e1272c6452d25fec29666b0f898bbb9c116eeddd65": {
       "processed_at": "2026-07-01T11:17:56.312985Z",
       "published_at": "2026-06-30T09:35:28Z",
@@ -12289,6 +12319,16 @@
       "source_id": "arxiv-crypto",
       "title": "DataShield: Uncovering Risky Fine-Tuning Data Across LLMs Through Consensus Subspace Alignment",
       "url": "https://arxiv.org/abs/2607.15081v1"
+    },
+    "40c35eff046e83256c3e5f8f9a14831afa9a6d14802e7b0beaebd57c50b52b7d": {
+      "processed_at": "2026-10-28T01:02:57.684559Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
     },
     "40c9523b0f016a60bf6f8602fc6e859115b83681f579a8f7da68a72483110926": {
       "processed_at": "2026-06-26T23:12:10.483331Z",
@@ -17540,6 +17580,16 @@
       "title": "Quantum Circuit Optimization with LLMs under a Structured Guideline",
       "url": "https://eprint.iacr.org/2026/1446"
     },
+    "5b1c04972cf12fd9a5958e6efcec6b2c29d18fcae27bf2d8bb9a24b57e903149": {
+      "processed_at": "2026-10-28T01:02:57.684614Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: MOVEit Transferに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
+    },
     "5b204292233a33bbb0e602702b1e2ca11fdb4e535a3e1458abe8c068384eec15": {
       "processed_at": "2026-07-31T10:29:20.196263Z",
       "published_at": "2026-07-30T12:54:25Z",
@@ -20560,6 +20610,16 @@
       "title": "Language Is a Security Surface for Agent Guards",
       "url": "https://arxiv.org/abs/2610.22244v1"
     },
+    "6b6979e6d2197ed1ef625ebb6ad80b54e818e02b33a17ea3586d34459dac9803": {
+      "processed_at": "2026-10-28T01:02:57.684587Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: LaravelのTokenGuardに認証回避につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
+    },
     "6b7b2579613728c13f68bc885d99fbd10434e1f844c162d8e7ee8493471cb9dc": {
       "processed_at": "2026-10-23T12:58:02.473025Z",
       "published_at": "2026-10-22T14:41:36Z",
@@ -22739,6 +22799,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: 制御システムセキュリティカンファレンス2027講演募集",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html"
+    },
+    "76e38eeea093fbf265fd85d15f1d4885e4ef4233cd7450ba447627a618fed91a": {
+      "processed_at": "2026-10-28T01:02:57.684503Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: 複数のCisco製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
     },
     "76e773d532714a8b8977741b46568bee18c6a18b995f38745afa4990ae608a5b": {
       "processed_at": "2026-09-04T23:49:32.725273Z",
@@ -32030,6 +32100,16 @@
       "title": "Do System Prompts Leave Behavioral Fingerprints? A Large-Scale Empirical Study of Clone Detection via Output Similarity",
       "url": "https://arxiv.org/abs/2608.24461v1"
     },
+    "a934ff1c682e5e362da4191a72adf63b2a1066f282830ddea20c1becbd1ababe": {
+      "processed_at": "2026-10-28T01:02:57.684642Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
+    },
     "a967666cdd6040f4cbc0cc6b4f0058a90b99e45043b2f3e3d9118c4ce2c7eea8": {
       "processed_at": "2026-09-02T12:24:06.862877Z",
       "published_at": "2026-09-01T14:43:23Z",
@@ -33940,6 +34020,16 @@
       "title": "MTD-Playground: An Attacker-Aware Evaluation Framework for Network Moving Target Defense",
       "url": "https://arxiv.org/abs/2607.12199v1"
     },
+    "b36baf7cbddd476e329870318d3d9ed17684f0d4d6ca5e0ba812a3ef2ff324cc": {
+      "processed_at": "2026-10-28T01:02:57.684486Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: ISC BINDに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
+    },
     "b36d71ec44692884d89499c3cd753ac3ea9fdce70c379f0003e5c8c57db911a8": {
       "processed_at": "2026-07-16T09:58:06.612194Z",
       "published_at": "2026-07-15T13:25:00Z",
@@ -34269,6 +34359,16 @@
       "source_id": "microsoft-security-blog",
       "title": "​​​​​​What’s new in Microsoft Security: August 2026",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026"
+    },
+    "b530831ef7d69cce8cfed758442c989c67b2b386473af59b6bbe5be174c9d6fa": {
+      "processed_at": "2026-10-28T01:02:57.684628Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: 複数のOracle製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
     },
     "b5328d7d52740937b8962479624292687e276a31057988166121e93a5ec299a4": {
       "processed_at": "2026-09-01T12:53:45.427702Z",
@@ -36849,6 +36949,16 @@
       "source_id": "iacr-eprint",
       "title": "Doubly-Efficient Secret-Key PIR with Low Storage Overhead",
       "url": "https://eprint.iacr.org/2026/1480"
+    },
+    "c2938e033b7e8a320dcb5cc6ed86abcae028eeaf08c02c55da794e0b3465f49b": {
+      "processed_at": "2026-10-28T01:02:57.684532Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: Apache Tomcatに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
     },
     "c29430e347ce3d5eefcbfd92477d25b84eb640931d22f6f13db76126c8c04032": {
       "processed_at": "2026-06-20T23:13:05.652629Z",
@@ -43860,6 +43970,16 @@
       "title": "Machine-Checked Soundness of the GKR Protocol for Sparse-Merkle Updates",
       "url": "https://arxiv.org/abs/2610.05335v2"
     },
+    "e657e942a736abcdd1407766360a488629a0bd0c36aa8897946752bc44ddcbfb": {
+      "processed_at": "2026-10-28T01:02:57.684445Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: VeloCloud OrchestratorにSQLインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
+    },
     "e66b1155e614ec0f45a2f7fc26f8d8aafa82ace828f663aaf7599380f4a3f31b": {
       "processed_at": "2026-09-17T12:53:40.544179Z",
       "published_at": "2026-09-16T17:39:26Z",
@@ -44039,6 +44159,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: 複数のElastic製品に脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html"
+    },
+    "e773732dd6b70098205600b6da1c048f33326cfac9bdef9e2fb9e6f063ff0531": {
+      "processed_at": "2026-10-28T01:02:57.684655Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: JPCERT/CCが2026年7月から2026年9月分の「ソフトウェア等の脆弱性関連情報に関する届出状況」を公開",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
     },
     "e78ba8c049ff8ff3e5446960e9b5c95f05ce766d3ba2443494a60e82fdfa70fa": {
       "processed_at": "2026-10-21T13:19:41.298125Z",
@@ -45309,6 +45439,16 @@
       "source_id": "arxiv-crypto",
       "title": "ADVERSARIAL: And-Inverter Graph-Assisted Hardware Trojan Detection At Scale",
       "url": "https://arxiv.org/abs/2607.23882v1"
+    },
+    "ee76be6cb41a66999a362ad20c8037e73ac39d8f41627a552b883d52ec59a0b1": {
+      "processed_at": "2026-10-28T01:02:57.684546Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
     },
     "ee8ec6cd4962debfa5bc4918f2ed5dd49afdf60c21578bd0c1249b5cc881a901": {
       "processed_at": "2026-08-10T09:07:59.359880Z",
@@ -48359,6 +48499,16 @@
       "source_id": "jpcert-cc",
       "title": "Weekly Report: Red Hat Ansible Automation Platformに権限チェックの欠如の脆弱性",
       "url": "https://www.jpcert.or.jp/wr/2026/wr260701.html"
+    },
+    "ff6cdda6724509f10035ccc578573d448d4c1ea792850d168761a50a34789bdf": {
+      "processed_at": "2026-10-28T01:02:57.684601Z",
+      "published_at": "2026-10-28T00:07:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": false,
+      "source_id": "jpcert-cc",
+      "title": "Weekly Report: Roundcube Webmailに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html"
     },
     "ff73695935d7d5b8d413036923d53146315cd0b488f72f3182f8d1909b73b7c9": {
       "processed_at": "2026-06-23T23:11:27.126836Z",
