@@ -38560,6 +38560,16 @@
       "title": "HarnessSafe: Evaluating Safety Across Persistent Carriers in Agent Harnesses",
       "url": "https://arxiv.org/abs/2608.06984v1"
     },
+    "c9787c53289f96ccd309ba9e49ed666c633ee181b55526d60766241d2320fb65": {
+      "processed_at": "2026-10-29T14:46:36.099404Z",
+      "published_at": "2026-10-29T12:55:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3"
+    },
     "c97baec792fd9193ab2b604a07bc043eca834bd24ce872a7531d3679fc5a1366": {
       "processed_at": "2026-08-19T08:25:16.713064Z",
       "published_at": "2026-08-18T16:04:54Z",
