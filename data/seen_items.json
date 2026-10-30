@@ -11790,6 +11790,16 @@
       "title": "Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation Blockchain",
       "url": "https://arxiv.org/abs/2609.32015v1"
     },
+    "3deda4b4a192db5ad6805ba35915b80e837c3937dff889fa500d7ca40dc0072f": {
+      "processed_at": "2026-10-30T01:44:10.355479Z",
+      "published_at": "2026-10-29T16:00:00Z",
+      "score": 7,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft"
+    },
     "3e00f1f4523f76201cf2710ee82f8b808642bf265441c68b9672a1a50160b36a": {
       "processed_at": "2026-07-29T10:33:04.732755Z",
       "published_at": "2026-07-28T04:41:13Z",
@@ -26589,6 +26599,16 @@
       "source_id": "arxiv-crypto",
       "title": "MazeRunner: Nonlinear Task and Clue Orchestration for LLM-driven Black-Box Automated Penetration Testing",
       "url": "https://arxiv.org/abs/2608.14216v1"
+    },
+    "8a3823694af10f48babbddce0e637658c1456458db9dfde2d722c2a364a610ee": {
+      "processed_at": "2026-10-30T01:44:10.355524Z",
+      "published_at": "2026-10-29T16:00:00Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment"
     },
     "8a60f6cb08159a71a791ea6e23f7ff5460f320c2d607d6109616ca3e161095ec": {
       "processed_at": "2026-10-27T13:46:20.158107Z",
