@@ -8540,6 +8540,16 @@
       "title": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery"
     },
+    "2c754ab258347b9cad5a4f76c456e13b166d55713819527d5d43760c045bf7a2": {
+      "processed_at": "2026-10-31T01:27:20.866144Z",
+      "published_at": "2026-10-30T16:11:44Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "microsoft-security-blog",
+      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths"
+    },
     "2c7d095eeebe4ac93906aa09e55fd857522ea5a748c0fcdf7a43e9b03bf732db": {
       "processed_at": "2026-08-06T10:28:52.639166Z",
       "published_at": "2026-08-05T06:55:54Z",
@@ -45009,6 +45019,16 @@
       "source_id": "arxiv-crypto",
       "title": "Security-Enhanced Seed-Based Weight Quantization for Large Language Models",
       "url": "https://arxiv.org/abs/2609.38477v1"
+    },
+    "e7d20d85abaa4b90c957495555bfd43f4a6e8bc2c807bb84c851b4b5fd6508f3": {
+      "processed_at": "2026-10-31T01:27:20.866101Z",
+      "published_at": "2026-10-30T17:38:50Z",
+      "score": 3,
+      "sent_to_notion": true,
+      "sent_to_slack": true,
+      "source_id": "cloudflare-blog",
+      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+      "url": "https://blog.cloudflare.com/emudhra-patching"
     },
     "e7e206077d4c7c09d07affbd660d1ede6202e42d2bc4c931412addcaada6f130": {
       "processed_at": "2026-10-05T16:37:10.965793Z",
